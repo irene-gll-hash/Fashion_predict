@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.idea/
+.gigaide/
+project_tree.txt
+data/raw/*
+data/processed/*
+data/media/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/media/.gitkeep
