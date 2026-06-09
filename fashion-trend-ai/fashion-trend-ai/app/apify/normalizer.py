@@ -9,15 +9,12 @@ def normalize_apify_post(raw: dict[str, Any]) -> InstagramPost:
     в наш внутренний формат InstagramPost.
     """
     image_urls = extract_image_urls(raw)
-    video_urls = extract_video_urls(raw)
     return InstagramPost(
-        source="instagram",
         post_url=raw["url"],
         source_username=raw.get("ownerUsername"),
         caption=raw.get("caption"),
         published_at=raw.get("timestamp"),
         image_urls=image_urls,
-        video_urls=video_urls,
         likes_count=raw.get("likesCount"),
         comments_count=raw.get("commentsCount"),
         raw_id=raw.get("shortCode"),
@@ -32,7 +29,12 @@ def normalize_apify_posts(raw_posts: list[dict[str, Any]]) -> list[InstagramPost
 
 def extract_image_urls(raw: dict[str, Any]) -> list[HttpUrl]:
     """
-    Достаёт все изображения и обложки из Instagram-поста.
+    Достаёт все изображения из Instagram-поста.
+    Правило:
+    1. Берём displayUrl из childPosts.
+    2. Берём значения из images.
+    3. Берём displayUrl основного поста.
+    4. Убираем дубли, сохраняя порядок.
     """
     urls: list[str] = []
     child_posts = raw.get("childPosts") or []
@@ -50,42 +52,6 @@ def extract_image_urls(raw: dict[str, Any]) -> list[HttpUrl]:
     if display_url:
         urls.append(display_url)
     return _deduplicate_urls(urls)
-
-def extract_video_urls(raw: dict[str, Any]) -> list[HttpUrl]:
-    """
-    Достаёт все видео из Instagram-поста.
-    """
-    urls: list[str] = []
-    child_posts = raw.get("childPosts") or []
-    for child in child_posts:
-        if not isinstance(child, dict):
-            continue
-        urls.extend(_extract_video_urls_from_item(child))
-    urls.extend(_extract_video_urls_from_item(raw))
-    return _deduplicate_urls(urls)
-
-def _extract_video_urls_from_item(item: dict[str, Any]) -> list[str]:
-    """
-    Обрабатывает возможные поля видео в одном объекте Apify.
-    """
-    urls: list[str] = []
-    for key in ("videoUrl", "video_url", "video", "videoPlayUrl"):
-        value = item.get(key)
-        if isinstance(value, str) and value:
-            urls.append(value)
-    videos = item.get("videos") or []
-    if isinstance(videos, list):
-        for video in videos:
-            if isinstance(video, str):
-                urls.append(video)
-                continue
-            if isinstance(video, dict):
-                for key in ("url", "videoUrl", "src"):
-                    value = video.get(key)
-                    if value:
-                        urls.append(value)
-                        break
-    return urls
 
 def _extract_urls_from_images_field(images: Any) -> list[str]:
     """
@@ -106,7 +72,7 @@ def _extract_urls_from_images_field(images: Any) -> list[str]:
                     break
     return urls
 
-def _deduplicate_urls(urls: list[str]) -> list[str]:
+def _deduplicate_urls(urls: list[str]) -> list[HttpUrl]:
     """
     Убирает дубли ссылок.
     """
