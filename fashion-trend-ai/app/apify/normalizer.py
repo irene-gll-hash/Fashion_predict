@@ -1,13 +1,13 @@
 from __future__ import annotations
 from typing import Any
 from pydantic import HttpUrl
-from app.apify.schemas import InstagramPost
+from app.apify.schemas import NormalizedPost
 
-def normalize_apify_post(raw: dict[str, Any]) -> InstagramPost:
+def normalize_apify_post(raw: dict[str, Any]) -> NormalizedPost:
     """
     Преобразует один сырой Instagram-пост из Apify в нашу внутреннюю модель.
     """
-    return InstagramPost(
+    return NormalizedPost(
         source="instagram",
         post_url=raw["url"],
         source_username=raw.get("ownerUsername"),
@@ -21,7 +21,7 @@ def normalize_apify_post(raw: dict[str, Any]) -> InstagramPost:
         raw_type=raw.get("type"),
     )
 
-def normalize_apify_posts(raw_posts: list[dict[str, Any]]) -> list[InstagramPost]:
+def normalize_apify_posts(raw_posts: list[dict[str, Any]]) -> list[NormalizedPost]:
     """
     Преобразует список сырых Apify-постов в список InstagramPost.
     """
