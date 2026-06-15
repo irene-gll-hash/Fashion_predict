@@ -23,3 +23,7 @@ data/media/
 *.mov
 .idea/
 .gigaide/
+fashion-trend-ai/external/GroundingDINO/
+fashion-trend-ai/external/
+fashion-trend-ai/data/processed/
+fashion-trend-ai/tests/llm_report.md
