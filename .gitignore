@@ -2,28 +2,45 @@
 .idea/
 .gigaide/
 
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Environment variables
+.env
+*.env
+
 # Project temporary files
 project_tree.txt
 
+# External models / repositories / weights
+fashion-trend-ai/external/
+
 # Local data
-data/processed/runs/
-data/media/runs/
-data/raw/mock_apify_posts.json
-venv/
-__pycache__/
-*.pyc
-.env
-data/processed/
-data/media/
+fashion-trend-ai/data/processed/
+fashion-trend-ai/data/media/
+fashion-trend-ai/data/raw/mock_apify_posts.json
+
+# Generated / temporary tests
+fashion-trend-ai/tests/
+
+# Test artifacts
+fashion-trend-ai/test_grounding_dino_result.jpg
+fashion-trend-ai/test_grounding_dino_detections.json
+
+# Media / model weights
 *.jpg
 *.jpeg
 *.png
+*.webp
 *.mp4
 *.avi
 *.mov
-.idea/
-.gigaide/
-fashion-trend-ai/external/GroundingDINO/
-fashion-trend-ai/external/
-fashion-trend-ai/data/processed/
-fashion-trend-ai/tests/llm_report.md
+*.pth
+*.pt
+*.safetensors
