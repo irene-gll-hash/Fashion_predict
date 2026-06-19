@@ -1,16 +1,56 @@
 {
-  "base_categories": {
-    "garments": ["top", "shirt", "blouse", "dress", "skirt", "trousers", "jeans", "shorts", "jacket", "blazer", "coat"],
-    "shoes": ["sneakers", "loafers", "flats", "sandals", "heels", "boots"],
-    "bags": ["handbag", "shoulder bag", "tote bag", "clutch", "backpack"],
-    "accessories": ["sunglasses", "belt", "scarf", "hat", "jewelry"]
-  },
-  "attributes": {
-    "silhouette": ["oversized", "fitted", "wide leg", "cropped", "longline", "boxy", "flowy"],
-    "length": ["mini", "midi", "maxi", "cropped", "full length"],
-    "material": ["denim", "linen", "lace", "leather", "suede", "silk", "knit", "sheer", "metallic"],
-    "details": ["ruffles", "fringe", "pleats", "cutouts", "buttons", "pockets", "embroidery", "stripes"],
-    "colors": ["black", "white", "beige", "brown", "red", "blue", "yellow", "green", "pink", "silver", "gold"]
-  },
-  "style_signals": ["minimalist", "officecore", "boho", "resort wear", "evening wear", "streetwear", "romantic", "utility", "tailoring"]
+  "categories": [
+    "dress",
+    "skirt",
+    "pants",
+    "jeans",
+    "shorts",
+    "top",
+    "t-shirt",
+    "shirt",
+    "blouse",
+    "sweater",
+    "cardigan",
+    "jacket",
+    "blazer",
+    "coat",
+    "vest",
+    "jumpsuit",
+    "bodysuit",
+    "swimsuit",
+    "bikini",
+    "swimwear",
+
+    "shoes",
+    "sandals",
+    "flip-flops",
+    "slides",
+    "clogs",
+    "sneakers",
+    "boots",
+    "loafers",
+    "flats",
+    "heels",
+    "pumps",
+    "mules",
+    "wedges",
+
+    "handbag",
+    "shoulder bag",
+    "tote bag",
+    "clutch",
+    "crossbody bag",
+    "backpack",
+    "pouch",
+
+    "sunglasses",
+    "belt",
+    "hat",
+    "cap",
+    "scarf",
+    "necklace",
+    "earrings",
+    "bracelet",
+    "watch"
+  ]
 }

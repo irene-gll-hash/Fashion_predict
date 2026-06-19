@@ -1,46 +1,64 @@
 # IDE
 .idea/
 .gigaide/
+.vscode/
 
-# Virtual environments
+# Python environment
 .venv/
 venv/
+env/
+ENV/
 
 # Python cache
 __pycache__/
 **/__pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Environment variables
+# uv / Python project
+# pyproject.toml, uv.lock and .python-version SHOULD be committed
+.uv-cache/
+
+# Environment variables / secrets
 .env
 *.env
+!.env.example
 
-# Project temporary files
+# Local logs / temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
 project_tree.txt
 
-# External models / repositories / weights
+# External repositories, model code, model weights
 fashion-trend-ai/external/
 
-# Local data
+# Processed pipeline outputs
 fashion-trend-ai/data/processed/
 fashion-trend-ai/data/media/
+
+# Raw temporary/mock data
 fashion-trend-ai/data/raw/mock_apify_posts.json
 
-# Generated / temporary tests
-fashion-trend-ai/tests/
-
-# Test artifacts
-fashion-trend-ai/test_grounding_dino_result.jpg
-fashion-trend-ai/test_grounding_dino_detections.json
-
-# Media / model weights
+# Large media files
 *.jpg
 *.jpeg
 *.png
 *.webp
+*.gif
 *.mp4
 *.avi
 *.mov
+*.mkv
+
+# Model weights
 *.pth
 *.pt
+*.ckpt
 *.safetensors
+*.onnx
+
+# Optional local test folder
+fashion-trend-ai/tests/

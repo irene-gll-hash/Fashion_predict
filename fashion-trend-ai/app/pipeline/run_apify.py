@@ -1,35 +1,43 @@
 from __future__ import annotations
+import argparse
 from datetime import date
 from pathlib import Path
 from app.apify.client import ApifyInstagramClient
 from app.apify.normalizer import normalize_apify_posts
 from app.media.downloader import download_post_images
-from app.storage.json_storage import save_models_json, save_raw_json
 from app.media.video_processor import process_post_videos
+from app.storage.json_storage import save_models_json, save_raw_json
 
-def read_source_urls(path: str = "data/raw/source_urls.txt") -> list[str]:
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+def read_source_urls(path: Path) -> list[str]:
     return [
         line.strip()
-        for line in Path(path).read_text(encoding="utf-8").splitlines()
+        for line in path.read_text(encoding="utf-8").splitlines()
         if line.strip() and not line.strip().startswith("#")
     ]
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--limit", type=int, default=5, help="Posts per Instagram source URL")
+    args = parser.parse_args()
     run_date = date.today().isoformat()
-    run_dir = f"data/processed/runs/{run_date}"
-    source_urls = read_source_urls()
+    run_dir = PROJECT_ROOT / "data" / "processed" / "runs" / run_date
+    source_urls_path = PROJECT_ROOT / "data" / "raw" / "source_urls.txt"
+    source_urls = read_source_urls(source_urls_path)
+    source_urls = list(dict.fromkeys(source_urls))
     client = ApifyInstagramClient()
-    raw_posts = client.get_posts_by_urls(source_urls, limit=3)
+    raw_posts = client.get_posts_by_urls(source_urls, limit=args.limit)
+    save_raw_json(raw_posts, str(run_dir / "raw_apify_posts.json"))
     posts = normalize_apify_posts(raw_posts)
     for post in posts:
-        post.local_image_paths = download_post_images(post, run_dir)
-        post.local_frame_paths = process_post_videos(post, run_dir)
+        post.local_image_paths = download_post_images(post, str(run_dir))
+        post.local_frame_paths = process_post_videos(post, str(run_dir))
         print(f"Downloaded images: {post.source_username} images={len(post.local_image_paths)}")
-
-    save_raw_json(raw_posts, f"{run_dir}/raw_apify_posts.json")
-    save_models_json(posts, f"{run_dir}/normalized_posts.json")
+    save_models_json(posts, str(run_dir / "normalized_posts.json"))
     print(f"Run date: {run_date}")
     print(f"Sources: {len(source_urls)}")
+    print(f"Posts per source limit: {args.limit}")
     print(f"Raw posts: {len(raw_posts)}")
     print(f"Normalized posts: {len(posts)}")
     print(f"Saved to: {run_dir}")

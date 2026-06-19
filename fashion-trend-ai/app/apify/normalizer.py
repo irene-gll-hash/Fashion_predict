@@ -2,6 +2,7 @@ from __future__ import annotations
 from typing import Any
 from pydantic import HttpUrl
 from app.apify.schemas import NormalizedPost
+from urllib.parse import urlparse
 
 def normalize_apify_post(raw: dict[str, Any]) -> NormalizedPost:
     """
@@ -10,7 +11,7 @@ def normalize_apify_post(raw: dict[str, Any]) -> NormalizedPost:
     return NormalizedPost(
         source="instagram",
         post_url=raw["url"],
-        source_username=raw.get("ownerUsername"),
+        source_username=get_source_username(raw),
         caption=raw.get("caption"),
         published_at=raw.get("timestamp"),
         image_urls=extract_image_urls(raw),
@@ -116,3 +117,18 @@ def _deduplicate_urls(urls: list[str]) -> list[str]:
         seen.add(url)
         unique_urls.append(url)
     return unique_urls
+
+
+def get_source_username(raw_post: dict) -> str:
+    username = (
+        raw_post.get("ownerUsername")
+        or raw_post.get("username")
+        or raw_post.get("ownerFullName")
+    )
+    if username:
+        return str(username)
+    input_url = raw_post.get("inputUrl") or raw_post.get("url") or ""
+    path_parts = [part for part in urlparse(input_url).path.split("/") if part]
+    if path_parts:
+        return path_parts[-1]
+    return "unknown"
