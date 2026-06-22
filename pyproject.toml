@@ -6,6 +6,7 @@ dependencies = [
     "addict>=2.4.0",
     "apify-client>=3.0.3",
     "gigachat>=0.2.1",
+    "google-cloud-storage>=3.12.0",
     "google-genai>=2.9.0",
     "numpy>=2.4.6",
     "pillow>=12.2.0",

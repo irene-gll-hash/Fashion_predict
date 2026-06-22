@@ -18,7 +18,7 @@ def get_latest_run_dir() -> Path:
     return sorted(run_dirs)[-1]
 
 def load_fashion_results(run_dir: Path) -> list[dict]:
-    path = run_dir / "fashion_clip_results.json"
+    path = run_dir / "fashion_attributes.json"
     if not path.exists():
         raise FileNotFoundError(f"FashionCLIP results file not found: {path}")
     with path.open("r", encoding="utf-8") as f:

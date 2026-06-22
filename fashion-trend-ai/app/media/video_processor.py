@@ -22,41 +22,66 @@ def download_video(video_url: str, output_path: Path) -> Path:
     output_path.write_bytes(response.content)
     return output_path
 
-def extract_frames(video_path: Path, frames_dir: Path, every_seconds: int = 5, max_frames: int = 15) -> list[str]:
+def extract_frames(
+    video_path: Path,
+    frames_dir: Path,
+    every_seconds: int = 5,
+    max_frames: int = 10,
+) -> list[str]:
     frames_dir.mkdir(parents=True, exist_ok=True)
     video = cv2.VideoCapture(str(video_path))
     if not video.isOpened():
         raise RuntimeError(f"Cannot open video: {video_path}")
-    fps = video.get(cv2.CAP_PROP_FPS)
-    if not fps or fps <= 0:
-        fps = 25
-    frame_step = int(fps * every_seconds)
-    saved_frames = []
-    frame_number = 0
-    saved_count = 0
-    while saved_count < max_frames:
-        success, frame = video.read()
-        if not success:
-            break
-        if frame_number % frame_step == 0:
-            frame_path = frames_dir / make_frame_filename(video_path, saved_count)
-            cv2.imwrite(str(frame_path), frame)
-            saved_frames.append(str(frame_path))
-            saved_count += 1
-        frame_number += 1
-    video.release()
-    return saved_frames
+    try:
+        fps = video.get(cv2.CAP_PROP_FPS)
+        if not fps or fps <= 0:
+            fps = 25
+        frame_step = max(1, int(fps * every_seconds))
+        saved_frames: list[str] = []
+        frame_number = 0
+        saved_count = 0
+        while saved_count < max_frames:
+            success, frame = video.read()
+            if not success:
+                break
+            if frame_number % frame_step == 0:
+                frame_path = frames_dir / make_frame_filename(video_path, saved_count)
+                encoded_success, encoded_image = cv2.imencode(".jpg", frame)
+                if not encoded_success:
+                    raise RuntimeError(f"Failed to encode frame: {frame_path}")
+                frame_path.write_bytes(encoded_image.tobytes())
+                if not frame_path.exists():
+                    raise RuntimeError(f"Failed to save frame: {frame_path}")
+                saved_frames.append(str(frame_path))
+                saved_count += 1
+            frame_number += 1
+        return saved_frames
+    finally:
+        video.release()
 
-def process_post_videos(post, run_dir: str, keep_video: bool = False) -> list[str]:
-    frame_paths = []
+def process_post_videos(
+    post,
+    run_dir: str,
+    keep_video: bool = False,
+    every_seconds: int = 5,
+    max_frames: int = 5,
+) -> list[str]:
+    frame_paths: list[str] = []
     videos_dir = Path(run_dir) / "media" / "videos_temp"
     frames_dir = Path(run_dir) / "media" / "frames"
     for index, video_url in enumerate(post.video_urls):
         filename = make_video_filename(post.post_url, video_url, index)
         video_path = videos_dir / filename
         downloaded_video = download_video(video_url, video_path)
-        frames = extract_frames(downloaded_video, frames_dir)
-        frame_paths.extend(frames)
-        if not keep_video and downloaded_video.exists():
-            downloaded_video.unlink()
+        try:
+            frames = extract_frames(
+                downloaded_video,
+                frames_dir,
+                every_seconds=every_seconds,
+                max_frames=max_frames,
+            )
+            frame_paths.extend(frames)
+        finally:
+            if not keep_video and downloaded_video.exists():
+                downloaded_video.unlink()
     return frame_paths
