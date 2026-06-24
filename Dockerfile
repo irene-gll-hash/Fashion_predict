@@ -1,5 +1,13 @@
 FROM python:3.11-slim
 WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libglib2.0-0 \
+    libgl1 \
+    libxcb1 \
+    libx11-6 \
+    && rm -rf /var/lib/apt/lists/*
+
 RUN pip install --no-cache-dir uv
 COPY pyproject.toml uv.lock .python-version ./
 RUN uv sync --frozen --no-dev
