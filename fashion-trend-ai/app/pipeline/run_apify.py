@@ -8,7 +8,7 @@ from app.media.downloader import download_post_images
 from app.media.video_processor import process_post_videos
 from app.storage.json_storage import save_models_json, save_raw_json
 import os
-from app.storage.gcs_storage import upload_directory_to_gcs
+from app.storage.gcs_storage import upload_run_dir_if_enabled
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 def read_source_urls(path: Path) -> list[str]:
@@ -69,16 +69,7 @@ def main() -> None:
         print(f"frames={len(post.local_frame_paths)}")
     
 
-    bucket_name = os.getenv("GCS_BUCKET")
-    if bucket_name:
-        gcs_prefix = f"runs/{run_date}"
-        print(f"Uploading run directory to gs://{bucket_name}/{gcs_prefix}")
-        upload_directory_to_gcs(
-            local_dir=run_dir,
-            bucket_name=bucket_name,
-            gcs_prefix=gcs_prefix,
-        )
-        print("Upload finished.")
+    upload_run_dir_if_enabled(run_dir)
 
 if __name__ == "__main__":
     main()

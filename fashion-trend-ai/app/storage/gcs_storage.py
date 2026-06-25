@@ -1,4 +1,5 @@
 from __future__ import annotations
+import os
 from pathlib import Path
 from google.cloud import storage
 
@@ -14,3 +15,16 @@ def upload_directory_to_gcs(local_dir: Path, bucket_name: str, gcs_prefix: str) 
         blob_name = f"{gcs_prefix.rstrip('/')}/{relative_path}"
         blob = bucket.blob(blob_name)
         blob.upload_from_filename(str(local_path))
+
+def upload_run_dir_if_enabled(run_dir: Path) -> None:
+    bucket_name = os.getenv("GCS_BUCKET")
+    if not bucket_name:
+        return
+    gcs_prefix = f"runs/{run_dir.name}"
+    print(f"Uploading run directory to gs://{bucket_name}/{gcs_prefix}")
+    upload_directory_to_gcs(
+        local_dir=run_dir,
+        bucket_name=bucket_name,
+        gcs_prefix=gcs_prefix,
+    )
+    print("Upload finished.")

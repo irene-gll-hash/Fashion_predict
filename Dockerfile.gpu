@@ -1,0 +1,34 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    build-essential \
+    ffmpeg \
+    wget \
+    libglib2.0-0 \
+    libgl1 \
+    libxkbcommon0 \
+    libx11-6 \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install --no-cache-dir uv
+
+COPY pyproject.toml uv.lock .python-version ./
+RUN uv sync --frozen --no-dev
+
+COPY fashion-trend-ai ./fashion-trend-ai
+
+RUN rm -rf /app/fashion-trend-ai/external/GroundingDINO && \
+    mkdir -p /app/fashion-trend-ai/external && \
+    git clone https://github.com/IDEA-Research/GroundingDINO.git /app/fashion-trend-ai/external/GroundingDINO && \
+    mkdir -p /app/fashion-trend-ai/external/GroundingDINO/weights && \
+    wget -O /app/fashion-trend-ai/external/GroundingDINO/weights/groundingdino_swint_ogc.pth \
+    https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
+
+WORKDIR /app/fashion-trend-ai
+
+ENV PYTHONPATH=/app/fashion-trend-ai:/app/fashion-trend-ai/external/GroundingDINO
+
+CMD ["uv", "run", "python", "-m", "app.gpu_service.server"]

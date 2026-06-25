@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any
 from dotenv import load_dotenv
 from app.ai.gemini_client import GeminiFashionClient
+from app.storage.gcs_storage import upload_run_dir_if_enabled
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
@@ -133,6 +134,7 @@ def main() -> None:
             result = {**item, "gemini": {"model": model, "attributes": None, "error": error}}
             results_by_crop[crop_key] = result
             save_json(list(results_by_crop.values()), output_path)
+            upload_run_dir_if_enabled(run_dir)
             errors_now += 1
             print(f"[{index}/{len(crop_items)}] Missing crop: {crop_path}")
             continue
@@ -147,6 +149,7 @@ def main() -> None:
         result = {**item, "gemini": {"model": model, "attributes": attributes, "error": error}}
         results_by_crop[crop_key] = result
         save_json(list(results_by_crop.values()), output_path)
+        upload_run_dir_if_enabled(run_dir)
         processed_now += 1
     final_results = list(results_by_crop.values())
     total_errors = sum(1 for item in final_results if (item.get("gemini") or {}).get("error"))

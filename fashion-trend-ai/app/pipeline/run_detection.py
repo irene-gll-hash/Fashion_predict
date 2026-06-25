@@ -1,38 +1,18 @@
 from __future__ import annotations
-
 import argparse
+import base64
 import json
+import os
 from pathlib import Path
+from typing import Any
 
-import torch
-from PIL import Image
-from torchvision.ops import box_convert, nms
-from groundingdino.util.inference import load_image, load_model, predict
+import requests
+from dotenv import load_dotenv
 
-from app.taxonomy.fashion_taxonomy import FashionTaxonomy
+from app.storage.gcs_storage import upload_run_dir_if_enabled
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-CONFIG_PATH = PROJECT_ROOT / "external" / "GroundingDINO" / "groundingdino" / "config" / "GroundingDINO_SwinT_OGC.py"
-WEIGHTS_PATH = PROJECT_ROOT / "external" / "GroundingDINO" / "weights" / "groundingdino_swint_ogc.pth"
-IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 
-def apply_label_nms(
-    boxes_xyxy: torch.Tensor,
-    scores: torch.Tensor,
-    labels: list[str],
-    iou_threshold: float,
-) -> list[int]:
-    keep_indices: list[int] = []
-    for label in set(labels):
-        label_indices = [i for i, item in enumerate(labels) if item == label]
-        label_indices_tensor = torch.tensor(label_indices, dtype=torch.long)
-        kept_local_indices = nms(
-            boxes_xyxy[label_indices_tensor],
-            scores[label_indices_tensor],
-            iou_threshold,
-        )
-        keep_indices.extend(label_indices_tensor[kept_local_indices].tolist())
-    return sorted(keep_indices, key=lambda i: float(scores[i]), reverse=True)
 
 def get_latest_run_dir() -> Path:
     runs_dir = PROJECT_ROOT / "data" / "processed" / "runs"
@@ -41,83 +21,91 @@ def get_latest_run_dir() -> Path:
         raise FileNotFoundError(f"No run directories found in {runs_dir}")
     return sorted(run_dirs)[-1]
 
-def collect_images(run_dir: Path) -> list[tuple[Path, str]]:
-    media_dir = run_dir / "media"
-    image_dirs = [
-        (media_dir / "images", "image"),
-        (media_dir / "frames", "video_frame"),
-    ]
-    result: list[tuple[Path, str]] = []
-    for folder, media_type in image_dirs:
-        if not folder.exists():
-            continue
-        for path in sorted(folder.rglob("*")):
-            if path.suffix.lower() in IMAGE_EXTENSIONS:
-                result.append((path, media_type))
-    return result
 
-def detect_image(
-    model,
-    image_path: Path,
-    media_type: str,
-    device: str,
-    text_prompt: str,
-    box_threshold: float,
-    text_threshold: float,
-    nms_iou_threshold: float,
-) -> dict:
-    _, image = load_image(str(image_path))
-    boxes, logits, phrases = predict(
-        model=model,
-        image=image,
-        caption=text_prompt,
-        box_threshold=box_threshold,
-        text_threshold=text_threshold,
-        device=device,
+def load_json(path: Path) -> Any:
+    with path.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_json(data: Any, path: Path) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def collect_media_items(normalized_posts: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    items: list[dict[str, Any]] = []
+
+    for post_index, post in enumerate(normalized_posts, start=1):
+        post_url = post.get("post_url")
+        source_username = post.get("source_username")
+        raw_type = post.get("raw_type")
+
+        for image_index, image_path in enumerate(post.get("local_image_paths") or [], start=1):
+            items.append(
+                {
+                    "image_id": f"post_{post_index:04d}_image_{image_index:03d}",
+                    "image_path": image_path,
+                    "media_type": "image",
+                    "post_url": post_url,
+                    "source_username": source_username,
+                    "raw_type": raw_type,
+                }
+            )
+
+        for frame_index, frame_path in enumerate(post.get("local_frame_paths") or [], start=1):
+            items.append(
+                {
+                    "image_id": f"post_{post_index:04d}_frame_{frame_index:03d}",
+                    "image_path": frame_path,
+                    "media_type": "frame",
+                    "post_url": post_url,
+                    "source_username": source_username,
+                    "raw_type": raw_type,
+                }
+            )
+
+    return items
+
+
+def encode_image_base64(path: Path) -> str:
+    return base64.b64encode(path.read_bytes()).decode("utf-8")
+
+
+def call_gpu_detection(gpu_service_url: str, image_path: Path) -> dict[str, Any]:
+    payload = {"image": encode_image_base64(image_path)}
+    response = requests.post(
+        f"{gpu_service_url.rstrip('/')}/detect",
+        json=payload,
+        timeout=600,
     )
-    with Image.open(image_path) as img:
-        width, height = img.size
+    response.raise_for_status()
+    return response.json()
 
-    if len(boxes) == 0:
-        return {
-            "image_id": image_path.stem,
-            "image_path": image_path.relative_to(PROJECT_ROOT).as_posix(),
-            "media_type": media_type,
-            "width": width,
-            "height": height,
-            "detections": [],
-        }
 
-    boxes_xyxy = box_convert(boxes=boxes, in_fmt="cxcywh", out_fmt="xyxy")
-    boxes_xyxy = boxes_xyxy * torch.tensor([width, height, width, height])
-    keep_indices = apply_label_nms(
-        boxes_xyxy=boxes_xyxy,
-        scores=logits,
-        labels=phrases,
-        iou_threshold=nms_iou_threshold,
-    )
-    boxes_xyxy = boxes_xyxy[keep_indices]
-    logits = logits[keep_indices]
-    phrases = [phrases[i] for i in keep_indices]
+def normalize_detection_result(raw_result: dict[str, Any]) -> list[dict[str, Any]]:
+    boxes = raw_result.get("boxes") or []
+    scores = raw_result.get("scores") or []
+    phrases = raw_result.get("phrases") or []
 
-    detections = []
-    for phrase, score, box in zip(phrases, logits.tolist(), boxes_xyxy.tolist()):
+    detections: list[dict[str, Any]] = []
+    for box, score, phrase in zip(boxes, scores, phrases):
         detections.append(
             {
                 "label": phrase,
-                "score": round(float(score), 4),
-                "box_xyxy": [round(float(value), 2) for value in box],
+                "score": float(score),
+                "box_xyxy": box,
             }
         )
+    return detections
 
-    return {
-        "image_id": image_path.stem,
-        "image_path": image_path.relative_to(PROJECT_ROOT).as_posix(),
-        "media_type": media_type,
-        "width": width,
-        "height": height,
-        "detections": detections,
-    }
+
+def get_image_size(image_path: Path) -> tuple[int, int]:
+    from PIL import Image
+
+    with Image.open(image_path) as image:
+        return image.size
+
 
 def main() -> None:
     parser = argparse.ArgumentParser()
@@ -128,58 +116,71 @@ def main() -> None:
     parser.add_argument("--nms-iou-threshold", type=float, default=0.5)
     args = parser.parse_args()
 
-    taxonomy = FashionTaxonomy.load()
-    text_prompt = taxonomy.get_dino_prompt()
+    load_dotenv(PROJECT_ROOT / ".env")
 
-    if args.run_date:
-        run_dir = PROJECT_ROOT / "data" / "processed" / "runs" / args.run_date
-    else:
-        run_dir = get_latest_run_dir()
+    gpu_service_url = os.getenv("GPU_SERVICE_URL")
+    if not gpu_service_url:
+        raise ValueError("GPU_SERVICE_URL is not set")
 
+    run_dir = PROJECT_ROOT / "data" / "processed" / "runs" / args.run_date if args.run_date else get_latest_run_dir()
     if not run_dir.exists():
         raise FileNotFoundError(f"Run directory not found: {run_dir}")
 
-    image_paths = collect_images(run_dir)
+    normalized_posts_path = run_dir / "normalized_posts.json"
+    if not normalized_posts_path.exists():
+        raise FileNotFoundError(f"Normalized posts file not found: {normalized_posts_path}")
+
+    normalized_posts = load_json(normalized_posts_path)
+    if not isinstance(normalized_posts, list):
+        raise ValueError(f"Normalized posts file must contain a list: {normalized_posts_path}")
+
+    media_items = collect_media_items(normalized_posts)
     if args.limit:
-        image_paths = image_paths[: args.limit]
-    if not image_paths:
-        raise FileNotFoundError(f"No images or frames found in {run_dir / 'media'}")
+        media_items = media_items[: args.limit]
 
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    print(f"Device: {device}")
+    if not media_items:
+        raise ValueError(f"No media items found in {normalized_posts_path}")
+
+    results: list[dict[str, Any]] = []
+
     print(f"Run dir: {run_dir}")
-    print(f"Images: {len(image_paths)}")
-    print(f"Categories: {len(taxonomy.get_categories())}")
-    print(f"Box threshold: {args.box_threshold}")
-    print(f"Text threshold: {args.text_threshold}")
-    print(f"NMS IOU threshold: {args.nms_iou_threshold}")
+    print(f"Gpu service url: {gpu_service_url}")
+    print(f"Media items: {len(media_items)}")
 
-    model = load_model(str(CONFIG_PATH), str(WEIGHTS_PATH), device=device)
-    results = []
+    for index, item in enumerate(media_items, start=1):
+        image_path = PROJECT_ROOT / item["image_path"]
+        if not image_path.exists():
+            print(f"[{index}/{len(media_items)}] Missing image: {image_path}")
+            continue
 
-    for index, (image_path, media_type) in enumerate(image_paths, start=1):
-        print(f"[{index}/{len(image_paths)}] {image_path.name}")
-        result = detect_image(
-            model=model,
+        print(f"[{index}/{len(media_items)}] Detect: {image_path.name}")
+
+        width, height = get_image_size(image_path)
+        raw_result = call_gpu_detection(
+            gpu_service_url=gpu_service_url,
             image_path=image_path,
-            media_type=media_type,
-            device=device,
-            text_prompt=text_prompt,
-            box_threshold=args.box_threshold,
-            text_threshold=args.text_threshold,
-            nms_iou_threshold=args.nms_iou_threshold,
         )
-        results.append(result)
+
+        detections = normalize_detection_result(raw_result)
+
+        results.append(
+            {
+                **item,
+                "width": width,
+                "height": height,
+                "detections": detections,
+            }
+        )
 
     output_path = run_dir / "detections.json"
-    with output_path.open("w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+    save_json(results, output_path)
 
-    total_detections = sum(len(item["detections"]) for item in results)
     print()
     print(f"Saved detections: {output_path}")
     print(f"Images processed: {len(results)}")
-    print(f"Objects detected: {total_detections}")
+
+    upload_run_dir_if_enabled(run_dir)
+
 
 if __name__ == "__main__":
     main()

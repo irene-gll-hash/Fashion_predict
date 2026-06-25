@@ -5,6 +5,7 @@ import re
 from pathlib import Path
 from typing import Any
 from PIL import Image
+from app.storage.gcs_storage import upload_run_dir_if_enabled
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CROP_PADDING = 0.12
@@ -193,6 +194,7 @@ def main() -> None:
     print(f"Saved segmentations: {output_path}")
     print(f"Crops saved: {total_crops}")
     print(f"Tiny crops: {tiny_crops}")
+    upload_run_dir_if_enabled(run_dir)
 
 if __name__ == "__main__":
     main()

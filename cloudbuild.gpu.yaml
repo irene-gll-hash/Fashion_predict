@@ -1,0 +1,11 @@
+steps:
+  - name: gcr.io/cloud-builders/docker
+    args:
+      - build
+      - -f
+      - Dockerfile.gpu
+      - -t
+      - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-gpu
+      - .
+images:
+  - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-gpu

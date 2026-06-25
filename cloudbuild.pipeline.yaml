@@ -1,0 +1,11 @@
+steps:
+  - name: gcr.io/cloud-builders/docker
+    args:
+      - build
+      - -f
+      - Dockerfile.pipeline
+      - -t
+      - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-pipeline-cpu
+      - .
+images:
+  - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-pipeline-cpu

@@ -1,4 +1,4 @@
-.venv/
+.venv
 .env
 *.env
 __pycache__/
@@ -11,12 +11,8 @@ __pycache__/
 .vscode/
 data/processed/
 data/media/
-external/
 *.jpg
 *.jpeg
 *.png
 *.webp
 *.mp4
-*.pth
-*.pt
-*.safetensors
