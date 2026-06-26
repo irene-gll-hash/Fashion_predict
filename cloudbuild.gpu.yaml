@@ -5,7 +5,7 @@ steps:
       - -f
       - Dockerfile.gpu
       - -t
-      - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-gpu
+      - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-pipeline-gpu
       - .
 images:
-  - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-gpu
+  - us-central1-docker.pkg.dev/fashion-trend-ai/fashion/fashion-pipeline-gpu

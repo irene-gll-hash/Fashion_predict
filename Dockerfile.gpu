@@ -6,7 +6,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     git \
     build-essential \
     ffmpeg \
-    wget \
+    curl \
+    ca-certificates \
     libglib2.0-0 \
     libgl1 \
     libxkbcommon0 \
@@ -16,7 +17,15 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN pip install --no-cache-dir uv
 
 COPY pyproject.toml uv.lock .python-version ./
+
 RUN uv sync --frozen --no-dev
+
+RUN uv pip install --no-cache-dir \
+    torch==2.3.1+cu121 \
+    torchvision==0.18.1+cu121 \
+    --index-url https://download.pytorch.org/whl/cu121
+
+RUN uv run python -c "import torch; print('torch', torch.__version__); print('cuda build', torch.version.cuda)"
 
 COPY fashion-trend-ai ./fashion-trend-ai
 
@@ -24,11 +33,25 @@ RUN rm -rf /app/fashion-trend-ai/external/GroundingDINO && \
     mkdir -p /app/fashion-trend-ai/external && \
     git clone https://github.com/IDEA-Research/GroundingDINO.git /app/fashion-trend-ai/external/GroundingDINO && \
     mkdir -p /app/fashion-trend-ai/external/GroundingDINO/weights && \
-    wget -O /app/fashion-trend-ai/external/GroundingDINO/weights/groundingdino_swint_ogc.pth \
-    https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
+    curl -L \
+      -o /app/fashion-trend-ai/external/GroundingDINO/weights/groundingdino_swint_ogc.pth \
+      https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
+
+ENV HF_HOME=/app/hf_cache
+ENV TRANSFORMERS_CACHE=/app/hf_cache
+ENV HF_HUB_DISABLE_XET=1
+
+RUN uv run python -c "from huggingface_hub import snapshot_download; snapshot_download(repo_id='bert-base-uncased', local_dir='/app/hf_models/bert-base-uncased', local_dir_use_symlinks=False)"
+
+RUN test -d /app/fashion-trend-ai/external/GroundingDINO/groundingdino && \
+    test -s /app/fashion-trend-ai/external/GroundingDINO/weights/groundingdino_swint_ogc.pth && \
+    test -f /app/hf_models/bert-base-uncased/config.json
 
 WORKDIR /app/fashion-trend-ai
 
 ENV PYTHONPATH=/app/fashion-trend-ai:/app/fashion-trend-ai/external/GroundingDINO
+ENV TRANSFORMERS_OFFLINE=1
+ENV HF_HUB_OFFLINE=1
+ENV REQUIRE_CUDA=1
 
-CMD ["uv", "run", "python", "-m", "app.gpu_service.server"]
+CMD ["uv", "run", "python", "-m", "app.pipeline.run_all"]
