@@ -97,7 +97,11 @@ def load_image_tensor(image_path: Path, transform):
     return image_tensor
 
 
-def normalize_detection_result(raw_result: dict[str, Any]) -> list[dict[str, Any]]:
+def normalize_detection_result(
+    raw_result: dict[str, Any],
+    image_width: int,
+    image_height: int,
+) -> list[dict[str, Any]]:
     boxes = raw_result.get("boxes") or []
     scores = raw_result.get("scores") or []
     phrases = raw_result.get("phrases") or []
@@ -105,11 +109,27 @@ def normalize_detection_result(raw_result: dict[str, Any]) -> list[dict[str, Any
     detections: list[dict[str, Any]] = []
 
     for box, score, phrase in zip(boxes, scores, phrases):
+        cx, cy, w, h = box
+
+        x1 = (cx - w / 2) * image_width
+        y1 = (cy - h / 2) * image_height
+        x2 = (cx + w / 2) * image_width
+        y2 = (cy + h / 2) * image_height
+
+        x1 = max(0.0, min(float(x1), float(image_width)))
+        y1 = max(0.0, min(float(y1), float(image_height)))
+        x2 = max(0.0, min(float(x2), float(image_width)))
+        y2 = max(0.0, min(float(y2), float(image_height)))
+
+        if x2 <= x1 or y2 <= y1:
+            continue
+
         detections.append(
             {
                 "label": phrase,
                 "score": float(score),
-                "box_xyxy": box,
+                "box_xyxy": [x1, y1, x2, y2],
+                "box_cxcywh_norm": box,
             }
         )
 
@@ -213,7 +233,11 @@ def main() -> None:
             nms_iou_threshold=args.nms_iou_threshold,
         )
 
-        detections = normalize_detection_result(raw_result)
+        detections = normalize_detection_result(
+            raw_result=raw_result,
+            image_width=width,
+            image_height=height,
+        )
 
         results.append(
             {

@@ -1,10 +1,18 @@
-FROM python:3.11-slim
+FROM nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
 
 WORKDIR /app
 
+ENV DEBIAN_FRONTEND=noninteractive
+
 RUN apt-get update && apt-get install -y --no-install-recommends \
+    python3.11 \
+    python3.11-venv \
+    python3.11-dev \
+    python3-pip \
     git \
     build-essential \
+    ninja-build \
+    cmake \
     ffmpeg \
     curl \
     ca-certificates \
@@ -14,7 +22,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libx11-6 \
     && rm -rf /var/lib/apt/lists/*
 
-RUN pip install --no-cache-dir uv
+RUN ln -sf /usr/bin/python3.11 /usr/bin/python && \
+    ln -sf /usr/bin/python3.11 /usr/bin/python3
+
+RUN python -m pip install --no-cache-dir --upgrade pip && \
+    python -m pip install --no-cache-dir uv
 
 COPY pyproject.toml uv.lock .python-version ./
 
@@ -24,6 +36,18 @@ RUN uv pip install --no-cache-dir \
     torch==2.3.1+cu121 \
     torchvision==0.18.1+cu121 \
     --index-url https://download.pytorch.org/whl/cu121
+
+RUN uv pip install --no-cache-dir \
+    setuptools \
+    wheel \
+    ninja \
+    packaging
+
+ENV CUDA_HOME=/usr/local/cuda
+ENV PATH=/usr/local/cuda/bin:$PATH
+ENV LD_LIBRARY_PATH=/app/.venv/lib/python3.11/site-packages/torch/lib:/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+ENV FORCE_CUDA=1
+ENV TORCH_CUDA_ARCH_LIST=8.9
 
 RUN uv run python -c "import torch; print('torch', torch.__version__); print('cuda build', torch.version.cuda)"
 
@@ -36,6 +60,20 @@ RUN rm -rf /app/fashion-trend-ai/external/GroundingDINO && \
     curl -L \
       -o /app/fashion-trend-ai/external/GroundingDINO/weights/groundingdino_swint_ogc.pth \
       https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
+
+WORKDIR /app/fashion-trend-ai/external/GroundingDINO
+
+RUN nvcc --version
+
+RUN uv pip install --no-build-isolation --no-cache-dir -e .
+
+WORKDIR /app/fashion-trend-ai
+
+ENV PYTHONPATH=/app/fashion-trend-ai:/app/fashion-trend-ai/external/GroundingDINO
+
+RUN uv run python -c "import torch; print('torch import ok'); import groundingdino._C; print('GroundingDINO C++ ops import ok')"
+
+WORKDIR /app
 
 ENV HF_HOME=/app/hf_cache
 ENV TRANSFORMERS_CACHE=/app/hf_cache
@@ -53,5 +91,7 @@ ENV PYTHONPATH=/app/fashion-trend-ai:/app/fashion-trend-ai/external/GroundingDIN
 ENV TRANSFORMERS_OFFLINE=1
 ENV HF_HUB_OFFLINE=1
 ENV REQUIRE_CUDA=1
+
+RUN uv run python -c "from app.gpu_service.dino import load_model, detect_image; print('app imports ok')"
 
 CMD ["uv", "run", "python", "-m", "app.pipeline.run_all"]
