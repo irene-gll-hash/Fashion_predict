@@ -22,7 +22,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=5, help="Posts per Instagram source URL")
     parser.add_argument("--frame-every-seconds", type=int, default=5, help="Extract one frame every N seconds")
-    parser.add_argument("--max-frames-per-video", type=int, default=5, help="Maximum frames extracted from one video")
+    parser.add_argument("--max-frames-per-video", type=int, default=3, help="Maximum frames extracted from one video")
     parser.add_argument("--keep-video", action="store_true", help="Keep downloaded mp4 files for debugging")
     args = parser.parse_args()
     run_date = date.today().isoformat()

@@ -51,6 +51,15 @@
     "necklace",
     "earrings",
     "bracelet",
-    "watch"
+    "watch",
+
+    "robe",
+    "bathrobe",
+    "slippers",
+    "corset top",
+    "bustier top",
+    "corset dress",
+    "bodycon dress",
+    "evening dress"
   ]
 }

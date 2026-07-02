@@ -83,6 +83,8 @@ def main() -> None:
     parser.add_argument("--nms-iou-threshold", type=float, default=0.5)
     parser.add_argument("--force-gemini", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--frame-every-seconds", type=int, default=5)
+    parser.add_argument("--max-frames-per-video", type=int, default=1)
     args = parser.parse_args()
 
     steps = parse_steps(args.steps)
@@ -94,6 +96,8 @@ def main() -> None:
 
     for step in steps:
         command = build_command(step=step, args=args, run_date=run_date)
+        command.extend(["--frame-every-seconds", str(args.frame_every_seconds)])
+        command.extend(["--max-frames-per-video", str(args.max_frames_per_video)])
         run_command(command=command, dry_run=args.dry_run)
 
     print()
