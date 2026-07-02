@@ -11,7 +11,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CROP_PADDING = 0.12
 MIN_CROP_SIZE = 96
 DEDUP_IOU_THRESHOLD = 0.75
-MAX_CROPS_PER_IMAGE = 12
+MAX_CROPS_PER_IMAGE = 5
 SKIP_TINY_CROPS = True
 
 def get_latest_run_dir() -> Path:

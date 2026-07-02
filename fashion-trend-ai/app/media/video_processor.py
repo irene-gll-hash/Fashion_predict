@@ -26,7 +26,7 @@ def extract_frames(
     video_path: Path,
     frames_dir: Path,
     every_seconds: int = 5,
-    max_frames: int = 10,
+    max_frames: int = 5,
 ) -> list[str]:
     frames_dir.mkdir(parents=True, exist_ok=True)
     video = cv2.VideoCapture(str(video_path))
