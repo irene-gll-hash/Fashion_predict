@@ -1,0 +1,2992 @@
+[
+  {
+    "product_id": "zara_497962265",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/long-sleeve-t-shirt-p04424819.html?v1=497962265&v2=None",
+    "original": {
+      "id": 497959401,
+      "reference": "04424819-V2026",
+      "displayReference": "4424/819",
+      "brand": "Zara",
+      "name": "LONG SLEEVE T-SHIRT",
+      "description": "Model height: 176 cm\n\nSLIM FIT - ROUND NECK - REGULAR LENGTH - LONG SLEEVE\n\nT-shirt made from spun cotton blend. Round neck and long sleeves. Straight hem.",
+      "mainImage": "https://static.zara.net/assets/public/df04/f263/5c6c4aba9660/c71e99af0308/04424819250-p/04424819250-p.jpg?ts=1761643799833&w={width}",
+      "colors": "White",
+      "sizes": "S, M, L",
+      "price": 649,
+      "category": null,
+      "keyword": "long-sleeve-t-shirt",
+      "availability": "out_of_stock",
+      "state": "visible",
+      "firstVisibleDate": "2025-10-29T01:00:00Z",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "250",
+          "displayReference": "4424/819/250",
+          "hexCode": "#F6F6F6",
+          "productId": 497962265,
+          "name": "White",
+          "reference": "C04424819250000-V2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/df04/f263/5c6c4aba9660/c71e99af0308/04424819250-p/04424819250-p.jpg?ts=1761643799833&w={width}",
+            "https://static.zara.net/assets/public/00f4/8f61/96ab4b6eb350/ca3c32df8889/04424819250-e1/04424819250-e1.jpg?ts=1761582253961&w={width}",
+            "https://static.zara.net/assets/public/d3b5/b350/cbe9482e9d66/fee51d1b09d2/04424819250-e2/04424819250-e2.jpg?ts=1761582253681&w={width}",
+            "https://static.zara.net/assets/public/6753/76af/222f412e8f55/bb34ea67e74d/04424819250-e3/04424819250-e3.jpg?ts=1761582254077&w={width}"
+          ],
+          "price": 649,
+          "oldPrice": 1299,
+          "displayDiscountPercentage": 50,
+          "discountPercentage": "50%",
+          "discountLabel": "-50%",
+          "availability": "out_of_stock",
+          "extraInfo": {
+            "isStockInStoresAvailable": true,
+            "highlightPrice": false,
+            "editorialxMedias": [],
+            "extraDetailSections": []
+          },
+          "sizes": [
+            {
+              "availability": "out_of_stock",
+              "equivalentSizeId": 102,
+              "id": 2,
+              "name": "S",
+              "oldPrice": 1299,
+              "price": 649,
+              "displayDiscountPercentage": 50,
+              "discountPercentage": "50%",
+              "discountLabel": "-50%",
+              "reference": "0442482025002-V2026",
+              "sku": 497959392,
+              "demand": "DEMAND_REGULAR",
+              "twinnedSkus": [
+                {
+                  "sku": 497959402,
+                  "reference": "0442481925002-V2026"
+                },
+                {
+                  "sku": 524596104,
+                  "reference": "0364191925002-V2026"
+                }
+              ]
+            },
+            {
+              "availability": "out_of_stock",
+              "equivalentSizeId": 103,
+              "id": 3,
+              "name": "M",
+              "oldPrice": 1299,
+              "price": 649,
+              "displayDiscountPercentage": 50,
+              "discountPercentage": "50%",
+              "discountLabel": "-50%",
+              "reference": "0442482025003-V2026",
+              "sku": 497959393,
+              "demand": "DEMAND_REGULAR",
+              "twinnedSkus": [
+                {
+                  "sku": 497959403,
+                  "reference": "0442481925003-V2026"
+                },
+                {
+                  "sku": 524596105,
+                  "reference": "0364191925003-V2026"
+                }
+              ]
+            },
+            {
+              "availability": "out_of_stock",
+              "equivalentSizeId": 104,
+              "id": 4,
+              "name": "L",
+              "oldPrice": 1299,
+              "price": 649,
+              "displayDiscountPercentage": 50,
+              "discountPercentage": "50%",
+              "discountLabel": "-50%",
+              "reference": "0442482025004-V2026",
+              "sku": 497959394,
+              "demand": "DEMAND_REGULAR",
+              "twinnedSkus": [
+                {
+                  "sku": 524596106,
+                  "reference": "0364191925004-V2026"
+                },
+                {
+                  "sku": 497959404,
+                  "reference": "0442481925004-V2026"
+                }
+              ]
+            }
+          ],
+          "description": "Model height: 176 cm\n\nSLIM FIT - ROUND NECK - REGULAR LENGTH - LONG SLEEVE\n\nT-shirt made from spun cotton blend. Round neck and long sleeves. Straight hem.",
+          "rawDescription": "Model height: 176 cm<br/><br/>SLIM FIT - ROUND NECK - REGULAR LENGTH - LONG SLEEVE<br/><br/>T-shirt made from spun cotton blend. Round neck and long sleeves. Straight hem.",
+          "customizations": [],
+          "promotions": [
+            {
+              "name": "SALES-V2026_ZARA_UK",
+              "startDate": "2026-06-30T19:54:30Z",
+              "endDate": "2026-11-17T10:00:00Z"
+            }
+          ],
+          "isOnSale": true,
+          "productPageSelectedColor": "https://www.zara.com/uk/en/long-sleeve-t-shirt-p04424819.html?v1=497962265&v2=None"
+        }
+      ],
+      "detailedComposition": {
+        "parts": [
+          {
+            "description": "OUTER SHELL",
+            "areas": [],
+            "components": [
+              {
+                "material": "cotton",
+                "percentage": "48%"
+              },
+              {
+                "material": "modal",
+                "percentage": "47%"
+              },
+              {
+                "material": "elastane",
+                "percentage": "5%"
+              }
+            ],
+            "microcontents": [],
+            "reinforcements": []
+          }
+        ],
+        "exceptions": []
+      },
+      "productCare": {
+        "description": [
+          "Caring for your garments to extend their useful life.",
+          "Lower temperature washes and delicate spin cycles are gentler on garments and help to protect the colour, shape and structure of the fabric. <br><br><a class=' link' target='_blank' href='https://www.zara.com/uk/en/sustainability-clothing-care-l3129.html?v1=1596204'><span class='structured-component-text'>Clothing Care Guide</span></a></span>"
+        ],
+        "icons": [
+          {
+            "description": "Machine wash at max. 30ºC/86ºF with short spin cycle",
+            "url": "https://static.zara.net//assets/public/fad0/fd6f/680d44ddbf3b/623a3e540eb1/iconos_mendue-7.svg?ts=1730714831474"
+          },
+          {
+            "description": "Do not use bleach",
+            "url": "https://static.zara.net//assets/public/fad0/fd6f/680d44ddbf3b/623a3e540eb1/iconos_mendue-14.svg?ts=1730714831474"
+          },
+          {
+            "description": "Iron at a maximum of 110ºC/230ºF",
+            "url": "https://static.zara.net//assets/public/fad0/fd6f/680d44ddbf3b/623a3e540eb1/iconos_mendue-18.svg?ts=1730714831474"
+          },
+          {
+            "description": "Do not dry clean",
+            "url": "https://static.zara.net//assets/public/fad0/fd6f/680d44ddbf3b/623a3e540eb1/iconos_mendue-28.svg?ts=1730714831474"
+          },
+          {
+            "description": "Do not tumble dry",
+            "url": "https://static.zara.net//assets/public/fad0/fd6f/680d44ddbf3b/623a3e540eb1/iconos_mendue-35.svg?ts=1730714831474"
+          }
+        ]
+      },
+      "origin": [
+        "Made in Bangladesh"
+      ],
+      "oldPrice": 1299,
+      "displayDiscountPercentage": 50,
+      "discountPercentage": "50%",
+      "discountLabel": "-50%",
+      "isOnSale": true,
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": null,
+      "productPage": "https://www.zara.com/uk/en/long-sleeve-t-shirt-p04424819.html"
+    },
+    "normalized": {
+      "product_id": "zara_497962265",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/long-sleeve-t-shirt-p04424819.html?v1=497962265&v2=None",
+      "parent_product_id": "497959401",
+      "color_variant_product_id": "497962265",
+      "reference": "04424819-V2026",
+      "display_reference": "4424/819",
+      "color_reference": "C04424819250000-V2026",
+      "color_display_reference": "4424/819/250",
+      "color_id": "250",
+      "brand": "Zara",
+      "title": "LONG SLEEVE T-SHIRT",
+      "category": null,
+      "category_path": [],
+      "keyword": "long-sleeve-t-shirt",
+      "price": 649,
+      "old_price": 1299,
+      "discount": 50,
+      "discount_label": "-50%",
+      "is_on_sale": true,
+      "color": "White",
+      "hex_code": "#F6F6F6",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "availability": "out_of_stock",
+      "state": "visible",
+      "first_visible_date": "2025-10-29T01:00:00Z",
+      "main_image_url": "https://static.zara.net/assets/public/df04/f263/5c6c4aba9660/c71e99af0308/04424819250-p/04424819250-p.jpg?ts=1761643799833&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/df04/f263/5c6c4aba9660/c71e99af0308/04424819250-p/04424819250-p.jpg?ts=1761643799833&w=1024",
+        "https://static.zara.net/assets/public/00f4/8f61/96ab4b6eb350/ca3c32df8889/04424819250-e1/04424819250-e1.jpg?ts=1761582253961&w=1024",
+        "https://static.zara.net/assets/public/d3b5/b350/cbe9482e9d66/fee51d1b09d2/04424819250-e2/04424819250-e2.jpg?ts=1761582253681&w=1024",
+        "https://static.zara.net/assets/public/6753/76af/222f412e8f55/bb34ea67e74d/04424819250-e3/04424819250-e3.jpg?ts=1761582254077&w=1024"
+      ],
+      "description": "Model height: 176 cm\n\nSLIM FIT - ROUND NECK - REGULAR LENGTH - LONG SLEEVE\n\nT-shirt made from spun cotton blend. Round neck and long sleeves. Straight hem.",
+      "composition": "OUTER SHELL: cotton 48%, modal 47%, elastane 5%",
+      "care": [
+        "Machine wash at max. 30ºC/86ºF with short spin cycle",
+        "Do not use bleach",
+        "Iron at a maximum of 110ºC/230ºF",
+        "Do not dry clean",
+        "Do not tumble dry"
+      ],
+      "country": "Made in Bangladesh",
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": null
+    },
+    "gemini_analysis": {
+      "product_type": "cropped long-sleeve top",
+      "base_product_type": "top",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "fitted",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "white"
+      ],
+      "pattern": "solid",
+      "details": [],
+      "material_visual_guess": [
+        "ribbed knit",
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped top",
+        "basic long sleeve",
+        "fitted top",
+        "white basic"
+      ],
+      "short_trend_summary": "A versatile cropped long-sleeve top that aligns with current trends for minimalist and fitted basics.",
+      "confidence": 1.0
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_497962265/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_497962265/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545461542",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/z1975-wide-leg-high-waist-jeans-with-pleats-p01416224.html?v1=545461542&v2=2419185",
+    "original": {
+      "id": 54546154200,
+      "reference": "01416224-I2026",
+      "displayReference": "1416/224",
+      "brand": "Zara",
+      "name": "Z1975 WIDE-LEG HIGH-WAIST JEANS WITH PLEATS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/0ecf/4ec3/68f34b508330/95d3ea659521/01416224427-a1/01416224427-a1.jpg?ts=1780500959848&w={width}",
+      "colors": "Mid-Blue",
+      "price": 2999,
+      "category": "woman-jeans",
+      "keyword": "z1975-wide-leg-high-waist-jeans-with-pleats",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "427",
+          "displayReference": "1416/224/427",
+          "hexCode": "#87A8C6",
+          "productId": 545461542,
+          "name": "Mid-blue",
+          "reference": "C01416224427000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/0ecf/4ec3/68f34b508330/95d3ea659521/01416224427-a1/01416224427-a1.jpg?ts=1780500959848&w={width}",
+            "https://static.zara.net/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1/01416224427-f1.jpg?ts=1780386429080&w={width}"
+          ],
+          "price": 2999,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1",
+            "name": "01416224427-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1780386429080",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "481b4174e9aa4fef8eebe4e5ff782b97",
+              "deliveryUrl": "https://static.zara.net/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1/01416224427-f1.jpg?ts=1780386429080",
+              "deliveryPath": "/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1/01416224427-f1.jpg?ts=1780386429080"
+            },
+            "url": "https://static.zara.net/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1/01416224427-f1.jpg?ts=1780386429080&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/meta.json?ts=1780386430372"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/z1975-wide-leg-high-waist-jeans-with-pleats-p01416224.html?v1=545461542&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/z1975-wide-leg-high-waist-jeans-with-pleats-p01416224.html"
+    },
+    "normalized": {
+      "product_id": "zara_545461542",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/z1975-wide-leg-high-waist-jeans-with-pleats-p01416224.html?v1=545461542&v2=2419185",
+      "parent_product_id": "54546154200",
+      "color_variant_product_id": "545461542",
+      "reference": "01416224-I2026",
+      "display_reference": "1416/224",
+      "color_reference": "C01416224427000-I2026",
+      "color_display_reference": "1416/224/427",
+      "color_id": "427",
+      "brand": "Zara",
+      "title": "Z1975 WIDE-LEG HIGH-WAIST JEANS WITH PLEATS",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "z1975-wide-leg-high-waist-jeans-with-pleats",
+      "price": 2999,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Mid-blue",
+      "hex_code": "#87A8C6",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/0ecf/4ec3/68f34b508330/95d3ea659521/01416224427-a1/01416224427-a1.jpg?ts=1780500959848&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/0ecf/4ec3/68f34b508330/95d3ea659521/01416224427-a1/01416224427-a1.jpg?ts=1780500959848&w=1024",
+        "https://static.zara.net/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1/01416224427-f1.jpg?ts=1780386429080&w=1024",
+        "https://static.zara.net/assets/public/481b/4174/e9aa4fef8eeb/e4e5ff782b97/01416224427-f1/01416224427-f1.jpg?ts=1780386429080"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "wide-leg trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "loose",
+      "silhouette": "wide",
+      "length": "long",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "bohemian"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light blue"
+      ],
+      "pattern": "solid",
+      "details": [
+        "pleats",
+        "wide leg",
+        "waistband",
+        "front pockets"
+      ],
+      "material_visual_guess": [
+        "lightweight denim",
+        "chambray"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "wide leg denim",
+        "light wash denim",
+        "relaxed fit trousers",
+        "pleated trousers"
+      ],
+      "short_trend_summary": "Wide-leg, light wash denim trousers are a versatile and comfortable staple for a relaxed, on-trend look.",
+      "confidence": 1.0
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545461542/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545461542/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545410113",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/trf-low-rise-striped-wide-leg-jeans-p05575215.html?v1=545410113&v2=2419185",
+    "original": {
+      "id": 54541011300,
+      "reference": "05575215-I2026",
+      "displayReference": "5575/215",
+      "brand": "Zara",
+      "name": "TRF LOW-RISE STRIPED WIDE-LEG JEANS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/f1ab/1d92/371e4e158170/b302486ad7b6/05575215105-a1/05575215105-a1.jpg?ts=1780325402931&w={width}",
+      "colors": "Stripes",
+      "price": 3599,
+      "category": "woman-jeans",
+      "keyword": "trf-low-rise-striped-wide-leg-jeans",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "105",
+          "displayReference": "5575/215/105",
+          "hexCode": "#FBF5F0",
+          "productId": 545410113,
+          "name": "Stripes",
+          "reference": "C05575215105000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/f1ab/1d92/371e4e158170/b302486ad7b6/05575215105-a1/05575215105-a1.jpg?ts=1780325402931&w={width}",
+            "https://static.zara.net/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1/05575215105-f1.jpg?ts=1780485802559&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1",
+            "name": "05575215105-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1780485802559",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "a4574788c1fb45ad8e9de4b10fbe649c",
+              "deliveryUrl": "https://static.zara.net/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1/05575215105-f1.jpg?ts=1780485802559",
+              "deliveryPath": "/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1/05575215105-f1.jpg?ts=1780485802559"
+            },
+            "url": "https://static.zara.net/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1/05575215105-f1.jpg?ts=1780485802559&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/meta.json?ts=1780485803701"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/trf-low-rise-striped-wide-leg-jeans-p05575215.html?v1=545410113&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/trf-low-rise-striped-wide-leg-jeans-p05575215.html"
+    },
+    "normalized": {
+      "product_id": "zara_545410113",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/trf-low-rise-striped-wide-leg-jeans-p05575215.html?v1=545410113&v2=2419185",
+      "parent_product_id": "54541011300",
+      "color_variant_product_id": "545410113",
+      "reference": "05575215-I2026",
+      "display_reference": "5575/215",
+      "color_reference": "C05575215105000-I2026",
+      "color_display_reference": "5575/215/105",
+      "color_id": "105",
+      "brand": "Zara",
+      "title": "TRF LOW-RISE STRIPED WIDE-LEG JEANS",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "trf-low-rise-striped-wide-leg-jeans",
+      "price": 3599,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Stripes",
+      "hex_code": "#FBF5F0",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/f1ab/1d92/371e4e158170/b302486ad7b6/05575215105-a1/05575215105-a1.jpg?ts=1780325402931&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/f1ab/1d92/371e4e158170/b302486ad7b6/05575215105-a1/05575215105-a1.jpg?ts=1780325402931&w=1024",
+        "https://static.zara.net/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1/05575215105-f1.jpg?ts=1780485802559&w=1024",
+        "https://static.zara.net/assets/public/a457/4788/c1fb45ad8e9d/e4b10fbe649c/05575215105-f1/05575215105-f1.jpg?ts=1780485802559"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "striped trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "long",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light pink",
+        "light purple",
+        "beige",
+        "cream",
+        "light brown"
+      ],
+      "pattern": "stripes",
+      "details": [
+        "low-rise",
+        "drawstrings",
+        "belt loops",
+        "front pockets",
+        "back pockets"
+      ],
+      "material_visual_guess": [
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "demi-season",
+        "summer"
+      ],
+      "trend_keywords": [
+        "pastel stripes",
+        "relaxed fit trousers",
+        "low-rise trend",
+        "striped pants"
+      ],
+      "short_trend_summary": "These striped trousers feature a relaxed fit and pastel color palette, aligning with current casual and low-rise fashion trends.",
+      "confidence": 0.9
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545410113/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545410113/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545485641",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485641&v2=2419185",
+    "original": {
+      "id": 54548564100,
+      "reference": "01934041-I2026",
+      "displayReference": "1934/041",
+      "brand": "Zara",
+      "name": "JEANS Z1975 STRAIGHT HIGH-WAIST",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w={width}",
+      "colors": "White, Mid-Blue",
+      "price": 2799,
+      "category": "woman-jeans",
+      "keyword": "jeans-z1975-straight-high-waist",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "250",
+          "displayReference": "1934/041/250",
+          "hexCode": "#F6F6F6",
+          "productId": 545485641,
+          "name": "White",
+          "reference": "C01934041250000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w={width}",
+            "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235&w={width}"
+          ],
+          "price": 2799,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1",
+            "name": "01934041250-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778147594235",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "eaa388eb60194cd38ffbd8f8d42e6feb",
+              "deliveryUrl": "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235",
+              "deliveryPath": "/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235"
+            },
+            "url": "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/meta.json?ts=1778147595645"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485641&v2=2419185"
+        },
+        {
+          "id": "427",
+          "displayReference": "1934/041/427",
+          "hexCode": "#799AA8",
+          "productId": 545485640,
+          "name": "Mid-blue",
+          "reference": "C01934041427000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/008b/a264/61524264afe5/beadff6a0959/01934041427-p/01934041427-p.jpg?ts=1778228833518&w={width}",
+            "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008&w={width}"
+          ],
+          "price": 2799,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1",
+            "name": "01934041427-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778147593008",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "ef251346a25a4ab8833bf96946874585",
+              "deliveryUrl": "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008",
+              "deliveryPath": "/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008"
+            },
+            "url": "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/meta.json?ts=1778147598809"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485640&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html"
+    },
+    "normalized": {
+      "product_id": "zara_545485641",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485641&v2=2419185",
+      "parent_product_id": "54548564100",
+      "color_variant_product_id": "545485641",
+      "reference": "01934041-I2026",
+      "display_reference": "1934/041",
+      "color_reference": "C01934041250000-I2026",
+      "color_display_reference": "1934/041/250",
+      "color_id": "250",
+      "brand": "Zara",
+      "title": "JEANS Z1975 STRAIGHT HIGH-WAIST",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "jeans-z1975-straight-high-waist",
+      "price": 2799,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "White",
+      "hex_code": "#F6F6F6",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w=1024",
+        "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235&w=1024",
+        "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "blouse",
+      "base_product_type": "blouse",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "short sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "romantic",
+        "classic"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "soft basic",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "off-white",
+        "black"
+      ],
+      "pattern": "polka dot",
+      "details": [
+        "ruffled sleeves",
+        "pintucks",
+        "small polka dots"
+      ],
+      "material_visual_guess": [
+        "lightweight woven fabric",
+        "chiffon-like"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "smart casual"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "ruffled blouse",
+        "polka dot print",
+        "pleated details",
+        "romantic top",
+        "feminine aesthetic"
+      ],
+      "short_trend_summary": "This lightweight blouse combines delicate pintucks and ruffled cap sleeves with a subtle polka dot print, offering a romantic and versatile option for warm-weather styling.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545485641/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545485641/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545485640",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485640&v2=2419185",
+    "original": {
+      "id": 54548564100,
+      "reference": "01934041-I2026",
+      "displayReference": "1934/041",
+      "brand": "Zara",
+      "name": "JEANS Z1975 STRAIGHT HIGH-WAIST",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w={width}",
+      "colors": "White, Mid-Blue",
+      "price": 2799,
+      "category": "woman-jeans",
+      "keyword": "jeans-z1975-straight-high-waist",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "250",
+          "displayReference": "1934/041/250",
+          "hexCode": "#F6F6F6",
+          "productId": 545485641,
+          "name": "White",
+          "reference": "C01934041250000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w={width}",
+            "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235&w={width}"
+          ],
+          "price": 2799,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1",
+            "name": "01934041250-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778147594235",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "eaa388eb60194cd38ffbd8f8d42e6feb",
+              "deliveryUrl": "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235",
+              "deliveryPath": "/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235"
+            },
+            "url": "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/01934041250-f1/01934041250-f1.jpg?ts=1778147594235&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/eaa3/88eb/60194cd38ffb/d8f8d42e6feb/meta.json?ts=1778147595645"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485641&v2=2419185"
+        },
+        {
+          "id": "427",
+          "displayReference": "1934/041/427",
+          "hexCode": "#799AA8",
+          "productId": 545485640,
+          "name": "Mid-blue",
+          "reference": "C01934041427000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/008b/a264/61524264afe5/beadff6a0959/01934041427-p/01934041427-p.jpg?ts=1778228833518&w={width}",
+            "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008&w={width}"
+          ],
+          "price": 2799,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1",
+            "name": "01934041427-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778147593008",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "ef251346a25a4ab8833bf96946874585",
+              "deliveryUrl": "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008",
+              "deliveryPath": "/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008"
+            },
+            "url": "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/meta.json?ts=1778147598809"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485640&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html"
+    },
+    "normalized": {
+      "product_id": "zara_545485640",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/jeans-z1975-straight-high-waist-p01934041.html?v1=545485640&v2=2419185",
+      "parent_product_id": "54548564100",
+      "color_variant_product_id": "545485640",
+      "reference": "01934041-I2026",
+      "display_reference": "1934/041",
+      "color_reference": "C01934041427000-I2026",
+      "color_display_reference": "1934/041/427",
+      "color_id": "427",
+      "brand": "Zara",
+      "title": "JEANS Z1975 STRAIGHT HIGH-WAIST",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "jeans-z1975-straight-high-waist",
+      "price": 2799,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Mid-blue",
+      "hex_code": "#799AA8",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/1694/6a4b/347d4c2e94dd/5d77a148f7e6/01934041250-p/01934041250-p.jpg?ts=1778228830924&w=1024",
+        "https://static.zara.net/assets/public/008b/a264/61524264afe5/beadff6a0959/01934041427-p/01934041427-p.jpg?ts=1778228833518&w=1024",
+        "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008&w=1024",
+        "https://static.zara.net/assets/public/ef25/1346/a25a4ab8833b/f96946874585/01934041427-f1/01934041427-f1.jpg?ts=1778147593008"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": null,
+    "analysis_status": "error",
+    "analysis_meta": {
+      "attempt": 3,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545485640/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545485640/image_002.jpg"
+      ],
+      "error": "Gemini response must be a JSON object."
+    }
+  },
+  {
+    "product_id": "zara_545479893",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479893&v2=2419185",
+    "original": {
+      "id": 54547989300,
+      "reference": "01934042-I2026",
+      "displayReference": "1934/042",
+      "brand": "Zara",
+      "name": "HIGH-WAIST WIDE-LEG CROPPED BELTED JEANS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w={width}",
+      "colors": "White, Light Blue",
+      "price": 3599,
+      "category": "woman-jeans",
+      "keyword": "high-waist-wide-leg-cropped-jeans-with-belt",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "250",
+          "displayReference": "1934/042/250",
+          "hexCode": "#F5F6F8",
+          "productId": 545479893,
+          "name": "White",
+          "reference": "C01934042250000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w={width}",
+            "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1",
+            "name": "01934042250-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778598438577",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "31d8b9e3b5034c1fb005ea95a9c87c84",
+              "deliveryUrl": "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577",
+              "deliveryPath": "/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577"
+            },
+            "url": "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/meta.json?ts=1778598440175"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479893&v2=2419185"
+        },
+        {
+          "id": "406",
+          "displayReference": "1934/042/406",
+          "hexCode": "#9DB8C8",
+          "productId": 545479892,
+          "name": "Light blue",
+          "reference": "C01934042406000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/9a74/e9fb/8a884bc584cb/4a8c8ecb21af/01934042406-p/01934042406-p.jpg?ts=1778768450798&w={width}",
+            "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1",
+            "name": "01934042406-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778598440279",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "21ee9e30004045959ebc0fadda6891f7",
+              "deliveryUrl": "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279",
+              "deliveryPath": "/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279"
+            },
+            "url": "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/meta.json?ts=1778598441777"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479892&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html"
+    },
+    "normalized": {
+      "product_id": "zara_545479893",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479893&v2=2419185",
+      "parent_product_id": "54547989300",
+      "color_variant_product_id": "545479893",
+      "reference": "01934042-I2026",
+      "display_reference": "1934/042",
+      "color_reference": "C01934042250000-I2026",
+      "color_display_reference": "1934/042/250",
+      "color_id": "250",
+      "brand": "Zara",
+      "title": "HIGH-WAIST WIDE-LEG CROPPED BELTED JEANS",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "high-waist-wide-leg-cropped-jeans-with-belt",
+      "price": 3599,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "White",
+      "hex_code": "#F5F6F8",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w=1024",
+        "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577&w=1024",
+        "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "wide-leg jeans",
+      "base_product_type": "jeans",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "wide",
+      "length": "cropped",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "relaxed casual",
+        "neutral minimalism"
+      ],
+      "visible_colors": [
+        "white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "belt loops",
+        "front pockets",
+        "wide leg",
+        "cropped hem"
+      ],
+      "material_visual_guess": [
+        "denim"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "wide-leg jeans",
+        "white denim",
+        "cropped jeans",
+        "relaxed fit"
+      ],
+      "short_trend_summary": "This item represents the ongoing trend of relaxed-fit, wide-leg denim in a versatile white color.",
+      "confidence": 1.0
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545479893/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545479893/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545479892",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479892&v2=2419185",
+    "original": {
+      "id": 54547989300,
+      "reference": "01934042-I2026",
+      "displayReference": "1934/042",
+      "brand": "Zara",
+      "name": "HIGH-WAIST WIDE-LEG CROPPED BELTED JEANS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w={width}",
+      "colors": "White, Light Blue",
+      "price": 3599,
+      "category": "woman-jeans",
+      "keyword": "high-waist-wide-leg-cropped-jeans-with-belt",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "250",
+          "displayReference": "1934/042/250",
+          "hexCode": "#F5F6F8",
+          "productId": 545479893,
+          "name": "White",
+          "reference": "C01934042250000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w={width}",
+            "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1",
+            "name": "01934042250-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778598438577",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "31d8b9e3b5034c1fb005ea95a9c87c84",
+              "deliveryUrl": "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577",
+              "deliveryPath": "/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577"
+            },
+            "url": "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/01934042250-f1/01934042250-f1.jpg?ts=1778598438577&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/31d8/b9e3/b5034c1fb005/ea95a9c87c84/meta.json?ts=1778598440175"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479893&v2=2419185"
+        },
+        {
+          "id": "406",
+          "displayReference": "1934/042/406",
+          "hexCode": "#9DB8C8",
+          "productId": 545479892,
+          "name": "Light blue",
+          "reference": "C01934042406000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/9a74/e9fb/8a884bc584cb/4a8c8ecb21af/01934042406-p/01934042406-p.jpg?ts=1778768450798&w={width}",
+            "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1",
+            "name": "01934042406-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1778598440279",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "21ee9e30004045959ebc0fadda6891f7",
+              "deliveryUrl": "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279",
+              "deliveryPath": "/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279"
+            },
+            "url": "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/meta.json?ts=1778598441777"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479892&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html"
+    },
+    "normalized": {
+      "product_id": "zara_545479892",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/high-waist-wide-leg-cropped-jeans-with-belt-p01934042.html?v1=545479892&v2=2419185",
+      "parent_product_id": "54547989300",
+      "color_variant_product_id": "545479892",
+      "reference": "01934042-I2026",
+      "display_reference": "1934/042",
+      "color_reference": "C01934042406000-I2026",
+      "color_display_reference": "1934/042/406",
+      "color_id": "406",
+      "brand": "Zara",
+      "title": "HIGH-WAIST WIDE-LEG CROPPED BELTED JEANS",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "high-waist-wide-leg-cropped-jeans-with-belt",
+      "price": 3599,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Light blue",
+      "hex_code": "#9DB8C8",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/7d28/8677/b61d4115b149/2e8e875243c9/01934042250-p/01934042250-p.jpg?ts=1778768449380&w=1024",
+        "https://static.zara.net/assets/public/9a74/e9fb/8a884bc584cb/4a8c8ecb21af/01934042406-p/01934042406-p.jpg?ts=1778768450798&w=1024",
+        "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279&w=1024",
+        "https://static.zara.net/assets/public/21ee/9e30/004045959ebc/0fadda6891f7/01934042406-f1/01934042406-f1.jpg?ts=1778598440279"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "tank top",
+      "base_product_type": "top",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "fitted",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "sleeveless",
+      "neckline": "scoop neck",
+      "style_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "aesthetic_tags": [
+        "soft basic",
+        "clean everyday",
+        "neutral minimalism"
+      ],
+      "visible_colors": [
+        "white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "ribbed knit",
+        "scoop neck"
+      ],
+      "material_visual_guess": [
+        "cotton knit",
+        "ribbed jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "basic tank top",
+        "ribbed top",
+        "minimalist essential",
+        "everyday basic"
+      ],
+      "short_trend_summary": "This classic ribbed tank top is a versatile minimalist essential, reflecting the enduring appeal of foundational basics in modern wardrobes.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545479892/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545479892/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545412977",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412977&v2=2419185",
+    "original": {
+      "id": 54541297700,
+      "reference": "02183240-I2026",
+      "displayReference": "2183/240",
+      "brand": "Zara",
+      "name": "ZW COLLECTION BARREL TROUSERS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w={width}",
+      "colors": "Pink, Khaki",
+      "price": 3599,
+      "category": "woman-jeans",
+      "keyword": "zw-collection-barrel-trousers",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "620",
+          "displayReference": "2183/240/620",
+          "hexCode": "#FFF2EC",
+          "productId": 545412977,
+          "name": "Pink",
+          "reference": "C02183240620000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w={width}",
+            "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1",
+            "name": "02183241620-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1779721526293",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "820924590e494a0885fd01dbfe1ac52e",
+              "deliveryUrl": "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293",
+              "deliveryPath": "/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293"
+            },
+            "url": "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/meta.json?ts=1779721527628"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412977&v2=2419185"
+        },
+        {
+          "id": "505",
+          "displayReference": "2183/240/505",
+          "hexCode": "#675834",
+          "productId": 545412979,
+          "name": "Khaki",
+          "reference": "C02183240505000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/d449/5c5d/df9f469c9dd9/c9fcd6074341/02183240505-p/02183240505-p.jpg?ts=1779722146229&w={width}",
+            "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1",
+            "name": "02183240505-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1779714176736",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "988a76ed9737405887e15c6d485f38cc",
+              "deliveryUrl": "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736",
+              "deliveryPath": "/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736"
+            },
+            "url": "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/meta.json?ts=1779714178089"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412979&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html"
+    },
+    "normalized": {
+      "product_id": "zara_545412977",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412977&v2=2419185",
+      "parent_product_id": "54541297700",
+      "color_variant_product_id": "545412977",
+      "reference": "02183240-I2026",
+      "display_reference": "2183/240",
+      "color_reference": "C02183240620000-I2026",
+      "color_display_reference": "2183/240/620",
+      "color_id": "620",
+      "brand": "Zara",
+      "title": "ZW COLLECTION BARREL TROUSERS",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "zw-collection-barrel-trousers",
+      "price": 3599,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Pink",
+      "hex_code": "#FFF2EC",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w=1024",
+        "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293&w=1024",
+        "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "cropped trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "wide",
+      "length": "cropped",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light pink"
+      ],
+      "pattern": "solid",
+      "details": [
+        "patch pockets",
+        "button closure",
+        "elasticated hem"
+      ],
+      "material_visual_guess": [
+        "cotton twill"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped trousers",
+        "wide-leg trousers",
+        "pastel bottom",
+        "relaxed fit"
+      ],
+      "short_trend_summary": "These cropped, wide-leg trousers in a pastel shade reflect a comfortable and relaxed casual trend.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545412977/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545412977/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545412979",
+    "source": "zara",
+    "url": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412979&v2=2419185",
+    "original": {
+      "id": 54541297700,
+      "reference": "02183240-I2026",
+      "displayReference": "2183/240",
+      "brand": "Zara",
+      "name": "ZW COLLECTION BARREL TROUSERS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w={width}",
+      "colors": "Pink, Khaki",
+      "price": 3599,
+      "category": "woman-jeans",
+      "keyword": "zw-collection-barrel-trousers",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "620",
+          "displayReference": "2183/240/620",
+          "hexCode": "#FFF2EC",
+          "productId": 545412977,
+          "name": "Pink",
+          "reference": "C02183240620000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w={width}",
+            "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1",
+            "name": "02183241620-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1779721526293",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "820924590e494a0885fd01dbfe1ac52e",
+              "deliveryUrl": "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293",
+              "deliveryPath": "/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293"
+            },
+            "url": "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/02183241620-f1/02183241620-f1.jpg?ts=1779721526293&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/8209/2459/0e494a0885fd/01dbfe1ac52e/meta.json?ts=1779721527628"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412977&v2=2419185"
+        },
+        {
+          "id": "505",
+          "displayReference": "2183/240/505",
+          "hexCode": "#675834",
+          "productId": 545412979,
+          "name": "Khaki",
+          "reference": "C02183240505000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/d449/5c5d/df9f469c9dd9/c9fcd6074341/02183240505-p/02183240505-p.jpg?ts=1779722146229&w={width}",
+            "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736&w={width}"
+          ],
+          "price": 3599,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1",
+            "name": "02183240505-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1779714176736",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "isDarkModeCompatible": false,
+              "assetId": "988a76ed9737405887e15c6d485f38cc",
+              "deliveryUrl": "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736",
+              "deliveryPath": "/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736"
+            },
+            "url": "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/meta.json?ts=1779714178089"
+          },
+          "productPageSelectedColor": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412979&v2=2419185"
+        }
+      ],
+      "website": "https://www.zara.com/uk/en/",
+      "categoryPage": "https://www.zara.com/uk/en/woman-jeans-l1119.html",
+      "productPage": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html"
+    },
+    "normalized": {
+      "product_id": "zara_545412979",
+      "source": "zara",
+      "url": "https://www.zara.com/uk/en/zw-collection-barrel-trousers-p02183240.html?v1=545412979&v2=2419185",
+      "parent_product_id": "54541297700",
+      "color_variant_product_id": "545412979",
+      "reference": "02183240-I2026",
+      "display_reference": "2183/240",
+      "color_reference": "C02183240505000-I2026",
+      "color_display_reference": "2183/240/505",
+      "color_id": "505",
+      "brand": "Zara",
+      "title": "ZW COLLECTION BARREL TROUSERS",
+      "category": "woman-jeans",
+      "category_path": [
+        "woman",
+        "jeans"
+      ],
+      "keyword": "zw-collection-barrel-trousers",
+      "price": 3599,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Khaki",
+      "hex_code": "#675834",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/eea3/a729/84364a479ce5/11c1cdccce66/02183241620-p/02183241620-p.jpg?ts=1779722147406&w=1024",
+        "https://static.zara.net/assets/public/d449/5c5d/df9f469c9dd9/c9fcd6074341/02183240505-p/02183240505-p.jpg?ts=1779722146229&w=1024",
+        "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736&w=1024",
+        "https://static.zara.net/assets/public/988a/76ed/9737405887e1/5c6d485f38cc/02183240505-f1/02183240505-f1.jpg?ts=1779714176736"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/uk/en/",
+      "category_page": "https://www.zara.com/uk/en/woman-jeans-l1119.html"
+    },
+    "gemini_analysis": {
+      "product_type": "trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "wide",
+      "length": "cropped",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "workwear"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light pink",
+        "dark olive green"
+      ],
+      "pattern": "textured",
+      "details": [
+        "patch pockets",
+        "front pockets",
+        "button closure"
+      ],
+      "material_visual_guess": [
+        "cotton twill",
+        "corduroy-like"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped trousers",
+        "relaxed fit",
+        "utility pockets",
+        "barrel leg"
+      ],
+      "short_trend_summary": "These relaxed, cropped trousers with utility-inspired details align with current comfortable and functional fashion trends.",
+      "confidence": 0.9
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545412979/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545412979/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_548172234",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/mono-corto-cinturon-hombreras-p02574714.html?v1=548172234&v2=2535409",
+    "original": {
+      "id": 54817223400,
+      "reference": "02574714-I2026",
+      "displayReference": "2574/714",
+      "brand": "Zara",
+      "name": "MONO CORTO CINTURÓN HOMBRERAS",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/cc59/002a/68ca47b2a59a/63ebdafe0d34/02574714670-p/02574714670-p.jpg?ts=1782980604036&w={width}",
+      "colors": "Caldero",
+      "price": 3595,
+      "category": "woman-highlight-new",
+      "keyword": "mono-corto-cinturon-hombreras",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "670",
+          "displayReference": "2574/714/670",
+          "hexCode": "#B16138",
+          "productId": 548172234,
+          "name": "Caldero",
+          "reference": "C02574714670000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/cc59/002a/68ca47b2a59a/63ebdafe0d34/02574714670-p/02574714670-p.jpg?ts=1782980604036&w={width}"
+          ],
+          "price": 3595,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/02574714670-f1",
+            "name": "02574714670-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1782829108600",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "5281500c2bd347838c7cdd3f078094c5",
+              "deliveryUrl": "https://static.zara.net/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/02574714670-f1/02574714670-f1.jpg?ts=1782829108600",
+              "deliveryPath": "/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/02574714670-f1/02574714670-f1.jpg?ts=1782829108600"
+            },
+            "url": "https://static.zara.net/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/02574714670-f1/02574714670-f1.jpg?ts=1782829108600&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/meta.json?ts=1782829109891"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/mono-corto-cinturon-hombreras-p02574714.html?v1=548172234&v2=2535409"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/woman-highlight-new-l17359.html",
+      "productPage": "https://www.zara.com/es/es/mono-corto-cinturon-hombreras-p02574714.html"
+    },
+    "normalized": {
+      "product_id": "zara_548172234",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/mono-corto-cinturon-hombreras-p02574714.html?v1=548172234&v2=2535409",
+      "parent_product_id": "54817223400",
+      "color_variant_product_id": "548172234",
+      "reference": "02574714-I2026",
+      "display_reference": "2574/714",
+      "color_reference": "C02574714670000-I2026",
+      "color_display_reference": "2574/714/670",
+      "color_id": "670",
+      "brand": "Zara",
+      "title": "MONO CORTO CINTURÓN HOMBRERAS",
+      "category": "woman-highlight-new",
+      "category_path": [
+        "woman",
+        "highlight",
+        "new"
+      ],
+      "keyword": "mono-corto-cinturon-hombreras",
+      "price": 3595,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Caldero",
+      "hex_code": "#B16138",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/cc59/002a/68ca47b2a59a/63ebdafe0d34/02574714670-p/02574714670-p.jpg?ts=1782980604036&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/cc59/002a/68ca47b2a59a/63ebdafe0d34/02574714670-p/02574714670-p.jpg?ts=1782980604036&w=1024",
+        "https://static.zara.net/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/02574714670-f1/02574714670-f1.jpg?ts=1782829108600&w=1024",
+        "https://static.zara.net/assets/public/5281/500c/2bd347838c7c/dd3f078094c5/02574714670-f1/02574714670-f1.jpg?ts=1782829108600"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/woman-highlight-new-l17359.html"
+    },
+    "gemini_analysis": {
+      "product_type": "romper",
+      "base_product_type": "dress",
+      "fashion_category": "dress",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "A-line",
+      "length": "mini",
+      "sleeve_type": "sleeveless",
+      "neckline": "cowl neck",
+      "style_tags": [
+        "casual",
+        "chic",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "rust"
+      ],
+      "pattern": "solid",
+      "details": [
+        "draped neckline",
+        "self-tie belt",
+        "back zipper",
+        "pleated shorts"
+      ],
+      "material_visual_guess": [
+        "viscose blend",
+        "linen blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "draped neckline",
+        "belted romper",
+        "earthy tones",
+        "relaxed chic"
+      ],
+      "short_trend_summary": "This romper features a draped neckline and a self-tie belt, embodying a relaxed yet chic aesthetic popular for warm weather.",
+      "confidence": 0.9
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_548172234/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_548172234/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_547732340",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/shorts-z1975-mom-fit-p09942152.html?v1=547732340&v2=2535409",
+    "original": {
+      "id": 54773234000,
+      "reference": "09942152-I2026",
+      "displayReference": "9942/152",
+      "brand": "Zara",
+      "name": "SHORTS Z1975 MOM FIT",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/62aa/5b8a/3b1b4722a83b/a954205bb721/09942152104-a3/09942152104-a3.jpg?ts=1782746386857&w={width}",
+      "colors": "Rayas",
+      "price": 2595,
+      "category": "woman-highlight-new",
+      "keyword": "shorts-z1975-mom-fit",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "104",
+          "displayReference": "9942/152/104",
+          "hexCode": "#D3EBE2",
+          "productId": 547732340,
+          "name": "rayas",
+          "reference": "C09942152104000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/62aa/5b8a/3b1b4722a83b/a954205bb721/09942152104-a3/09942152104-a3.jpg?ts=1782746386857&w={width}",
+            "https://static.zara.net/assets/public/08f5/f195/24f949a68da5/88e192b81cc9/09942152104-a1/09942152104-a1.jpg?ts=1782746385708&w={width}",
+            "https://static.zara.net/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1/09942152104-f1.jpg?ts=1782471658951&w={width}"
+          ],
+          "price": 2595,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1",
+            "name": "09942152104-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1782471658951",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "43462dfa38b54726bb96c63bf169000a",
+              "deliveryUrl": "https://static.zara.net/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1/09942152104-f1.jpg?ts=1782471658951",
+              "deliveryPath": "/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1/09942152104-f1.jpg?ts=1782471658951"
+            },
+            "url": "https://static.zara.net/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1/09942152104-f1.jpg?ts=1782471658951&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/meta.json?ts=1782471660329"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/shorts-z1975-mom-fit-p09942152.html?v1=547732340&v2=2535409"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/woman-highlight-new-l17359.html",
+      "productPage": "https://www.zara.com/es/es/shorts-z1975-mom-fit-p09942152.html"
+    },
+    "normalized": {
+      "product_id": "zara_547732340",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/shorts-z1975-mom-fit-p09942152.html?v1=547732340&v2=2535409",
+      "parent_product_id": "54773234000",
+      "color_variant_product_id": "547732340",
+      "reference": "09942152-I2026",
+      "display_reference": "9942/152",
+      "color_reference": "C09942152104000-I2026",
+      "color_display_reference": "9942/152/104",
+      "color_id": "104",
+      "brand": "Zara",
+      "title": "SHORTS Z1975 MOM FIT",
+      "category": "woman-highlight-new",
+      "category_path": [
+        "woman",
+        "highlight",
+        "new"
+      ],
+      "keyword": "shorts-z1975-mom-fit",
+      "price": 2595,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "rayas",
+      "hex_code": "#D3EBE2",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/62aa/5b8a/3b1b4722a83b/a954205bb721/09942152104-a3/09942152104-a3.jpg?ts=1782746386857&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/62aa/5b8a/3b1b4722a83b/a954205bb721/09942152104-a3/09942152104-a3.jpg?ts=1782746386857&w=1024",
+        "https://static.zara.net/assets/public/08f5/f195/24f949a68da5/88e192b81cc9/09942152104-a1/09942152104-a1.jpg?ts=1782746385708&w=1024",
+        "https://static.zara.net/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1/09942152104-f1.jpg?ts=1782471658951&w=1024",
+        "https://static.zara.net/assets/public/4346/2dfa/38b54726bb96/c63bf169000a/09942152104-f1/09942152104-f1.jpg?ts=1782471658951"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/woman-highlight-new-l17359.html"
+    },
+    "gemini_analysis": {
+      "product_type": "shirt",
+      "base_product_type": "shirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "classic collar",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light green"
+      ],
+      "pattern": "solid",
+      "details": [
+        "button-front",
+        "chest pockets",
+        "dropped shoulder",
+        "buttoned cuffs"
+      ],
+      "material_visual_guess": [
+        "lightweight cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "pastel fashion",
+        "relaxed shirting",
+        "utility details",
+        "summer essentials"
+      ],
+      "short_trend_summary": "This pastel relaxed-fit shirt with utility pockets embodies a casual and comfortable summer trend.",
+      "confidence": 0.9
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_547732340/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_547732340/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545456642",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/blusa-manga-corta-encaje-zw-collection-p06895251.html?v1=545456642&v2=2535409",
+    "original": {
+      "id": 54545664200,
+      "reference": "06895251-I2026",
+      "displayReference": "6895/251",
+      "brand": "Zara",
+      "name": "BLUSA MANGA CORTA ENCAJE ZW COLLECTION",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/a571/8437/9aa7408cbc8d/b99194cc8858/06895251250-a1/06895251250-a1.jpg?ts=1780585883489&w={width}",
+      "colors": "Blanco",
+      "price": 3995,
+      "category": "woman-highlight-new",
+      "keyword": "blusa-manga-corta-encaje-zw-collection",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "250",
+          "displayReference": "6895/251/250",
+          "hexCode": "#FAF6EC",
+          "productId": 545456642,
+          "name": "Blanco",
+          "reference": "C06895251250000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/a571/8437/9aa7408cbc8d/b99194cc8858/06895251250-a1/06895251250-a1.jpg?ts=1780585883489&w={width}",
+            "https://static.zara.net/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1/06895251250-f1.jpg?ts=1782813983439&w={width}"
+          ],
+          "price": 3995,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1",
+            "name": "06895251250-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1782813983439",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "803d4fa0c58d4dc2b26ec06eceab906a",
+              "deliveryUrl": "https://static.zara.net/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1/06895251250-f1.jpg?ts=1782813983439",
+              "deliveryPath": "/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1/06895251250-f1.jpg?ts=1782813983439"
+            },
+            "url": "https://static.zara.net/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1/06895251250-f1.jpg?ts=1782813983439&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/meta.json?ts=1782813984650"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/blusa-manga-corta-encaje-zw-collection-p06895251.html?v1=545456642&v2=2535409"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/woman-highlight-new-l17359.html",
+      "productPage": "https://www.zara.com/es/es/blusa-manga-corta-encaje-zw-collection-p06895251.html"
+    },
+    "normalized": {
+      "product_id": "zara_545456642",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/blusa-manga-corta-encaje-zw-collection-p06895251.html?v1=545456642&v2=2535409",
+      "parent_product_id": "54545664200",
+      "color_variant_product_id": "545456642",
+      "reference": "06895251-I2026",
+      "display_reference": "6895/251",
+      "color_reference": "C06895251250000-I2026",
+      "color_display_reference": "6895/251/250",
+      "color_id": "250",
+      "brand": "Zara",
+      "title": "BLUSA MANGA CORTA ENCAJE ZW COLLECTION",
+      "category": "woman-highlight-new",
+      "category_path": [
+        "woman",
+        "highlight",
+        "new"
+      ],
+      "keyword": "blusa-manga-corta-encaje-zw-collection",
+      "price": 3995,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Blanco",
+      "hex_code": "#FAF6EC",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/a571/8437/9aa7408cbc8d/b99194cc8858/06895251250-a1/06895251250-a1.jpg?ts=1780585883489&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/a571/8437/9aa7408cbc8d/b99194cc8858/06895251250-a1/06895251250-a1.jpg?ts=1780585883489&w=1024",
+        "https://static.zara.net/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1/06895251250-f1.jpg?ts=1782813983439&w=1024",
+        "https://static.zara.net/assets/public/803d/4fa0/c58d4dc2b26e/c06eceab906a/06895251250-f1/06895251250-f1.jpg?ts=1782813983439"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/woman-highlight-new-l17359.html"
+    },
+    "gemini_analysis": {
+      "product_type": "blouse",
+      "base_product_type": "blouse",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "loose",
+      "silhouette": "A-line",
+      "length": "hip-length",
+      "sleeve_type": "short sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "romantic",
+        "classic",
+        "premium"
+      ],
+      "aesthetic_tags": [
+        "romantic elegance",
+        "soft basic",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "off-white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "lace trim",
+        "gathered neckline",
+        "puffed sleeves",
+        "scalloped lace cuffs"
+      ],
+      "material_visual_guess": [
+        "satin-like",
+        "silk blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "special occasion"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "romantic blouse",
+        "lace detail",
+        "puffed sleeve",
+        "satin-like fabric",
+        "off-white top",
+        "vintage inspired"
+      ],
+      "short_trend_summary": "This romantic blouse with delicate lace details and puffed sleeves embodies a vintage-inspired elegance trend.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545456642/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545456642/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545413394",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/vestido-midi-fluido-lazada-p03152201.html?v1=545413394&v2=2535409",
+    "original": {
+      "id": 54541339400,
+      "reference": "03152201-I2026",
+      "displayReference": "3152/201",
+      "brand": "Zara",
+      "name": "VESTIDO MIDI FLUIDO LAZADA",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/5d75/68b1/3f8d41ff835c/6837ee8c0a55/03152201649-p/03152201649-p.jpg?ts=1782809545667&w={width}",
+      "colors": "Rojo / Coral",
+      "price": 2995,
+      "category": "woman-highlight-new",
+      "keyword": "vestido-midi-fluido-lazada",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "649",
+          "displayReference": "3152/201/649",
+          "hexCode": "#DB4743",
+          "productId": 545413394,
+          "name": "Rojo / Coral",
+          "reference": "C03152201649000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/5d75/68b1/3f8d41ff835c/6837ee8c0a55/03152201649-p/03152201649-p.jpg?ts=1782809545667&w={width}"
+          ],
+          "price": 2995,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/03152201649-f1",
+            "name": "03152201649-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1782829104982",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "feea249efac94736b4ae92c5c1071bf1",
+              "deliveryUrl": "https://static.zara.net/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/03152201649-f1/03152201649-f1.jpg?ts=1782829104982",
+              "deliveryPath": "/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/03152201649-f1/03152201649-f1.jpg?ts=1782829104982"
+            },
+            "url": "https://static.zara.net/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/03152201649-f1/03152201649-f1.jpg?ts=1782829104982&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/meta.json?ts=1782829106261"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/vestido-midi-fluido-lazada-p03152201.html?v1=545413394&v2=2535409"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/woman-highlight-new-l17359.html",
+      "productPage": "https://www.zara.com/es/es/vestido-midi-fluido-lazada-p03152201.html"
+    },
+    "normalized": {
+      "product_id": "zara_545413394",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/vestido-midi-fluido-lazada-p03152201.html?v1=545413394&v2=2535409",
+      "parent_product_id": "54541339400",
+      "color_variant_product_id": "545413394",
+      "reference": "03152201-I2026",
+      "display_reference": "3152/201",
+      "color_reference": "C03152201649000-I2026",
+      "color_display_reference": "3152/201/649",
+      "color_id": "649",
+      "brand": "Zara",
+      "title": "VESTIDO MIDI FLUIDO LAZADA",
+      "category": "woman-highlight-new",
+      "category_path": [
+        "woman",
+        "highlight",
+        "new"
+      ],
+      "keyword": "vestido-midi-fluido-lazada",
+      "price": 2995,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Rojo / Coral",
+      "hex_code": "#DB4743",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/5d75/68b1/3f8d41ff835c/6837ee8c0a55/03152201649-p/03152201649-p.jpg?ts=1782809545667&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/5d75/68b1/3f8d41ff835c/6837ee8c0a55/03152201649-p/03152201649-p.jpg?ts=1782809545667&w=1024",
+        "https://static.zara.net/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/03152201649-f1/03152201649-f1.jpg?ts=1782829104982&w=1024",
+        "https://static.zara.net/assets/public/feea/249e/fac94736b4ae/92c5c1071bf1/03152201649-f1/03152201649-f1.jpg?ts=1782829104982"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/woman-highlight-new-l17359.html"
+    },
+    "gemini_analysis": {
+      "product_type": "midi dress",
+      "base_product_type": "dress",
+      "fashion_category": "dress",
+      "target_gender": "women",
+      "fit": "loose",
+      "silhouette": "A-line",
+      "length": "midi",
+      "sleeve_type": "sleeveless",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "bohemian"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "bohemian chic"
+      ],
+      "visible_colors": [
+        "red"
+      ],
+      "pattern": "solid",
+      "details": [
+        "spaghetti straps",
+        "gathered neckline",
+        "tie-front detail"
+      ],
+      "material_visual_guess": [
+        "lightweight cotton blend",
+        "linen blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "beach",
+        "travel"
+      ],
+      "seasonality": [
+        "summer"
+      ],
+      "trend_keywords": [
+        "summer midi dress",
+        "relaxed fit dress",
+        "tie-front detail",
+        "bohemian style"
+      ],
+      "short_trend_summary": "A relaxed, A-line midi dress with spaghetti straps and a tie-front gathered neckline, perfect for a casual summer bohemian look.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545413394/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545413394/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545470357",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/gorro-rayas-lino-100-reversible-p00653225.html?v1=545470357&v2=2535409",
+    "original": {
+      "id": 54547035700,
+      "reference": "00653225-I2026",
+      "displayReference": "0653/225",
+      "brand": "Zara",
+      "name": "GORRO RAYAS LINO 100% REVERSIBLE",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/99b6/41ea/915c4f7ab510/ca6133f4d10e/00653225092-p/00653225092-p.jpg?ts=1782916937275&w={width}",
+      "colors": "Beige Claro",
+      "price": 2295,
+      "category": "woman-highlight-new",
+      "keyword": "gorro-rayas-lino-100-reversible",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "092",
+          "displayReference": "0653/225/092",
+          "hexCode": "#9C8068",
+          "productId": 545470357,
+          "name": "Beige claro",
+          "reference": "C00653225092000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/99b6/41ea/915c4f7ab510/ca6133f4d10e/00653225092-p/00653225092-p.jpg?ts=1782916937275&w={width}"
+          ],
+          "price": 2295,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/00653225092-f1",
+            "name": "00653225092-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1782813987476",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "55f69e2918a94adc8f1f1c5954c604f6",
+              "deliveryUrl": "https://static.zara.net/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/00653225092-f1/00653225092-f1.jpg?ts=1782813987476",
+              "deliveryPath": "/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/00653225092-f1/00653225092-f1.jpg?ts=1782813987476"
+            },
+            "url": "https://static.zara.net/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/00653225092-f1/00653225092-f1.jpg?ts=1782813987476&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/meta.json?ts=1782813988764"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/gorro-rayas-lino-100-reversible-p00653225.html?v1=545470357&v2=2535409"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/woman-highlight-new-l17359.html",
+      "productPage": "https://www.zara.com/es/es/gorro-rayas-lino-100-reversible-p00653225.html"
+    },
+    "normalized": {
+      "product_id": "zara_545470357",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/gorro-rayas-lino-100-reversible-p00653225.html?v1=545470357&v2=2535409",
+      "parent_product_id": "54547035700",
+      "color_variant_product_id": "545470357",
+      "reference": "00653225-I2026",
+      "display_reference": "0653/225",
+      "color_reference": "C00653225092000-I2026",
+      "color_display_reference": "0653/225/092",
+      "color_id": "092",
+      "brand": "Zara",
+      "title": "GORRO RAYAS LINO 100% REVERSIBLE",
+      "category": "woman-highlight-new",
+      "category_path": [
+        "woman",
+        "highlight",
+        "new"
+      ],
+      "keyword": "gorro-rayas-lino-100-reversible",
+      "price": 2295,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Beige claro",
+      "hex_code": "#9C8068",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/99b6/41ea/915c4f7ab510/ca6133f4d10e/00653225092-p/00653225092-p.jpg?ts=1782916937275&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/99b6/41ea/915c4f7ab510/ca6133f4d10e/00653225092-p/00653225092-p.jpg?ts=1782916937275&w=1024",
+        "https://static.zara.net/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/00653225092-f1/00653225092-f1.jpg?ts=1782813987476&w=1024",
+        "https://static.zara.net/assets/public/55f6/9e29/18a94adc8f1f/1c5954c604f6/00653225092-f1/00653225092-f1.jpg?ts=1782813987476"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/woman-highlight-new-l17359.html"
+    },
+    "gemini_analysis": {
+      "product_type": "wide-brimmed hat",
+      "base_product_type": "accessory",
+      "fashion_category": "accessory",
+      "target_gender": "women",
+      "fit": "unknown",
+      "silhouette": "floppy wide-brimmed",
+      "length": "unknown",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "resort",
+        "bohemian"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "summer chic"
+      ],
+      "visible_colors": [
+        "beige",
+        "off-white"
+      ],
+      "pattern": "stripes",
+      "details": [
+        "wide brim",
+        "striped pattern",
+        "floppy brim"
+      ],
+      "material_visual_guess": [
+        "woven textile",
+        "straw-like material"
+      ],
+      "occasion": [
+        "beach",
+        "vacation",
+        "outdoor",
+        "everyday"
+      ],
+      "seasonality": [
+        "summer"
+      ],
+      "trend_keywords": [
+        "wide brim hat",
+        "striped summer hat",
+        "resort wear accessory",
+        "sun protection hat",
+        "boho chic accessory"
+      ],
+      "short_trend_summary": "This wide-brimmed striped hat embodies a relaxed summer aesthetic, offering both style and sun protection.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545470357/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545470357/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_547008824",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/cazadora-efecto-piel-p04391892.html?v1=547008824&v2=2536936",
+    "original": {
+      "id": 54700882400,
+      "reference": "04391892-I2026",
+      "displayReference": "4391/892",
+      "brand": "Zara",
+      "name": "CAZADORA BIKER EFECTO PIEL",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/7b09/7534/8c8a4f8d8ebb/19a0ccae3c79/04341892700-p/04341892700-p.jpg?ts=1767009201275&w={width}",
+      "colors": "Marrón",
+      "price": 5995,
+      "category": "mujer-chaquetas",
+      "keyword": "cazadora-efecto-piel",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "700",
+          "displayReference": "4391/892/700",
+          "hexCode": "#3C2E27",
+          "productId": 547008824,
+          "name": "Marrón",
+          "reference": "C04391892700000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/7b09/7534/8c8a4f8d8ebb/19a0ccae3c79/04341892700-p/04341892700-p.jpg?ts=1767009201275&w={width}"
+          ],
+          "price": 5995,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/04341892700-f1",
+            "name": "04341892700-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1769026098616",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "10ccd711fcb64ad5974224e4cc9d8867",
+              "deliveryUrl": "https://static.zara.net/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/04341892700-f1/04341892700-f1.jpg?ts=1769026098616",
+              "deliveryPath": "/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/04341892700-f1/04341892700-f1.jpg?ts=1769026098616"
+            },
+            "url": "https://static.zara.net/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/04341892700-f1/04341892700-f1.jpg?ts=1769026098616&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/meta.json?ts=1769026098622"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/cazadora-efecto-piel-p04391892.html?v1=547008824&v2=2536936"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/mujer-chaquetas-l1114.html",
+      "productPage": "https://www.zara.com/es/es/cazadora-efecto-piel-p04391892.html"
+    },
+    "normalized": {
+      "product_id": "zara_547008824",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/cazadora-efecto-piel-p04391892.html?v1=547008824&v2=2536936",
+      "parent_product_id": "54700882400",
+      "color_variant_product_id": "547008824",
+      "reference": "04391892-I2026",
+      "display_reference": "4391/892",
+      "color_reference": "C04391892700000-I2026",
+      "color_display_reference": "4391/892/700",
+      "color_id": "700",
+      "brand": "Zara",
+      "title": "CAZADORA BIKER EFECTO PIEL",
+      "category": "mujer-chaquetas",
+      "category_path": [
+        "mujer",
+        "chaquetas"
+      ],
+      "keyword": "cazadora-efecto-piel",
+      "price": 5995,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Marrón",
+      "hex_code": "#3C2E27",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/7b09/7534/8c8a4f8d8ebb/19a0ccae3c79/04341892700-p/04341892700-p.jpg?ts=1767009201275&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/7b09/7534/8c8a4f8d8ebb/19a0ccae3c79/04341892700-p/04341892700-p.jpg?ts=1767009201275&w=1024",
+        "https://static.zara.net/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/04341892700-f1/04341892700-f1.jpg?ts=1769026098616&w=1024",
+        "https://static.zara.net/assets/public/10cc/d711/fcb64ad59742/24e4cc9d8867/04341892700-f1/04341892700-f1.jpg?ts=1769026098616"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/mujer-chaquetas-l1114.html"
+    },
+    "gemini_analysis": {
+      "product_type": "faux leather bomber jacket",
+      "base_product_type": "jacket",
+      "fashion_category": "outerwear",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "boxy",
+      "length": "waist-length",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "stand collar",
+      "style_tags": [
+        "casual",
+        "streetwear",
+        "edgy"
+      ],
+      "aesthetic_tags": [
+        "urban chic",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "dark brown"
+      ],
+      "pattern": "textured",
+      "details": [
+        "high collar",
+        "snap buttons",
+        "zipper closure",
+        "elasticated hem",
+        "shoulder tabs"
+      ],
+      "material_visual_guess": [
+        "pebbled faux leather"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "demi-season",
+        "autumn-winter"
+      ],
+      "trend_keywords": [
+        "faux leather jacket",
+        "oversized bomber",
+        "high collar jacket",
+        "textured outerwear"
+      ],
+      "short_trend_summary": "This oversized faux leather bomber jacket with a high collar taps into the current trend of relaxed, edgy outerwear.",
+      "confidence": 0.9
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_547008824/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_547008824/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_548237584",
+    "source": "zara",
+    "url": "https://www.zara.com/es/es/chaqueta-felpa-cremallera-p04174816.html?v1=548237584&v2=2536936",
+    "original": {
+      "id": 54823758400,
+      "reference": "04174816-I2026",
+      "displayReference": "4174/816",
+      "brand": "Zara",
+      "name": "CHAQUETA FELPA CREMALLERA",
+      "description": "",
+      "mainImage": "https://static.zara.net/assets/public/6481/18ff/f0334d228ae7/2ec569fe0f72/04174816803-p/04174816803-p.jpg?ts=1758812168745&w={width}",
+      "colors": "Gris Vigoré",
+      "price": 2295,
+      "category": "mujer-chaquetas",
+      "keyword": "chaqueta-felpa-cremallera",
+      "availability": "in_stock",
+      "colorsSizesImagesJSON": [
+        {
+          "id": "803",
+          "displayReference": "4174/816/803",
+          "hexCode": "#F4F6FA",
+          "productId": 548237584,
+          "name": "Gris vigoré",
+          "reference": "C04174816803000-I2026",
+          "stylingId": "0",
+          "xmedia": [
+            "https://static.zara.net/assets/public/6481/18ff/f0334d228ae7/2ec569fe0f72/04174816803-p/04174816803-p.jpg?ts=1758812168745&w={width}"
+          ],
+          "price": 2295,
+          "availability": "in_stock",
+          "pdpMedia": {
+            "datatype": "xmedia",
+            "set": 2,
+            "type": "image",
+            "kind": "other",
+            "path": "/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/04174816803-f1",
+            "name": "04174816803-f1",
+            "width": 2048,
+            "height": 3072,
+            "timestamp": "1769210749894",
+            "allowedScreens": [
+              "small",
+              "large"
+            ],
+            "extraInfo": {
+              "originalName": "f1",
+              "assetId": "a827e416075d4d7593e90e5712a5d36b",
+              "deliveryUrl": "https://static.zara.net/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/04174816803-f1/04174816803-f1.jpg?ts=1769210749894",
+              "deliveryPath": "/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/04174816803-f1/04174816803-f1.jpg?ts=1769210749894"
+            },
+            "url": "https://static.zara.net/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/04174816803-f1/04174816803-f1.jpg?ts=1769210749894&w={width}",
+            "metaUrl": "https://static.zara.net/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/meta.json?ts=1769210749900"
+          },
+          "productPageSelectedColor": "https://www.zara.com/es/es/chaqueta-felpa-cremallera-p04174816.html?v1=548237584&v2=2536936"
+        }
+      ],
+      "website": "https://www.zara.com/es/es/",
+      "categoryPage": "https://www.zara.com/es/es/mujer-chaquetas-l1114.html",
+      "productPage": "https://www.zara.com/es/es/chaqueta-felpa-cremallera-p04174816.html"
+    },
+    "normalized": {
+      "product_id": "zara_548237584",
+      "source": "zara",
+      "url": "https://www.zara.com/es/es/chaqueta-felpa-cremallera-p04174816.html?v1=548237584&v2=2536936",
+      "parent_product_id": "54823758400",
+      "color_variant_product_id": "548237584",
+      "reference": "04174816-I2026",
+      "display_reference": "4174/816",
+      "color_reference": "C04174816803000-I2026",
+      "color_display_reference": "4174/816/803",
+      "color_id": "803",
+      "brand": "Zara",
+      "title": "CHAQUETA FELPA CREMALLERA",
+      "category": "mujer-chaquetas",
+      "category_path": [
+        "mujer",
+        "chaquetas"
+      ],
+      "keyword": "chaqueta-felpa-cremallera",
+      "price": 2295,
+      "old_price": null,
+      "discount": null,
+      "discount_label": null,
+      "is_on_sale": null,
+      "color": "Gris vigoré",
+      "hex_code": "#F4F6FA",
+      "sizes": [],
+      "availability": "in_stock",
+      "state": null,
+      "first_visible_date": null,
+      "main_image_url": "https://static.zara.net/assets/public/6481/18ff/f0334d228ae7/2ec569fe0f72/04174816803-p/04174816803-p.jpg?ts=1758812168745&w=1024",
+      "gallery_image_urls": [
+        "https://static.zara.net/assets/public/6481/18ff/f0334d228ae7/2ec569fe0f72/04174816803-p/04174816803-p.jpg?ts=1758812168745&w=1024",
+        "https://static.zara.net/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/04174816803-f1/04174816803-f1.jpg?ts=1769210749894&w=1024",
+        "https://static.zara.net/assets/public/a827/e416/075d4d7593e9/0e5712a5d36b/04174816803-f1/04174816803-f1.jpg?ts=1769210749894"
+      ],
+      "description": null,
+      "composition": null,
+      "care": [],
+      "country": null,
+      "website": "https://www.zara.com/es/es/",
+      "category_page": "https://www.zara.com/es/es/mujer-chaquetas-l1114.html"
+    },
+    "gemini_analysis": {
+      "product_type": "cropped zip-up sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "regular",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "zip collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "relaxed casual",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light grey"
+      ],
+      "pattern": "solid",
+      "details": [
+        "zipper",
+        "high collar",
+        "ribbed cuffs",
+        "ribbed hem",
+        "side pockets"
+      ],
+      "material_visual_guess": [
+        "fleece-back jersey",
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "demi-season",
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped zip-up",
+        "sporty casual",
+        "heather grey basic",
+        "athleisure top"
+      ],
+      "short_trend_summary": "This cropped zip-up sweatshirt embodies the ongoing athleisure and casual comfort trend, offering a versatile layering piece.",
+      "confidence": 0.95
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_548237584/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_548237584/image_002.jpg"
+      ],
+      "error": null
+    }
+  }
+]

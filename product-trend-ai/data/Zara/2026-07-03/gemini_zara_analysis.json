@@ -1,0 +1,961 @@
+[
+  {
+    "product_id": "zara_497962265",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "cropped long-sleeve top",
+      "base_product_type": "top",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "fitted",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "white"
+      ],
+      "pattern": "solid",
+      "details": [],
+      "material_visual_guess": [
+        "ribbed knit",
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped top",
+        "basic long sleeve",
+        "fitted top",
+        "white basic"
+      ],
+      "short_trend_summary": "A versatile cropped long-sleeve top that aligns with current trends for minimalist and fitted basics.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_497962265/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_497962265/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545461542",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "wide-leg trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "loose",
+      "silhouette": "wide",
+      "length": "long",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "bohemian"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light blue"
+      ],
+      "pattern": "solid",
+      "details": [
+        "pleats",
+        "wide leg",
+        "waistband",
+        "front pockets"
+      ],
+      "material_visual_guess": [
+        "lightweight denim",
+        "chambray"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "wide leg denim",
+        "light wash denim",
+        "relaxed fit trousers",
+        "pleated trousers"
+      ],
+      "short_trend_summary": "Wide-leg, light wash denim trousers are a versatile and comfortable staple for a relaxed, on-trend look.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545461542/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545461542/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545410113",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "striped trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "long",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light pink",
+        "light purple",
+        "beige",
+        "cream",
+        "light brown"
+      ],
+      "pattern": "stripes",
+      "details": [
+        "low-rise",
+        "drawstrings",
+        "belt loops",
+        "front pockets",
+        "back pockets"
+      ],
+      "material_visual_guess": [
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "demi-season",
+        "summer"
+      ],
+      "trend_keywords": [
+        "pastel stripes",
+        "relaxed fit trousers",
+        "low-rise trend",
+        "striped pants"
+      ],
+      "short_trend_summary": "These striped trousers feature a relaxed fit and pastel color palette, aligning with current casual and low-rise fashion trends.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545410113/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545410113/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545485641",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "blouse",
+      "base_product_type": "blouse",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "short sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "romantic",
+        "classic"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "soft basic",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "off-white",
+        "black"
+      ],
+      "pattern": "polka dot",
+      "details": [
+        "ruffled sleeves",
+        "pintucks",
+        "small polka dots"
+      ],
+      "material_visual_guess": [
+        "lightweight woven fabric",
+        "chiffon-like"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "smart casual"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "ruffled blouse",
+        "polka dot print",
+        "pleated details",
+        "romantic top",
+        "feminine aesthetic"
+      ],
+      "short_trend_summary": "This lightweight blouse combines delicate pintucks and ruffled cap sleeves with a subtle polka dot print, offering a romantic and versatile option for warm-weather styling.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545485641/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545485641/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545485640",
+    "source": "zara",
+    "status": "error",
+    "gemini_analysis": null,
+    "analysis_meta": {
+      "attempt": 3,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545485640/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545485640/image_002.jpg"
+      ],
+      "error": "Gemini response must be a JSON object."
+    }
+  },
+  {
+    "product_id": "zara_545479893",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "wide-leg jeans",
+      "base_product_type": "jeans",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "wide",
+      "length": "cropped",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "relaxed casual",
+        "neutral minimalism"
+      ],
+      "visible_colors": [
+        "white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "belt loops",
+        "front pockets",
+        "wide leg",
+        "cropped hem"
+      ],
+      "material_visual_guess": [
+        "denim"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "wide-leg jeans",
+        "white denim",
+        "cropped jeans",
+        "relaxed fit"
+      ],
+      "short_trend_summary": "This item represents the ongoing trend of relaxed-fit, wide-leg denim in a versatile white color.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545479893/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545479893/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545479892",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "tank top",
+      "base_product_type": "top",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "fitted",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "sleeveless",
+      "neckline": "scoop neck",
+      "style_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "aesthetic_tags": [
+        "soft basic",
+        "clean everyday",
+        "neutral minimalism"
+      ],
+      "visible_colors": [
+        "white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "ribbed knit",
+        "scoop neck"
+      ],
+      "material_visual_guess": [
+        "cotton knit",
+        "ribbed jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "basic tank top",
+        "ribbed top",
+        "minimalist essential",
+        "everyday basic"
+      ],
+      "short_trend_summary": "This classic ribbed tank top is a versatile minimalist essential, reflecting the enduring appeal of foundational basics in modern wardrobes.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545479892/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545479892/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545412977",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "cropped trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "wide",
+      "length": "cropped",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light pink"
+      ],
+      "pattern": "solid",
+      "details": [
+        "patch pockets",
+        "button closure",
+        "elasticated hem"
+      ],
+      "material_visual_guess": [
+        "cotton twill"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped trousers",
+        "wide-leg trousers",
+        "pastel bottom",
+        "relaxed fit"
+      ],
+      "short_trend_summary": "These cropped, wide-leg trousers in a pastel shade reflect a comfortable and relaxed casual trend.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545412977/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545412977/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545412979",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "trousers",
+      "base_product_type": "trousers",
+      "fashion_category": "bottom",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "wide",
+      "length": "cropped",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "workwear"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light pink",
+        "dark olive green"
+      ],
+      "pattern": "textured",
+      "details": [
+        "patch pockets",
+        "front pockets",
+        "button closure"
+      ],
+      "material_visual_guess": [
+        "cotton twill",
+        "corduroy-like"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped trousers",
+        "relaxed fit",
+        "utility pockets",
+        "barrel leg"
+      ],
+      "short_trend_summary": "These relaxed, cropped trousers with utility-inspired details align with current comfortable and functional fashion trends.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545412979/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545412979/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_548172234",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "romper",
+      "base_product_type": "dress",
+      "fashion_category": "dress",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "A-line",
+      "length": "mini",
+      "sleeve_type": "sleeveless",
+      "neckline": "cowl neck",
+      "style_tags": [
+        "casual",
+        "chic",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "rust"
+      ],
+      "pattern": "solid",
+      "details": [
+        "draped neckline",
+        "self-tie belt",
+        "back zipper",
+        "pleated shorts"
+      ],
+      "material_visual_guess": [
+        "viscose blend",
+        "linen blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "draped neckline",
+        "belted romper",
+        "earthy tones",
+        "relaxed chic"
+      ],
+      "short_trend_summary": "This romper features a draped neckline and a self-tie belt, embodying a relaxed yet chic aesthetic popular for warm weather.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_548172234/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_548172234/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_547732340",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "shirt",
+      "base_product_type": "shirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "classic collar",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "clean everyday",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light green"
+      ],
+      "pattern": "solid",
+      "details": [
+        "button-front",
+        "chest pockets",
+        "dropped shoulder",
+        "buttoned cuffs"
+      ],
+      "material_visual_guess": [
+        "lightweight cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "pastel fashion",
+        "relaxed shirting",
+        "utility details",
+        "summer essentials"
+      ],
+      "short_trend_summary": "This pastel relaxed-fit shirt with utility pockets embodies a casual and comfortable summer trend.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_547732340/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_547732340/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545456642",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "blouse",
+      "base_product_type": "blouse",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "loose",
+      "silhouette": "A-line",
+      "length": "hip-length",
+      "sleeve_type": "short sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "romantic",
+        "classic",
+        "premium"
+      ],
+      "aesthetic_tags": [
+        "romantic elegance",
+        "soft basic",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "off-white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "lace trim",
+        "gathered neckline",
+        "puffed sleeves",
+        "scalloped lace cuffs"
+      ],
+      "material_visual_guess": [
+        "satin-like",
+        "silk blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "special occasion"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "romantic blouse",
+        "lace detail",
+        "puffed sleeve",
+        "satin-like fabric",
+        "off-white top",
+        "vintage inspired"
+      ],
+      "short_trend_summary": "This romantic blouse with delicate lace details and puffed sleeves embodies a vintage-inspired elegance trend.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545456642/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545456642/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545413394",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "midi dress",
+      "base_product_type": "dress",
+      "fashion_category": "dress",
+      "target_gender": "women",
+      "fit": "loose",
+      "silhouette": "A-line",
+      "length": "midi",
+      "sleeve_type": "sleeveless",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "bohemian"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "bohemian chic"
+      ],
+      "visible_colors": [
+        "red"
+      ],
+      "pattern": "solid",
+      "details": [
+        "spaghetti straps",
+        "gathered neckline",
+        "tie-front detail"
+      ],
+      "material_visual_guess": [
+        "lightweight cotton blend",
+        "linen blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "beach",
+        "travel"
+      ],
+      "seasonality": [
+        "summer"
+      ],
+      "trend_keywords": [
+        "summer midi dress",
+        "relaxed fit dress",
+        "tie-front detail",
+        "bohemian style"
+      ],
+      "short_trend_summary": "A relaxed, A-line midi dress with spaghetti straps and a tie-front gathered neckline, perfect for a casual summer bohemian look.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545413394/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545413394/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_545470357",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "wide-brimmed hat",
+      "base_product_type": "accessory",
+      "fashion_category": "accessory",
+      "target_gender": "women",
+      "fit": "unknown",
+      "silhouette": "floppy wide-brimmed",
+      "length": "unknown",
+      "sleeve_type": "unknown",
+      "neckline": "unknown",
+      "style_tags": [
+        "casual",
+        "resort",
+        "bohemian"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "summer chic"
+      ],
+      "visible_colors": [
+        "beige",
+        "off-white"
+      ],
+      "pattern": "stripes",
+      "details": [
+        "wide brim",
+        "striped pattern",
+        "floppy brim"
+      ],
+      "material_visual_guess": [
+        "woven textile",
+        "straw-like material"
+      ],
+      "occasion": [
+        "beach",
+        "vacation",
+        "outdoor",
+        "everyday"
+      ],
+      "seasonality": [
+        "summer"
+      ],
+      "trend_keywords": [
+        "wide brim hat",
+        "striped summer hat",
+        "resort wear accessory",
+        "sun protection hat",
+        "boho chic accessory"
+      ],
+      "short_trend_summary": "This wide-brimmed striped hat embodies a relaxed summer aesthetic, offering both style and sun protection.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_545470357/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_545470357/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_547008824",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "faux leather bomber jacket",
+      "base_product_type": "jacket",
+      "fashion_category": "outerwear",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "boxy",
+      "length": "waist-length",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "stand collar",
+      "style_tags": [
+        "casual",
+        "streetwear",
+        "edgy"
+      ],
+      "aesthetic_tags": [
+        "urban chic",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "dark brown"
+      ],
+      "pattern": "textured",
+      "details": [
+        "high collar",
+        "snap buttons",
+        "zipper closure",
+        "elasticated hem",
+        "shoulder tabs"
+      ],
+      "material_visual_guess": [
+        "pebbled faux leather"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "travel"
+      ],
+      "seasonality": [
+        "demi-season",
+        "autumn-winter"
+      ],
+      "trend_keywords": [
+        "faux leather jacket",
+        "oversized bomber",
+        "high collar jacket",
+        "textured outerwear"
+      ],
+      "short_trend_summary": "This oversized faux leather bomber jacket with a high collar taps into the current trend of relaxed, edgy outerwear.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_547008824/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_547008824/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_548237584",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "cropped zip-up sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "regular",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "zip collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "clean everyday",
+        "relaxed casual",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light grey"
+      ],
+      "pattern": "solid",
+      "details": [
+        "zipper",
+        "high collar",
+        "ribbed cuffs",
+        "ribbed hem",
+        "side pockets"
+      ],
+      "material_visual_guess": [
+        "fleece-back jersey",
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "demi-season",
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped zip-up",
+        "sporty casual",
+        "heather grey basic",
+        "athleisure top"
+      ],
+      "short_trend_summary": "This cropped zip-up sweatshirt embodies the ongoing athleisure and casual comfort trend, offering a versatile layering piece.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/Zara/2026-07-03/images/zara_548237584/image_001.jpg",
+        "data/Zara/2026-07-03/images/zara_548237584/image_002.jpg"
+      ],
+      "error": null
+    }
+  }
+]
