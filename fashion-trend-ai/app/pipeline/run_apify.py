@@ -2,8 +2,8 @@ from __future__ import annotations
 import argparse
 from datetime import date
 from pathlib import Path
-from app.sources.instagram.client import ApifyInstagramClient
-from app.sources.instagram.normalizer import normalize_apify_posts
+from app.instagram.client import ApifyInstagramClient
+from app.instagram.normalizer import normalize_apify_posts
 from app.media.downloader import download_post_images
 from app.media.video_processor import process_post_videos
 from app.storage.json_storage import save_models_json, save_raw_json
