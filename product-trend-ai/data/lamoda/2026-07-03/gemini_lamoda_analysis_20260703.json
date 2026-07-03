@@ -1,0 +1,1255 @@
+[
+  {
+    "product_id": "RTLAEF532901",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "polo sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "raglan sleeve",
+      "neckline": "polo collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "soft basic",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "light pink"
+      ],
+      "pattern": "solid",
+      "details": [
+        "polo collar",
+        "button placket",
+        "raglan sleeves",
+        "ribbed cuffs",
+        "ribbed hem"
+      ],
+      "material_visual_guess": [
+        "cotton fleece"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "demi-season",
+        "autumn-winter"
+      ],
+      "trend_keywords": [
+        "pastel sweatshirt",
+        "polo sweatshirt",
+        "relaxed fit",
+        "athleisure wear",
+        "soft basic"
+      ],
+      "short_trend_summary": "This pastel polo sweatshirt combines classic sportswear elements with a relaxed fit, aligning with current athleisure and soft basic trends.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEF532901/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEF532901/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEX983901",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up track jacket",
+      "base_product_type": "track jacket",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "zip collar",
+      "style_tags": [
+        "sporty",
+        "athleisure",
+        "casual"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "dark brown",
+        "white"
+      ],
+      "pattern": "stripes",
+      "details": [
+        "zipper",
+        "stand collar",
+        "stripes",
+        "dropped shoulders"
+      ],
+      "material_visual_guess": [
+        "viscose blend knit",
+        "smooth jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "demi-season",
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped athleisure",
+        "sporty stripes",
+        "neutral sportswear",
+        "retro sportswear"
+      ],
+      "short_trend_summary": "This cropped track jacket with classic sporty stripes taps into the ongoing athleisure trend and neutral color palettes, offering a modern take on retro sportswear.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEX983901/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEX983901/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAFE306801",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "boxy",
+      "length": "cropped",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "hooded",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "light blue"
+      ],
+      "pattern": "solid",
+      "details": [
+        "zipper",
+        "hood",
+        "drawstrings",
+        "dropped shoulder",
+        "contrast piping",
+        "gathered waist"
+      ],
+      "material_visual_guess": [
+        "cotton blend jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "summer",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "pastel hoodie",
+        "cropped hoodie",
+        "athleisure style",
+        "relaxed fit",
+        "drawstring detail"
+      ],
+      "short_trend_summary": "This cropped pastel zip-up hoodie with drawstring details aligns with the relaxed athleisure trend.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAFE306801/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAFE306801/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEN707801",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "regular",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "hooded",
+      "style_tags": [
+        "sporty",
+        "athleisure",
+        "casual"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "logo streetwear",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "black"
+      ],
+      "pattern": "logo",
+      "details": [
+        "hood",
+        "ribbed cuffs",
+        "ribbed hem",
+        "logo print"
+      ],
+      "material_visual_guess": [
+        "fleece-back jersey"
+      ],
+      "occasion": [
+        "sport",
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "black hoodie",
+        "sporty basic",
+        "logo apparel",
+        "athleisure wear",
+        "premium sportswear"
+      ],
+      "short_trend_summary": "This black logo hoodie from a premium sportswear brand aligns with the ongoing athleisure and comfortable everyday wear trends.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEN707801/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEN707801/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MZGN",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "zip collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure",
+        "streetwear"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "soft basic",
+        "logo streetwear"
+      ],
+      "visible_colors": [
+        "beige"
+      ],
+      "pattern": "graphic print",
+      "details": [
+        "zipper",
+        "high collar",
+        "ribbed cuffs",
+        "ribbed hem",
+        "dropped shoulder",
+        "character print",
+        "decorative seams"
+      ],
+      "material_visual_guess": [
+        "interlock knit",
+        "polyester blend",
+        "cotton blend"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "autumn-winter"
+      ],
+      "trend_keywords": [
+        "half-zip sweatshirt",
+        "character print",
+        "relaxed fit",
+        "athleisure wear",
+        "neutral tones"
+      ],
+      "short_trend_summary": "This half-zip sweatshirt with a character graphic print embodies the relaxed athleisure trend, popular for comfortable everyday wear.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MZGN/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MZGN/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MZV3",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "fitted",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "hooded, zip collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "sporty basic"
+      ],
+      "visible_colors": [
+        "turquoise",
+        "red"
+      ],
+      "pattern": "graphic print",
+      "details": [
+        "zipper",
+        "hood",
+        "kangaroo pocket",
+        "ribbed cuffs",
+        "ribbed hem",
+        "graphic text"
+      ],
+      "material_visual_guess": [
+        "cotton blend jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped hoodie",
+        "zip-up hoodie",
+        "graphic hoodie",
+        "pastel hoodie",
+        "fitted hoodie"
+      ],
+      "short_trend_summary": "This cropped zip-up hoodie with graphic text reflects the ongoing trend for Y2K-inspired casual wear.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MZV3/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MZV3/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEN707601",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "raglan sleeve",
+      "neckline": "hooded",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "black"
+      ],
+      "pattern": "solid",
+      "details": [
+        "zipper",
+        "hood",
+        "drawstrings",
+        "ribbed cuffs",
+        "ribbed hem",
+        "raglan sleeves",
+        "brand plaque"
+      ],
+      "material_visual_guess": [
+        "cotton jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "sporty basic",
+        "relaxed casual",
+        "zip-up hoodie",
+        "athleisure wear",
+        "black hoodie"
+      ],
+      "short_trend_summary": "A versatile black zip-up hoodie remains a key piece in athleisure and casual wear trends.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEN707601/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEN707601/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEX915901",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "minimal",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "soft basic",
+        "neutral minimalism",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "off-white"
+      ],
+      "pattern": "solid",
+      "details": [
+        "ribbed cuffs",
+        "horizontal seam detail"
+      ],
+      "material_visual_guess": [
+        "structured jersey",
+        "pique knit"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "neutral sweatshirt",
+        "relaxed fit",
+        "minimalist basic",
+        "structured knit"
+      ],
+      "short_trend_summary": "A versatile neutral sweatshirt with a relaxed fit, embodying a minimalist and comfortable aesthetic.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEX915901/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEX915901/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEX917601",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "soft basic",
+        "neutral minimalism",
+        "relaxed casual"
+      ],
+      "visible_colors": [
+        "dark grey"
+      ],
+      "pattern": "solid",
+      "details": [
+        "horizontal seam detail",
+        "ribbed cuffs",
+        "ribbed hem"
+      ],
+      "material_visual_guess": [
+        "cotton blend pique knit"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "relaxed fit",
+        "minimalist aesthetic",
+        "neutral tones",
+        "pique knit",
+        "dropped shoulder"
+      ],
+      "short_trend_summary": "A relaxed fit pique knit sweatshirt in a neutral tone, embodying a minimalist and comfortable everyday style.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEX917601/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEX917601/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEX901901",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "half-zip sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve, dropped shoulder",
+      "neckline": "zip collar",
+      "style_tags": [
+        "casual",
+        "minimal",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "neutral minimalism",
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "dark brown"
+      ],
+      "pattern": "solid",
+      "details": [
+        "half-zip",
+        "stand collar",
+        "elasticated hem"
+      ],
+      "material_visual_guess": [
+        "viscose blend jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "half-zip trend",
+        "minimalist athleisure",
+        "relaxed fit",
+        "neutral tones"
+      ],
+      "short_trend_summary": "This half-zip sweatshirt embodies the current trend for minimalist, relaxed silhouettes in versatile neutral tones, blending casual comfort with a refined aesthetic.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEX901901/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEX901901/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEK849601",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure",
+        "premium"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "relaxed casual",
+        "logo streetwear"
+      ],
+      "visible_colors": [
+        "black",
+        "white"
+      ],
+      "pattern": "logo",
+      "details": [
+        "logo print",
+        "ribbed cuffs",
+        "ribbed hem",
+        "crew neck"
+      ],
+      "material_visual_guess": [
+        "cotton blend jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "all-season",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "logo sweatshirt",
+        "relaxed fit",
+        "premium casual",
+        "athleisure basic",
+        "black sweatshirt"
+      ],
+      "short_trend_summary": "This classic black logo sweatshirt embodies the enduring athleisure and premium casual trends, offering versatile everyday style.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEK849601/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEK849601/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MVWZ",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "polo sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "polo collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "sporty premium"
+      ],
+      "visible_colors": [
+        "dark blue"
+      ],
+      "pattern": "logo",
+      "details": [
+        "polo collar",
+        "button placket",
+        "embroidered logo",
+        "ribbed cuffs"
+      ],
+      "material_visual_guess": [
+        "cotton blend jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "polo sweatshirt",
+        "relaxed fit",
+        "athleisure wear",
+        "embroidered logo",
+        "dark blue basic"
+      ],
+      "short_trend_summary": "This polo sweatshirt combines classic sporty elements with a relaxed fit, aligning with the enduring athleisure and comfortable casual wear trends.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MVWZ/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MVWZ/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAAO089603",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "regular",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "crew neck",
+      "style_tags": [
+        "sporty",
+        "athleisure",
+        "casual"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "logo streetwear",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "black",
+        "gold"
+      ],
+      "pattern": "logo",
+      "details": [
+        "logo print",
+        "ribbed cuffs",
+        "ribbed hem"
+      ],
+      "material_visual_guess": [
+        "smooth jersey",
+        "viscose blend"
+      ],
+      "occasion": [
+        "sport",
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "all-season",
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "EA7 sweatshirt",
+        "sporty sweatshirt",
+        "logo sweatshirt",
+        "athleisure wear",
+        "premium sportswear"
+      ],
+      "short_trend_summary": "This EA7 logo sweatshirt embodies the enduring athleisure trend with a premium sporty aesthetic.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAAO089603/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAAO089603/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEK812501",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "cropped",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "hooded",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure",
+        "streetwear"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "soft basic",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "light grey"
+      ],
+      "pattern": "solid",
+      "details": [
+        "zipper",
+        "hood",
+        "dropped shoulder",
+        "ribbed cuffs"
+      ],
+      "material_visual_guess": [
+        "cotton fleece"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear"
+      ],
+      "seasonality": [
+        "all-season"
+      ],
+      "trend_keywords": [
+        "cropped hoodie",
+        "relaxed fit",
+        "athleisure wear",
+        "grey hoodie",
+        "soft basic"
+      ],
+      "short_trend_summary": "This cropped, relaxed fit zip-up hoodie aligns with current athleisure and comfortable everyday wear trends.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEK812501/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEK812501/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MWL7",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "cropped hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "oversized",
+      "silhouette": "boxy",
+      "length": "cropped",
+      "sleeve_type": "long sleeve",
+      "neckline": "hooded",
+      "style_tags": [
+        "casual",
+        "streetwear",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "logo streetwear"
+      ],
+      "visible_colors": [
+        "black",
+        "gold"
+      ],
+      "pattern": "graphic print",
+      "details": [
+        "hood",
+        "drawstrings",
+        "kangaroo pocket",
+        "ribbed cuffs",
+        "ribbed hem",
+        "dropped shoulder",
+        "graphic print"
+      ],
+      "material_visual_guess": [
+        "cotton fleece"
+      ],
+      "occasion": [
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "demi-season",
+        "all-season"
+      ],
+      "trend_keywords": [
+        "oversized hoodie",
+        "cropped hoodie",
+        "graphic print",
+        "long drawstrings",
+        "streetwear aesthetic",
+        "relaxed fit"
+      ],
+      "short_trend_summary": "This oversized, cropped hoodie with prominent drawstrings and a graphic print aligns with current streetwear and relaxed casual trends.",
+      "confidence": 0.95
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MWL7/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MWL7/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "RTLAEX902201",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-neck sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "boxy",
+      "length": "waist-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "zip collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure",
+        "minimal"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "neutral minimalism",
+        "soft basic"
+      ],
+      "visible_colors": [
+        "khaki green"
+      ],
+      "pattern": "solid",
+      "details": [
+        "half-zip closure",
+        "stand collar",
+        "elasticated hem",
+        "dropped shoulder",
+        "ribbed cuffs"
+      ],
+      "material_visual_guess": [
+        "viscose blend jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear",
+        "sport"
+      ],
+      "seasonality": [
+        "demi-season",
+        "autumn-winter"
+      ],
+      "trend_keywords": [
+        "zip-neck trend",
+        "athleisure wear",
+        "relaxed fit",
+        "neutral tones",
+        "khaki green",
+        "minimalist style"
+      ],
+      "short_trend_summary": "This zip-neck sweatshirt embodies the current athleisure and minimalist trends with its relaxed silhouette and versatile neutral tone.",
+      "confidence": 1.0
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/RTLAEX902201/image_001.jpg",
+        "data/lamoda/2026-07-03/images/RTLAEX902201/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MUPB",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "zip-up hoodie",
+      "base_product_type": "hoodie",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "boxy",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "hooded",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "relaxed casual",
+        "soft basic",
+        "neutral minimalism"
+      ],
+      "visible_colors": [
+        "light grey"
+      ],
+      "pattern": "solid",
+      "details": [
+        "zipper",
+        "hood",
+        "kangaroo pocket",
+        "dropped shoulder",
+        "ribbed cuffs"
+      ],
+      "material_visual_guess": [
+        "modal blend jersey",
+        "soft knit"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "homewear",
+        "sport"
+      ],
+      "seasonality": [
+        "demi-season",
+        "all-season"
+      ],
+      "trend_keywords": [
+        "relaxed fit hoodie",
+        "grey hoodie",
+        "athleisure wear",
+        "soft basic",
+        "dropped shoulder"
+      ],
+      "short_trend_summary": "A versatile relaxed fit zip-up hoodie in a neutral tone, aligning with current athleisure and comfortable everyday wear trends.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MUPB/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MUPB/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MQ4Q",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "half-zip sweatshirt",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "relaxed",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "dropped shoulder",
+      "neckline": "zip collar",
+      "style_tags": [
+        "casual",
+        "sporty",
+        "athleisure",
+        "streetwear",
+        "premium"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "relaxed casual",
+        "logo streetwear"
+      ],
+      "visible_colors": [
+        "off-white"
+      ],
+      "pattern": "logo",
+      "details": [
+        "zipper",
+        "stand collar",
+        "logo patches",
+        "ribbed cuffs",
+        "ribbed hem",
+        "dropped shoulder"
+      ],
+      "material_visual_guess": [
+        "fleece-back jersey"
+      ],
+      "occasion": [
+        "everyday",
+        "casual",
+        "sport",
+        "travel",
+        "homewear"
+      ],
+      "seasonality": [
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "collegiate style",
+        "logo trend",
+        "relaxed fit",
+        "athleisure wear",
+        "half-zip sweatshirt",
+        "neutral color"
+      ],
+      "short_trend_summary": "This half-zip sweatshirt with collegiate-inspired patches taps into the athleisure and logo trend, offering a relaxed and versatile piece for everyday wear.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MQ4Q/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MQ4Q/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "MP002XW1MP4F",
+    "source": "lamoda",
+    "status": "ok",
+    "gemini_analysis": {
+      "product_type": "fleece quarter-zip top",
+      "base_product_type": "sweatshirt",
+      "fashion_category": "top",
+      "target_gender": "women",
+      "fit": "regular",
+      "silhouette": "straight",
+      "length": "hip-length",
+      "sleeve_type": "long sleeve",
+      "neckline": "stand collar",
+      "style_tags": [
+        "sporty",
+        "outdoor",
+        "casual",
+        "athleisure"
+      ],
+      "aesthetic_tags": [
+        "sporty premium",
+        "relaxed casual",
+        "clean everyday"
+      ],
+      "visible_colors": [
+        "dark green"
+      ],
+      "pattern": "solid",
+      "details": [
+        "quarter-zip",
+        "stand collar",
+        "long sleeves"
+      ],
+      "material_visual_guess": [
+        "fleece"
+      ],
+      "occasion": [
+        "sport",
+        "outdoor",
+        "everyday",
+        "casual"
+      ],
+      "seasonality": [
+        "demi-season"
+      ],
+      "trend_keywords": [
+        "fleece top",
+        "quarter-zip",
+        "sporty basic",
+        "outdoor casual",
+        "stand collar"
+      ],
+      "short_trend_summary": "This fleece quarter-zip top aligns with the growing demand for comfortable, functional, and versatile athleisure wear, suitable for outdoor and everyday casual styling.",
+      "confidence": 0.9
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/lamoda/2026-07-03/images/MP002XW1MP4F/image_001.jpg",
+        "data/lamoda/2026-07-03/images/MP002XW1MP4F/image_002.jpg"
+      ],
+      "error": null
+    }
+  }
+]
