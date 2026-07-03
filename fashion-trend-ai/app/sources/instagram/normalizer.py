@@ -1,7 +1,7 @@
 from __future__ import annotations
 from typing import Any
 from pydantic import HttpUrl
-from app.apify.schemas import NormalizedPost
+from app.sources.instagram.schemas import NormalizedPost
 from urllib.parse import urlparse
 
 def normalize_apify_post(raw: dict[str, Any]) -> NormalizedPost:
