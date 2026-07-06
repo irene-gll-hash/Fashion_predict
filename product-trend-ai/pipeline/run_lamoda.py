@@ -29,9 +29,9 @@ def main() -> None:
     date_dir = DATA_DIR / "lamoda" / run_date
     images_dir = date_dir / "images"
     input_file = Path(args.input_file) if args.input_file else find_lamoda_input_file(DATA_DIR, run_date)
-    normalized_output = date_dir / f"normalized_lamoda_products_{compact_date}.json"
-    gemini_output = date_dir / f"gemini_lamoda_analysis_{compact_date}.json"
-    enriched_output = date_dir / f"enriched_lamoda_products_{compact_date}.json"
+    normalized_output = date_dir / f"normalized_lamoda_products.json"
+    gemini_output = date_dir / f"gemini_lamoda_analysis.json"
+    enriched_output = date_dir / f"enriched_lamoda_products.json"
     print(f"[INFO] Input file: {input_file}")
     raw_records = load_lamoda_products(input_file)
     if args.limit:

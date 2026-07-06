@@ -1,0 +1,941 @@
+[
+  {
+    "product_id": "zara_550824479_800",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы капри",
+        "commercial_name_en": "capri jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "straight",
+        "silhouette": null,
+        "length": "cropped",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "capri_length",
+        "mid_waist_jeans"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "black capri jeans",
+        "white t-shirt"
+      ],
+      "styling_context": "The jeans are styled with a simple white top, creating a casual and comfortable everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти черные джинсы капри со средней посадкой - универсальный элемент для повседневного образа.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific type of top (t_shirt) is an assumption based on the visible portion."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_550824479_800/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_550824479_800/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_547793091_251",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "balloon_jeans",
+        "commercial_name_ru": "Джинсы-баллоны",
+        "commercial_name_en": "Balloon jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "balloon_jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.85
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "balloon",
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "balloon_leg",
+        "mid_waist",
+        "white_denim",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "tank top",
+        "sandals"
+      ],
+      "styling_context": "The jeans are styled casually with a simple white tank top and black flip-flop sandals, creating a relaxed and comfortable everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "summer_casual"
+      ],
+      "short_trend_summary": "Эти джинсы-баллоны с завышенной талией и расслабленным кроем представляют собой актуальный тренд на объемные силуэты и комфорт.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific_type 'balloon_jeans' is derived from the product title and visual, as it's not directly in the provided taxonomy for subcategory.",
+        "Material guess 'denim' is based on the product being 'jeans' and visual appearance, not explicitly stated in composition."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_547793091_251/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_547793091_251/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_565488122_406",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "mom_jeans",
+        "commercial_name_ru": "джинсы мом",
+        "commercial_name_en": "mom fit jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "mom_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "y2k",
+        "basic"
+      ],
+      "trend_tags": [
+        "mom_jeans",
+        "high_waist",
+        "light_wash_denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "shirt"
+      ],
+      "styling_context": "The jeans are styled with a white long-sleeve collared shirt, tucked in, creating a casual and relaxed everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "everyday",
+        "minimal"
+      ],
+      "short_trend_summary": "Светлые джинсы мом с высокой посадкой - универсальный элемент повседневного гардероба.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_565488122_406/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_565488122_406/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_562452075_427",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.7
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.85
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "relaxed_fit",
+        "mid_waist",
+        "ankle_length_jeans",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "white t-shirt",
+        "black flip-flops"
+      ],
+      "styling_context": "casual",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти джинсы свободного кроя со средней посадкой и длиной до щиколотки являются базовым элементом повседневного гардероба.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_562452075_427/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_562452075_427/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_557788621_406",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "straight",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "straight",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "straight_leg",
+        "high_waist",
+        "denim_jeans"
+      ],
+      "seasonality": [
+        "all_season",
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "crop_top",
+        "sandals"
+      ],
+      "styling_context": "The jeans are styled casually with a white crop top and yellow flat sandals, suggesting a relaxed, warm-weather look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "summer_vibe"
+      ],
+      "short_trend_summary": "Эти прямые джинсы с высокой посадкой и длинной штаниной — универсальная база для повседневных и летних образов.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_557788621_406/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_557788621_406/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_562452069_250",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim",
+          "cotton"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "minimal"
+      ],
+      "trend_tags": [
+        "relaxed_fit",
+        "mid_rise",
+        "ankle_length",
+        "white_denim"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "visible_outfit_items": [
+        "white tank top",
+        "white jeans",
+        "white flip-flops"
+      ],
+      "styling_context": "The model wears white mid-rise relaxed ankle jeans paired with a white tank top and white flip-flops, creating a casual and minimalist summer look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "summer"
+      ],
+      "short_trend_summary": "Эти белые джинсы с расслабленной посадкой и средней посадкой до щиколотки являются универсальным элементом для создания повседневных и минималистичных образов.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The exact composition of the denim is not specified, assuming cotton blend.",
+        "While described as 'relaxed', the leg shape appears straight rather than wide or tapered."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_562452069_250/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_562452069_250/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_562452068_406",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "relaxed_fit_jeans",
+        "mid_rise",
+        "ankle_length_jeans",
+        "light_wash_denim"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "light blue relaxed ankle jeans",
+        "black flip-flops",
+        "black t-shirt"
+      ],
+      "styling_context": "The jeans are styled casually with black flip-flops and a simple black top, suggesting a relaxed everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти светло-голубые джинсы свободного кроя с завышенной талией и длиной до щиколотки являются актуальной базовой вещью для повседневного гардероба.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_562452068_406/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_562452068_406/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_559459984_105",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "jeans",
+        "commercial_name_ru": "Широкие джинсы с низкой посадкой в полоску",
+        "commercial_name_en": "Low-Rise Striped Wide-Leg Jeans",
+        "confidence": 0.98
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 0.98
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "low_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "multicolor",
+          "pink",
+          "beige",
+          "light_blue",
+          "green",
+          "white"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": null
+      },
+      "style_tags": [
+        "casual",
+        "y2k",
+        "boho"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "low_rise",
+        "striped_pattern",
+        "pastel_colors",
+        "y2k_revival"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "striped wide-leg jeans",
+        "green ribbed tank top"
+      ],
+      "styling_context": "Casual outdoor styling, suitable for warm weather.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "summer_vibe",
+        "y2k_inspired"
+      ],
+      "short_trend_summary": "Широкие джинсы с низкой посадкой в разноцветную полоску, актуальные для летних образов в стиле Y2K.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Material guess 'denim' is based on product type 'jeans' and visual appearance, not explicit composition.",
+        "Length could be considered ankle_length depending on wearer's height."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_559459984_105/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_559459984_105/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_564880300_250",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "culottes",
+        "commercial_name_ru": "белые кюлоты с высокой талией",
+        "commercial_name_en": "white high-waist culottes",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "culottes",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "sunglasses",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "mules",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "cropped",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_waist",
+        "comfort_wear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "white ribbed tank top",
+        "dark sunglasses",
+        "dark flat shoes"
+      ],
+      "styling_context": "The culottes are styled casually with a white ribbed tank top and dark sunglasses, creating a relaxed and minimalist summer look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "summer_chic",
+        "effortless_style"
+      ],
+      "short_trend_summary": "Эти белые кюлоты с высокой талией и широкими штанинами являются актуальным элементом летнего гардероба, сочетающим комфорт и минималистичный стиль.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "material_guess"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_564880300_250/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_564880300_250/image_004.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "zara_557788622_427",
+    "source": "zara",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "straight",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "straight",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "washed_denim"
+      },
+      "style_tags": [
+        "casual",
+        "y2k",
+        "basic"
+      ],
+      "trend_tags": [
+        "straight_leg",
+        "high_waist",
+        "denim",
+        "long_length"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "crop top"
+      ],
+      "styling_context": "The jeans are styled with a striped crop top, suggesting a casual, relaxed, and possibly summery outfit. The model is barefoot on rocks, indicating an outdoor, natural setting.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "summery",
+        "y2k"
+      ],
+      "short_trend_summary": "Прямые джинсы с высокой посадкой и полной длиной - это универсальная и актуальная модель, подходящая для повседневного образа.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/zara/2026-07-06/images/zara_557788622_427/image_003.jpg",
+        "data/zara/2026-07-06/images/zara_557788622_427/image_004.jpg"
+      ],
+      "error": null
+    }
+  }
+]

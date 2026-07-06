@@ -1,0 +1,3256 @@
+[
+  {
+    "product_id": "hm_1327536006",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1327536006.html",
+    "original": {
+      "id": "1327536006",
+      "trackingId": "OzY7IzsxMzI3NTM2MDA2OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTs0NzsjOyM7IzsjOw_e4",
+      "productName": "Wide-Cut Paper-Bag Pants",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1327536006.html",
+      "formattedPrice": "$27.99",
+      "price": 27.99,
+      "priceMin": 27.99,
+      "priceMax": 27.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Light denim blue",
+      "colorCode": "80AAD8",
+      "swatchColorNames": [
+        "Light denim blue",
+        "Dark denim blue",
+        "Dark brown",
+        "Dark denim blue",
+        "Cream"
+      ],
+      "swatchColorCodes": [
+        "80AAD8",
+        "2E3036",
+        "453D33",
+        "2E3036",
+        "EFEEEA"
+      ],
+      "allSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizesCount": 6,
+      "imageProductSrc": "https://image.hm.com/assets/hm/19/89/19897e3b9146b7f1e08b18196b5c3a9a4429ffa3.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/b3/4e/b34e895ca5198d7585e9160f8cf83a08b091e75a.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/21/02/21020fa5a992f890e593c652fbc4298800a65792.jpg",
+        "https://image.hm.com/assets/hm/40/bd/40bd1c16fc05560e92daf86899c9dcdf2c972b53.jpg",
+        "https://image.hm.com/assets/hm/33/3e/333e3cd4ef0eb4bb56023c13f8c1b36dbded16ed.jpg",
+        "https://image.hm.com/assets/hm/6d/ef/6def438c9d523ade94399d643678adb9e0bfa38e.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_loose",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1327536006",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1327536006.html",
+      "raw_id": "1327536006",
+      "tracking_id": "OzY7IzsxMzI3NTM2MDA2OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "Wide-Cut Paper-Bag Pants",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "loose"
+      ],
+      "keyword": "jeans",
+      "price": 27.99,
+      "price_min": 27.99,
+      "price_max": 27.99,
+      "formatted_price": "$27.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Light denim blue",
+      "color_code": "80AAD8",
+      "swatch_color_names": [
+        "Light denim blue",
+        "Dark denim blue",
+        "Dark brown",
+        "Dark denim blue",
+        "Cream"
+      ],
+      "swatch_color_codes": [
+        "80AAD8",
+        "2E3036",
+        "453D33",
+        "2E3036",
+        "EFEEEA"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "available_sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 6,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/19/89/19897e3b9146b7f1e08b18196b5c3a9a4429ffa3.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/b3/4e/b34e895ca5198d7585e9160f8cf83a08b091e75a.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/19/89/19897e3b9146b7f1e08b18196b5c3a9a4429ffa3.jpg",
+        "https://image.hm.com/assets/hm/b3/4e/b34e895ca5198d7585e9160f8cf83a08b091e75a.jpg",
+        "https://image.hm.com/assets/hm/21/02/21020fa5a992f890e593c652fbc4298800a65792.jpg",
+        "https://image.hm.com/assets/hm/40/bd/40bd1c16fc05560e92daf86899c9dcdf2c972b53.jpg",
+        "https://image.hm.com/assets/hm/33/3e/333e3cd4ef0eb4bb56023c13f8c1b36dbded16ed.jpg",
+        "https://image.hm.com/assets/hm/6d/ef/6def438c9d523ade94399d643678adb9e0bfa38e.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": null,
+        "commercial_name_ru": "Широкие джинсы paper-bag",
+        "commercial_name_en": "Wide-Cut Paper-Bag Jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": null
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "utility"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "paper_bag_waist",
+        "denim_pants",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "Light blue wide-leg paper-bag jeans",
+        "White oversized shirt",
+        "Flat sandals"
+      ],
+      "styling_context": "The light blue wide-leg paper-bag jeans are styled with a white oversized button-up shirt and flat sandals, creating a relaxed and comfortable casual look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "relaxed"
+      ],
+      "short_trend_summary": "Широкие джинсы paper-bag из светлого денима — это актуальный выбор для создания расслабленных и стильных повседневных образов.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Material is guessed as denim based on visual appearance and product category 'jeans' from context, but exact composition is not provided.",
+        "The specific type of flat shoes (sandals or mules) is not definitively clear from the image."
+      ]
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1327536006/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1327536006/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1327536005",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1327536005.html",
+    "original": {
+      "id": "1327536005",
+      "trackingId": "OzY7IzsxMzI3NTM2MDA1OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7Mjs0NzsjOyM7IzsjOw_e4",
+      "productName": "Wide-Cut Paper-Bag Pants",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1327536005.html",
+      "formattedPrice": "$27.99",
+      "price": 27.99,
+      "priceMin": 27.99,
+      "priceMax": 27.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Dark denim blue",
+      "colorCode": "2E3036",
+      "swatchColorNames": [
+        "Dark denim blue",
+        "Light denim blue",
+        "Dark brown",
+        "Dark denim blue",
+        "Cream"
+      ],
+      "swatchColorCodes": [
+        "2E3036",
+        "80AAD8",
+        "453D33",
+        "2E3036",
+        "EFEEEA"
+      ],
+      "allSizes": [
+        "XXL",
+        "XL",
+        "L",
+        "M",
+        "S",
+        "XS"
+      ],
+      "availableSizes": [
+        "XXL",
+        "XL",
+        "L",
+        "M",
+        "S",
+        "XS"
+      ],
+      "sizesCount": 6,
+      "imageProductSrc": "https://image.hm.com/assets/hm/90/cf/90cfec95c8a7dbca19c6f033f1702b0ee8f6d843.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/37/d0/37d07da89e264f80fb0ee2fcfc06cb6d71f44ca0.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/53/66/5366455bfa597341c6e488fcb7b0f86795b92e35.jpg",
+        "https://image.hm.com/assets/hm/56/56/565663cb0d2bce517bc726ff04e100f9773fd4c5.jpg",
+        "https://image.hm.com/assets/hm/1e/50/1e50e0eea4e495df53a265abd04635f3f6982c15.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_loose",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1327536005",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1327536005.html",
+      "raw_id": "1327536005",
+      "tracking_id": "OzY7IzsxMzI3NTM2MDA1OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7Mjs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "Wide-Cut Paper-Bag Pants",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "loose"
+      ],
+      "keyword": "jeans",
+      "price": 27.99,
+      "price_min": 27.99,
+      "price_max": 27.99,
+      "formatted_price": "$27.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Dark denim blue",
+      "color_code": "2E3036",
+      "swatch_color_names": [
+        "Dark denim blue",
+        "Light denim blue",
+        "Dark brown",
+        "Dark denim blue",
+        "Cream"
+      ],
+      "swatch_color_codes": [
+        "2E3036",
+        "80AAD8",
+        "453D33",
+        "2E3036",
+        "EFEEEA"
+      ],
+      "sizes": [
+        "XXL",
+        "XL",
+        "L",
+        "M",
+        "S",
+        "XS"
+      ],
+      "available_sizes": [
+        "XXL",
+        "XL",
+        "L",
+        "M",
+        "S",
+        "XS"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 6,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/90/cf/90cfec95c8a7dbca19c6f033f1702b0ee8f6d843.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/37/d0/37d07da89e264f80fb0ee2fcfc06cb6d71f44ca0.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/90/cf/90cfec95c8a7dbca19c6f033f1702b0ee8f6d843.jpg",
+        "https://image.hm.com/assets/hm/37/d0/37d07da89e264f80fb0ee2fcfc06cb6d71f44ca0.jpg",
+        "https://image.hm.com/assets/hm/53/66/5366455bfa597341c6e488fcb7b0f86795b92e35.jpg",
+        "https://image.hm.com/assets/hm/56/56/565663cb0d2bce517bc726ff04e100f9773fd4c5.jpg",
+        "https://image.hm.com/assets/hm/1e/50/1e50e0eea4e495df53a265abd04635f3f6982c15.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие джинсы paper-bag",
+        "commercial_name_en": "Wide-Cut Paper-Bag Jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "pockets",
+          "paper_bag_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "dark_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "utility",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "paper_bag_waist",
+        "denim",
+        "high_waist"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "wide-cut paper-bag pants",
+        "tank top"
+      ],
+      "styling_context": "The pants are styled with a simple white tank top, emphasizing a casual and comfortable look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с завышенной талией paper-bag являются актуальным трендом для создания расслабленных повседневных образов.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product is described as 'jeans' in the context, but the material visually appears to be a softer denim or chambray, and the title uses 'Pants'."
+      ]
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1327536005/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1327536005/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1309848002",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1309848002.html",
+    "original": {
+      "id": "1309848002",
+      "trackingId": "OzY7IzsxMzA5ODQ4MDAyOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7Mzs0NzsjOyM7IzsjOw_e4",
+      "productName": "Baggy High Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1309848002.html",
+      "formattedPrice": "$27.99",
+      "price": 27.99,
+      "priceMin": 27.99,
+      "priceMax": 27.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Washed black",
+      "colorCode": "000000",
+      "swatchColorNames": [
+        "Washed black",
+        "Light beige",
+        "Denim gray",
+        "Light denim blue",
+        "Denim blue",
+        "Dark denim blue",
+        "Taupe",
+        "Black"
+      ],
+      "swatchColorCodes": [
+        "000000",
+        "EAE5D6",
+        "706C6F",
+        "3E64A7",
+        "3E64A7",
+        "2E3036",
+        "EAE5D6",
+        "000000"
+      ],
+      "allSizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "availableSizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "sizesCount": 11,
+      "imageProductSrc": "https://image.hm.com/assets/hm/07/08/070845f7230d5713322569b6203515d203b88136.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/5c/70/5c700e09b3c76d5b736efd434b458269a5edb420.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/88/62/88626c44383e8f46829db72be6656534b9b5e3d0.jpg",
+        "https://image.hm.com/assets/hm/ec/80/ec808780a2233cf63ddb9de931088ad88b260034.jpg",
+        "https://image.hm.com/assets/hm/a1/5a/a15ad3b73e397097de451cc393163f2d3ea46c31.jpg",
+        "https://image.hm.com/assets/hm/1c/1b/1c1b2eb16952aa1cd707be88c3444edfa605315a.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_loose",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1309848002",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1309848002.html",
+      "raw_id": "1309848002",
+      "tracking_id": "OzY7IzsxMzA5ODQ4MDAyOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7Mzs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "Baggy High Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "loose"
+      ],
+      "keyword": "jeans",
+      "price": 27.99,
+      "price_min": 27.99,
+      "price_max": 27.99,
+      "formatted_price": "$27.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Washed black",
+      "color_code": "000000",
+      "swatch_color_names": [
+        "Washed black",
+        "Light beige",
+        "Denim gray",
+        "Light denim blue",
+        "Denim blue",
+        "Dark denim blue",
+        "Taupe",
+        "Black"
+      ],
+      "swatch_color_codes": [
+        "000000",
+        "EAE5D6",
+        "706C6F",
+        "3E64A7",
+        "3E64A7",
+        "2E3036",
+        "EAE5D6",
+        "000000"
+      ],
+      "sizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "available_sizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 11,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/07/08/070845f7230d5713322569b6203515d203b88136.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/5c/70/5c700e09b3c76d5b736efd434b458269a5edb420.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/07/08/070845f7230d5713322569b6203515d203b88136.jpg",
+        "https://image.hm.com/assets/hm/5c/70/5c700e09b3c76d5b736efd434b458269a5edb420.jpg",
+        "https://image.hm.com/assets/hm/88/62/88626c44383e8f46829db72be6656534b9b5e3d0.jpg",
+        "https://image.hm.com/assets/hm/ec/80/ec808780a2233cf63ddb9de931088ad88b260034.jpg",
+        "https://image.hm.com/assets/hm/a1/5a/a15ad3b73e397097de451cc393163f2d3ea46c31.jpg",
+        "https://image.hm.com/assets/hm/1c/1b/1c1b2eb16952aa1cd707be88c3444edfa605315a.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": null,
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "baggy jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "washed_denim"
+      },
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "baggy_fit",
+        "high_waist",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "halter neck top",
+        "sandals"
+      ],
+      "styling_context": "The baggy high-waist jeans are styled with a yellow cowl neck halter top and black flat sandals, creating a relaxed yet chic summer look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "summer_chic",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой в стиле кэжуал актуальны для создания расслабленных и модных образов.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1309848002/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1309848002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1109636053",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1109636053.html",
+    "original": {
+      "id": "1109636053",
+      "trackingId": "OzY7IzsxMTA5NjM2MDUzOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7NDs0NzsjOyM7IzsjOw_e4",
+      "productName": "Flared High Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1109636053.html",
+      "formattedPrice": "$8.49",
+      "price": 8.49,
+      "priceMin": 8.49,
+      "priceMax": 8.49,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Light denim blue",
+      "colorCode": "80AAD8",
+      "swatchColorNames": [
+        "Light denim blue",
+        "Denim blue",
+        "Black/washed",
+        "Dark denim blue",
+        "Denim blue",
+        "Washed denim blue",
+        "White",
+        "Dark blue"
+      ],
+      "swatchColorCodes": [
+        "80AAD8",
+        "3E64A7",
+        "000000",
+        "2E3036",
+        "2E3036",
+        "3E64A7",
+        "FFFFFF",
+        "4C5164"
+      ],
+      "allSizes": [
+        "16",
+        "14",
+        "12",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "20",
+        "18"
+      ],
+      "availableSizes": [
+        "16",
+        "14",
+        "12",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "20",
+        "18"
+      ],
+      "sizesCount": 11,
+      "imageProductSrc": "https://image.hm.com/assets/hm/c3/a6/c3a68d606e44de3cc295063a0b848bb2387af7ff.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/d5/6a/d56a19da07aef705a3cba422237fce654ea652c8.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/3d/54/3d5415de91df93e2fe9689fd878b25d2f695917b.jpg",
+        "https://image.hm.com/assets/hm/15/39/15396c4a21bf49b055b71c493cbb6b0fb5b50a94.jpg",
+        "https://image.hm.com/assets/hm/9a/a1/9aa1b70a0d2420dc506abb63a33d53bc5e9cc297.jpg",
+        "https://image.hm.com/assets/hm/36/2e/362ed31a1c0d6e97abd6343ff7937afbb05c2016.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_bootcut",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1109636053",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1109636053.html",
+      "raw_id": "1109636053",
+      "tracking_id": "OzY7IzsxMTA5NjM2MDUzOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7NDs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "Flared High Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "bootcut"
+      ],
+      "keyword": "jeans",
+      "price": 8.49,
+      "price_min": 8.49,
+      "price_max": 8.49,
+      "formatted_price": "$8.49",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Light denim blue",
+      "color_code": "80AAD8",
+      "swatch_color_names": [
+        "Light denim blue",
+        "Denim blue",
+        "Black/washed",
+        "Dark denim blue",
+        "Denim blue",
+        "Washed denim blue",
+        "White",
+        "Dark blue"
+      ],
+      "swatch_color_codes": [
+        "80AAD8",
+        "3E64A7",
+        "000000",
+        "2E3036",
+        "2E3036",
+        "3E64A7",
+        "FFFFFF",
+        "4C5164"
+      ],
+      "sizes": [
+        "16",
+        "14",
+        "12",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "20",
+        "18"
+      ],
+      "available_sizes": [
+        "16",
+        "14",
+        "12",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "20",
+        "18"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 11,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/c3/a6/c3a68d606e44de3cc295063a0b848bb2387af7ff.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/d5/6a/d56a19da07aef705a3cba422237fce654ea652c8.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/c3/a6/c3a68d606e44de3cc295063a0b848bb2387af7ff.jpg",
+        "https://image.hm.com/assets/hm/d5/6a/d56a19da07aef705a3cba422237fce654ea652c8.jpg",
+        "https://image.hm.com/assets/hm/3d/54/3d5415de91df93e2fe9689fd878b25d2f695917b.jpg",
+        "https://image.hm.com/assets/hm/15/39/15396c4a21bf49b055b71c493cbb6b0fb5b50a94.jpg",
+        "https://image.hm.com/assets/hm/9a/a1/9aa1b70a0d2420dc506abb63a33d53bc5e9cc297.jpg",
+        "https://image.hm.com/assets/hm/36/2e/362ed31a1c0d6e97abd6343ff7937afbb05c2016.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "flared_jeans",
+        "commercial_name_ru": "Джинсы клеш с высокой посадкой",
+        "commercial_name_en": "Flared high-waist jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "flared_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "denim_vest",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "ballet_flats",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "slim",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "flared",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "classic"
+      ],
+      "trend_tags": [
+        "flared_leg",
+        "high_waist",
+        "denim_on_denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "flared jeans",
+        "denim vest",
+        "ballet flats"
+      ],
+      "styling_context": "The flared jeans are styled with a matching light denim vest and light-colored ballet flats, creating a cohesive denim-on-denim look.",
+      "outfit_aesthetic_tags": [
+        "denim_on_denim",
+        "casual",
+        "retro"
+      ],
+      "short_trend_summary": "Эти расклешенные джинсы с высокой посадкой — актуальная классика, легко вписывающаяся в повседневный гардероб.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1109636053/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1109636053/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0871889043",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.0871889043.html",
+    "original": {
+      "id": "0871889043",
+      "trackingId": "OzY7IzswODcxODg5MDQzOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7NTs0NzsjOyM7IzsjOw_e4",
+      "productName": "Bleecker High Rise Wide Leg Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.0871889043.html",
+      "formattedPrice": "$27.99",
+      "price": 27.99,
+      "priceMin": 27.99,
+      "priceMax": 27.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Light denim blue",
+      "colorCode": "CDDEEF",
+      "swatchColorNames": [
+        "Light denim blue",
+        "Dark denim blue",
+        "Denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Light beige",
+        "Light denim blue",
+        "Denim blue",
+        "Denim gray",
+        "Gray",
+        "Light gray",
+        "Black"
+      ],
+      "swatchColorCodes": [
+        "CDDEEF",
+        "2E3036",
+        "3E64A7",
+        "2E3036",
+        "2E3036",
+        "EAE5D6",
+        "8898AC",
+        "2E3036",
+        "706C6F",
+        "94989F",
+        "ACAAAD",
+        "272628"
+      ],
+      "allSizes": [
+        "10",
+        "8",
+        "14",
+        "12",
+        "16",
+        "20",
+        "18",
+        "2",
+        "0",
+        "6",
+        "4"
+      ],
+      "availableSizes": [
+        "16",
+        "20",
+        "18",
+        "0"
+      ],
+      "outOfStockSizes": [
+        "10",
+        "8",
+        "14",
+        "12",
+        "2",
+        "6",
+        "4"
+      ],
+      "sizesCount": 11,
+      "imageProductSrc": "https://image.hm.com/assets/hm/e7/cf/e7cf702da2da6cbd1cbd75a58e85720734131980.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/e7/cf/e7cf702da2da6cbd1cbd75a58e85720734131980.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/85/83/8583ebf7d23b19f9be1aed8f1a6b2802c9aa93b4.jpg",
+        "https://image.hm.com/assets/hm/df/c3/dfc34e8405dac133ddecabb35d11f97344d3cfb5.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_wide",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_0871889043",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.0871889043.html",
+      "raw_id": "0871889043",
+      "tracking_id": "OzY7IzswODcxODg5MDQzOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7NTs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "Bleecker High Rise Wide Leg Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "wide"
+      ],
+      "keyword": "jeans",
+      "price": 27.99,
+      "price_min": 27.99,
+      "price_max": 27.99,
+      "formatted_price": "$27.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Light denim blue",
+      "color_code": "CDDEEF",
+      "swatch_color_names": [
+        "Light denim blue",
+        "Dark denim blue",
+        "Denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Light beige",
+        "Light denim blue",
+        "Denim blue",
+        "Denim gray",
+        "Gray",
+        "Light gray",
+        "Black"
+      ],
+      "swatch_color_codes": [
+        "CDDEEF",
+        "2E3036",
+        "3E64A7",
+        "2E3036",
+        "2E3036",
+        "EAE5D6",
+        "8898AC",
+        "2E3036",
+        "706C6F",
+        "94989F",
+        "ACAAAD",
+        "272628"
+      ],
+      "sizes": [
+        "10",
+        "8",
+        "14",
+        "12",
+        "16",
+        "20",
+        "18",
+        "2",
+        "0",
+        "6",
+        "4"
+      ],
+      "available_sizes": [
+        "16",
+        "20",
+        "18",
+        "0"
+      ],
+      "out_of_stock_sizes": [
+        "10",
+        "8",
+        "14",
+        "12",
+        "2",
+        "6",
+        "4"
+      ],
+      "sizes_count": 11,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/e7/cf/e7cf702da2da6cbd1cbd75a58e85720734131980.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/e7/cf/e7cf702da2da6cbd1cbd75a58e85720734131980.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/e7/cf/e7cf702da2da6cbd1cbd75a58e85720734131980.jpg",
+        "https://image.hm.com/assets/hm/85/83/8583ebf7d23b19f9be1aed8f1a6b2802c9aa93b4.jpg",
+        "https://image.hm.com/assets/hm/df/c3/dfc34e8405dac133ddecabb35d11f97344d3cfb5.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_jeans",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": "wide",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_waist",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans"
+      ],
+      "styling_context": "product_shot_flat_lay",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой являются актуальным трендом в повседневной моде.",
+      "confidence": 1.0,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_0871889043/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_0871889043/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1045459079",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1045459079.html",
+    "original": {
+      "id": "1045459079",
+      "trackingId": "OzY7IzsxMDQ1NDU5MDc5OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7Nzs0NzsjOyM7IzsjOw_e4",
+      "productName": "Harper High Rise Wide Leg Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1045459079.html",
+      "formattedPrice": "$34.99",
+      "price": 34.99,
+      "priceMin": 34.99,
+      "priceMax": 34.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Light denim blue",
+      "colorCode": "80AAD8",
+      "swatchColorNames": [
+        "Light denim blue",
+        "Light denim blue",
+        "Navy denim blue",
+        "Navy denim blue",
+        "Light denim blue",
+        "Dark denim blue",
+        "White",
+        "Dark denim gray",
+        "White",
+        "Denim blue",
+        "Dark brown",
+        "Light denim blue",
+        "White",
+        "Light denim blue",
+        "Washed denim blue",
+        "White",
+        "Denim blue",
+        "Light denim blue",
+        "Light denim blue",
+        "Dark brown"
+      ],
+      "swatchColorCodes": [
+        "80AAD8",
+        "80AAD8",
+        "2E3036",
+        "2E3036",
+        "80AAD8",
+        "3E64A7",
+        "EFEEEA",
+        "706C6F",
+        "EAE5D6",
+        "3E64A7",
+        "453D33",
+        "80AAD8",
+        "EFEEEA",
+        "8898AC",
+        "3E64A7",
+        "F0EEED",
+        "3E64A7",
+        "80AAD8",
+        "8898AC",
+        "54443D"
+      ],
+      "allSizes": [
+        "16",
+        "12",
+        "14",
+        "8",
+        "10",
+        "4",
+        "6",
+        "0",
+        "22",
+        "2",
+        "18",
+        "20"
+      ],
+      "availableSizes": [
+        "16",
+        "12",
+        "14",
+        "8",
+        "10",
+        "4",
+        "6",
+        "22",
+        "2",
+        "18",
+        "20"
+      ],
+      "outOfStockSizes": [
+        "0"
+      ],
+      "sizesCount": 12,
+      "imageProductSrc": "https://image.hm.com/assets/hm/3c/2d/3c2dbce3ebea31e66f1318fbde94c45fdaa4f8e8.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/cf/03/cf039b460266f1515c6aee60eb9d66ee30523340.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/86/61/866185e7937573fdfa74b457467892fee740222c.jpg",
+        "https://image.hm.com/assets/hm/31/44/314463b01b2946253c9cec37150d1de96be4d0dc.jpg",
+        "https://image.hm.com/assets/hm/37/c0/37c092d4c1c1b5159aa8dccc229701db14749440.jpg",
+        "https://image.hm.com/assets/hm/3d/eb/3deb7ce42f55246676200e6c57043b1aabda9354.jpg",
+        "https://image.hm.com/assets/hm/d9/e4/d9e41e9364d61bc80aeac19b26d9b5f3a2d6eecb.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_wide",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1045459079",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1045459079.html",
+      "raw_id": "1045459079",
+      "tracking_id": "OzY7IzsxMDQ1NDU5MDc5OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7Nzs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "Harper High Rise Wide Leg Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "wide"
+      ],
+      "keyword": "jeans",
+      "price": 34.99,
+      "price_min": 34.99,
+      "price_max": 34.99,
+      "formatted_price": "$34.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Light denim blue",
+      "color_code": "80AAD8",
+      "swatch_color_names": [
+        "Light denim blue",
+        "Light denim blue",
+        "Navy denim blue",
+        "Navy denim blue",
+        "Light denim blue",
+        "Dark denim blue",
+        "White",
+        "Dark denim gray",
+        "White",
+        "Denim blue",
+        "Dark brown",
+        "Light denim blue",
+        "White",
+        "Light denim blue",
+        "Washed denim blue",
+        "White",
+        "Denim blue",
+        "Light denim blue",
+        "Light denim blue",
+        "Dark brown"
+      ],
+      "swatch_color_codes": [
+        "80AAD8",
+        "80AAD8",
+        "2E3036",
+        "2E3036",
+        "80AAD8",
+        "3E64A7",
+        "EFEEEA",
+        "706C6F",
+        "EAE5D6",
+        "3E64A7",
+        "453D33",
+        "80AAD8",
+        "EFEEEA",
+        "8898AC",
+        "3E64A7",
+        "F0EEED",
+        "3E64A7",
+        "80AAD8",
+        "8898AC",
+        "54443D"
+      ],
+      "sizes": [
+        "16",
+        "12",
+        "14",
+        "8",
+        "10",
+        "4",
+        "6",
+        "0",
+        "22",
+        "2",
+        "18",
+        "20"
+      ],
+      "available_sizes": [
+        "16",
+        "12",
+        "14",
+        "8",
+        "10",
+        "4",
+        "6",
+        "22",
+        "2",
+        "18",
+        "20"
+      ],
+      "out_of_stock_sizes": [
+        "0"
+      ],
+      "sizes_count": 12,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/3c/2d/3c2dbce3ebea31e66f1318fbde94c45fdaa4f8e8.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/cf/03/cf039b460266f1515c6aee60eb9d66ee30523340.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/3c/2d/3c2dbce3ebea31e66f1318fbde94c45fdaa4f8e8.jpg",
+        "https://image.hm.com/assets/hm/cf/03/cf039b460266f1515c6aee60eb9d66ee30523340.jpg",
+        "https://image.hm.com/assets/hm/86/61/866185e7937573fdfa74b457467892fee740222c.jpg",
+        "https://image.hm.com/assets/hm/31/44/314463b01b2946253c9cec37150d1de96be4d0dc.jpg",
+        "https://image.hm.com/assets/hm/37/c0/37c092d4c1c1b5159aa8dccc229701db14749440.jpg",
+        "https://image.hm.com/assets/hm/3d/eb/3deb7ce42f55246676200e6c57043b1aabda9354.jpg",
+        "https://image.hm.com/assets/hm/d9/e4/d9e41e9364d61bc80aeac19b26d9b5f3a2d6eecb.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_jeans",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.85
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_rise",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "tank top",
+        "sandals"
+      ],
+      "styling_context": "The jeans are styled casually with a white tank top and black flat sandals, creating a relaxed and effortless everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой являются актуальной базой для повседневного гардероба.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material composition is not explicitly stated, but visually appears to be denim",
+        "texture is inferred from denim material"
+      ]
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1045459079/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1045459079/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1338317002",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1338317002.html",
+    "original": {
+      "id": "1338317002",
+      "trackingId": "OzY7IzsxMzM4MzE3MDAyOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7ODs0NzsjOyM7IzsjOw_e4",
+      "productName": "High-Waist Barrel-Leg Ankle Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1338317002.html",
+      "formattedPrice": "$34.99",
+      "price": 34.99,
+      "priceMin": 34.99,
+      "priceMax": 34.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": true,
+      "colorName": "Light denim blue",
+      "colorCode": "80AAD8",
+      "swatchColorNames": [
+        "Light denim blue",
+        "Denim blue"
+      ],
+      "swatchColorCodes": [
+        "80AAD8",
+        "2E3036"
+      ],
+      "allSizes": [
+        "6",
+        "4",
+        "2",
+        "0",
+        "18",
+        "16",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "availableSizes": [
+        "6",
+        "4",
+        "2",
+        "0",
+        "18",
+        "16",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "sizesCount": 10,
+      "imageProductSrc": "https://image.hm.com/assets/hm/76/4e/764e771cd8bdec618b9644d71324169f096e7d91.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/a0/2d/a02db0f914c1c495dada0240d13e3e1933619474.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/f2/80/f280b56f9e623e98ba2f5db3b591d60e40debd68.jpg",
+        "https://image.hm.com/assets/hm/e1/9c/e19c6de48f3332070fb3fbfdbce220b5406c3457.jpg",
+        "https://image.hm.com/assets/hm/00/f1/00f111d74e3897443aeb572c5c29865fe43a35e7.jpg",
+        "https://image.hm.com/assets/hm/b8/0a/b80ab69d8bd0778d01abfc7dbb85d152d88f5c41.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_barrel",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1338317002",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1338317002.html",
+      "raw_id": "1338317002",
+      "tracking_id": "OzY7IzsxMzM4MzE3MDAyOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7ODs0NzsjOyM7IzsjOw_e4",
+      "brand": "H&M",
+      "title": "High-Waist Barrel-Leg Ankle Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "barrel"
+      ],
+      "keyword": "jeans",
+      "price": 34.99,
+      "price_min": 34.99,
+      "price_max": 34.99,
+      "formatted_price": "$34.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Light denim blue",
+      "color_code": "80AAD8",
+      "swatch_color_names": [
+        "Light denim blue",
+        "Denim blue"
+      ],
+      "swatch_color_codes": [
+        "80AAD8",
+        "2E3036"
+      ],
+      "sizes": [
+        "6",
+        "4",
+        "2",
+        "0",
+        "18",
+        "16",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "available_sizes": [
+        "6",
+        "4",
+        "2",
+        "0",
+        "18",
+        "16",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 10,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": true,
+      "main_image_url": "https://image.hm.com/assets/hm/76/4e/764e771cd8bdec618b9644d71324169f096e7d91.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/a0/2d/a02db0f914c1c495dada0240d13e3e1933619474.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/76/4e/764e771cd8bdec618b9644d71324169f096e7d91.jpg",
+        "https://image.hm.com/assets/hm/a0/2d/a02db0f914c1c495dada0240d13e3e1933619474.jpg",
+        "https://image.hm.com/assets/hm/f2/80/f280b56f9e623e98ba2f5db3b591d60e40debd68.jpg",
+        "https://image.hm.com/assets/hm/e1/9c/e19c6de48f3332070fb3fbfdbce220b5406c3457.jpg",
+        "https://image.hm.com/assets/hm/00/f1/00f111d74e3897443aeb572c5c29865fe43a35e7.jpg",
+        "https://image.hm.com/assets/hm/b8/0a/b80ab69d8bd0778d01abfc7dbb85d152d88f5c41.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "belt_loops",
+          "pockets",
+          "button_fly"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "barrel_leg",
+        "high_waist",
+        "denim",
+        "ankle_length"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "tank_top"
+      ],
+      "styling_context": "The jeans are styled casually with a simple white tank top, emphasizing a relaxed and comfortable everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти джинсы с высокой посадкой и укороченными штанинами в форме \"бочки\" являются актуальной моделью для повседневного образа.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The specific 'barrel-leg' shape is not directly available in the 'leg_shape' taxonomy; 'tapered' was chosen as the closest descriptor for the lower leg, while 'barrel_leg' is included in trend_tags."
+      ]
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1338317002/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1338317002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0871889087",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.0871889087.html",
+    "original": {
+      "id": "0871889087",
+      "trackingId": "OzY7IzswODcxODg5MDg3OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTA7NDc7IzsjOyM7Izs_e4",
+      "productName": "Bleecker High Rise Wide Leg Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.0871889087.html",
+      "formattedPrice": "$11.49",
+      "price": 11.49,
+      "priceMin": 11.49,
+      "priceMax": 11.49,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Dark denim blue",
+      "colorCode": "2E3036",
+      "swatchColorNames": [
+        "Dark denim blue",
+        "Light denim blue",
+        "Denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Light beige",
+        "Light denim blue",
+        "Denim blue",
+        "Denim gray",
+        "Gray",
+        "Light gray",
+        "Black"
+      ],
+      "swatchColorCodes": [
+        "2E3036",
+        "CDDEEF",
+        "3E64A7",
+        "2E3036",
+        "2E3036",
+        "EAE5D6",
+        "8898AC",
+        "2E3036",
+        "706C6F",
+        "94989F",
+        "ACAAAD",
+        "272628"
+      ],
+      "allSizes": [
+        "20",
+        "18",
+        "6",
+        "4",
+        "2",
+        "0",
+        "14",
+        "12",
+        "10",
+        "8",
+        "16"
+      ],
+      "availableSizes": [
+        "20",
+        "18",
+        "6",
+        "4",
+        "2",
+        "0",
+        "10",
+        "8",
+        "16"
+      ],
+      "outOfStockSizes": [
+        "14",
+        "12"
+      ],
+      "sizesCount": 11,
+      "imageProductSrc": "https://image.hm.com/assets/hm/50/c7/50c744dde4dc59a0111cf3830f3b6b1b1194489d.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/50/c7/50c744dde4dc59a0111cf3830f3b6b1b1194489d.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/9b/c7/9bc73b3525ce6b9520fb7857803ebbce594ea10a.jpg",
+        "https://image.hm.com/assets/hm/87/2f/872f103f00dd898e1c6cb7c142b0d77658c734de.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_wide",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_0871889087",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.0871889087.html",
+      "raw_id": "0871889087",
+      "tracking_id": "OzY7IzswODcxODg5MDg3OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTA7NDc7IzsjOyM7Izs_e4",
+      "brand": "H&M",
+      "title": "Bleecker High Rise Wide Leg Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "wide"
+      ],
+      "keyword": "jeans",
+      "price": 11.49,
+      "price_min": 11.49,
+      "price_max": 11.49,
+      "formatted_price": "$11.49",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Dark denim blue",
+      "color_code": "2E3036",
+      "swatch_color_names": [
+        "Dark denim blue",
+        "Light denim blue",
+        "Denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Light beige",
+        "Light denim blue",
+        "Denim blue",
+        "Denim gray",
+        "Gray",
+        "Light gray",
+        "Black"
+      ],
+      "swatch_color_codes": [
+        "2E3036",
+        "CDDEEF",
+        "3E64A7",
+        "2E3036",
+        "2E3036",
+        "EAE5D6",
+        "8898AC",
+        "2E3036",
+        "706C6F",
+        "94989F",
+        "ACAAAD",
+        "272628"
+      ],
+      "sizes": [
+        "20",
+        "18",
+        "6",
+        "4",
+        "2",
+        "0",
+        "14",
+        "12",
+        "10",
+        "8",
+        "16"
+      ],
+      "available_sizes": [
+        "20",
+        "18",
+        "6",
+        "4",
+        "2",
+        "0",
+        "10",
+        "8",
+        "16"
+      ],
+      "out_of_stock_sizes": [
+        "14",
+        "12"
+      ],
+      "sizes_count": 11,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/50/c7/50c744dde4dc59a0111cf3830f3b6b1b1194489d.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/50/c7/50c744dde4dc59a0111cf3830f3b6b1b1194489d.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/50/c7/50c744dde4dc59a0111cf3830f3b6b1b1194489d.jpg",
+        "https://image.hm.com/assets/hm/9b/c7/9bc73b3525ce6b9520fb7857803ebbce594ea10a.jpg",
+        "https://image.hm.com/assets/hm/87/2f/872f103f00dd898e1c6cb7c142b0d77658c734de.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets",
+          "contrast_stitching"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_waist",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [],
+      "styling_context": "product_shot_flat_lay",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Широкие джинсы с высокой посадкой — актуальный тренд, сочетающий комфорт и стиль.",
+      "confidence": 1.0,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_0871889087/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_0871889087/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1355850001",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1355850001.html",
+    "original": {
+      "id": "1355850001",
+      "trackingId": "OzY7IzsxMzU1ODUwMDAxOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTM7NDc7IzsjOyM7Izs_e4",
+      "productName": "High-Waist Barrel-Leg Ankle Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1355850001.html",
+      "formattedPrice": "$59.99",
+      "price": 59.99,
+      "priceMin": 59.99,
+      "priceMax": 59.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Light denim blue",
+      "colorCode": "3E64A7",
+      "swatchColorNames": [
+        "Light denim blue"
+      ],
+      "swatchColorCodes": [
+        "3E64A7"
+      ],
+      "allSizes": [
+        "6",
+        "4",
+        "2",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "availableSizes": [
+        "6",
+        "4",
+        "2",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "sizesCount": 7,
+      "imageProductSrc": "https://image.hm.com/assets/hm/42/b9/42b930bf8a2606a3f863e04a04004390f3dc9958.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/ca/31/ca31c2ec737a67bfe0f0f978f360dec138636798.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/56/77/5677d5281ebe89afeedeb158e51cd92e28ed50d9.jpg",
+        "https://image.hm.com/assets/hm/a9/63/a963a76f975efe62b719b789d257268d3164a552.jpg",
+        "https://image.hm.com/assets/hm/c4/40/c440ea7b7bec23d12f1e72eebe63750797de7975.jpg",
+        "https://image.hm.com/assets/hm/31/77/3177f4e1d023bb97d2e1f6870868d3bb3e566392.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_barrel",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1355850001",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1355850001.html",
+      "raw_id": "1355850001",
+      "tracking_id": "OzY7IzsxMzU1ODUwMDAxOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTM7NDc7IzsjOyM7Izs_e4",
+      "brand": "H&M",
+      "title": "High-Waist Barrel-Leg Ankle Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "barrel"
+      ],
+      "keyword": "jeans",
+      "price": 59.99,
+      "price_min": 59.99,
+      "price_max": 59.99,
+      "formatted_price": "$59.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Light denim blue",
+      "color_code": "3E64A7",
+      "swatch_color_names": [
+        "Light denim blue"
+      ],
+      "swatch_color_codes": [
+        "3E64A7"
+      ],
+      "sizes": [
+        "6",
+        "4",
+        "2",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "available_sizes": [
+        "6",
+        "4",
+        "2",
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 7,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/42/b9/42b930bf8a2606a3f863e04a04004390f3dc9958.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/ca/31/ca31c2ec737a67bfe0f0f978f360dec138636798.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/42/b9/42b930bf8a2606a3f863e04a04004390f3dc9958.jpg",
+        "https://image.hm.com/assets/hm/ca/31/ca31c2ec737a67bfe0f0f978f360dec138636798.jpg",
+        "https://image.hm.com/assets/hm/56/77/5677d5281ebe89afeedeb158e51cd92e28ed50d9.jpg",
+        "https://image.hm.com/assets/hm/a9/63/a963a76f975efe62b719b789d257268d3164a552.jpg",
+        "https://image.hm.com/assets/hm/c4/40/c440ea7b7bec23d12f1e72eebe63750797de7975.jpg",
+        "https://image.hm.com/assets/hm/31/77/3177f4e1d023bb97d2e1f6870868d3bb3e566392.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "barrel_leg_jeans",
+        "commercial_name_ru": "Джинсы-баллоны",
+        "commercial_name_en": "Barrel-leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "barrel_leg_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "barrel_leg",
+        "high_waist",
+        "denim_trend",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "light blue barrel-leg jeans",
+        "black tank top",
+        "dark sandals"
+      ],
+      "styling_context": "casual_everyday",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Актуальные джинсы-баллоны с высокой посадкой, подчеркивающие расслабленный и современный стиль.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1355850001/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1355850001/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0871889100",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.0871889100.html",
+    "original": {
+      "id": "0871889100",
+      "trackingId": "OzY7IzswODcxODg5MTAwOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTQ7NDc7IzsjOyM7Izs_e4",
+      "productName": "Bleecker High Rise Wide Leg Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.0871889100.html",
+      "formattedPrice": "$25.99",
+      "price": 25.99,
+      "priceMin": 25.99,
+      "priceMax": 25.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Denim blue",
+      "colorCode": "3E64A7",
+      "swatchColorNames": [
+        "Denim blue",
+        "Light denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Light beige",
+        "Light denim blue",
+        "Denim blue",
+        "Denim gray",
+        "Gray",
+        "Light gray",
+        "Black"
+      ],
+      "swatchColorCodes": [
+        "3E64A7",
+        "CDDEEF",
+        "2E3036",
+        "2E3036",
+        "2E3036",
+        "EAE5D6",
+        "8898AC",
+        "2E3036",
+        "706C6F",
+        "94989F",
+        "ACAAAD",
+        "272628"
+      ],
+      "allSizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "18",
+        "20",
+        "0",
+        "2",
+        "12",
+        "14",
+        "16"
+      ],
+      "availableSizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "18",
+        "20",
+        "0",
+        "2",
+        "12",
+        "14",
+        "16"
+      ],
+      "sizesCount": 11,
+      "imageProductSrc": "https://image.hm.com/assets/hm/9b/41/9b41a6e848b1bcb9a34176756d00e75398d1c6ec.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/fb/c8/fbc89d3ed44c99779db8f76e270cc06aff0f7fca.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/81/ae/81aefb85ffa7fc2638b62aff1ee893a099d1c591.jpg",
+        "https://image.hm.com/assets/hm/6f/14/6f14b9f4e6115945e540aa9c0186ab1e87760cb8.jpg",
+        "https://image.hm.com/assets/hm/2b/fa/2bfaa487ba6d283b866106d09e9854e01177f7b9.jpg",
+        "https://image.hm.com/assets/hm/91/f6/91f6c0b05a2ecc0b877aa3a577a5194b1d83aacb.jpg",
+        "https://image.hm.com/assets/hm/1c/4f/1c4fe983f5bb3d7d3d1ef68afc864303b23a52b5.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_wide",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_0871889100",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.0871889100.html",
+      "raw_id": "0871889100",
+      "tracking_id": "OzY7IzswODcxODg5MTAwOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTQ7NDc7IzsjOyM7Izs_e4",
+      "brand": "H&M",
+      "title": "Bleecker High Rise Wide Leg Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "wide"
+      ],
+      "keyword": "jeans",
+      "price": 25.99,
+      "price_min": 25.99,
+      "price_max": 25.99,
+      "formatted_price": "$25.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Denim blue",
+      "color_code": "3E64A7",
+      "swatch_color_names": [
+        "Denim blue",
+        "Light denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Dark denim blue",
+        "Light beige",
+        "Light denim blue",
+        "Denim blue",
+        "Denim gray",
+        "Gray",
+        "Light gray",
+        "Black"
+      ],
+      "swatch_color_codes": [
+        "3E64A7",
+        "CDDEEF",
+        "2E3036",
+        "2E3036",
+        "2E3036",
+        "EAE5D6",
+        "8898AC",
+        "2E3036",
+        "706C6F",
+        "94989F",
+        "ACAAAD",
+        "272628"
+      ],
+      "sizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "18",
+        "20",
+        "0",
+        "2",
+        "12",
+        "14",
+        "16"
+      ],
+      "available_sizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "18",
+        "20",
+        "0",
+        "2",
+        "12",
+        "14",
+        "16"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 11,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/9b/41/9b41a6e848b1bcb9a34176756d00e75398d1c6ec.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/fb/c8/fbc89d3ed44c99779db8f76e270cc06aff0f7fca.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/9b/41/9b41a6e848b1bcb9a34176756d00e75398d1c6ec.jpg",
+        "https://image.hm.com/assets/hm/fb/c8/fbc89d3ed44c99779db8f76e270cc06aff0f7fca.jpg",
+        "https://image.hm.com/assets/hm/81/ae/81aefb85ffa7fc2638b62aff1ee893a099d1c591.jpg",
+        "https://image.hm.com/assets/hm/6f/14/6f14b9f4e6115945e540aa9c0186ab1e87760cb8.jpg",
+        "https://image.hm.com/assets/hm/2b/fa/2bfaa487ba6d283b866106d09e9854e01177f7b9.jpg",
+        "https://image.hm.com/assets/hm/91/f6/91f6c0b05a2ecc0b877aa3a577a5194b1d83aacb.jpg",
+        "https://image.hm.com/assets/hm/1c/4f/1c4fe983f5bb3d7d3d1ef68afc864303b23a52b5.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "jeans",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "washed"
+      },
+      "style_tags": [
+        "casual",
+        "streetwear",
+        "y2k"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_rise",
+        "distressed_denim"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "crop_top",
+        "sandals"
+      ],
+      "styling_context": "Styled casually with a yellow ribbed crop top and brown flip-flop sandals, leaning against a white wall.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "streetwear",
+        "summer_casual"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой и рваными коленями отражают актуальный тренд на расслабленный деним в стиле Y2K.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_0871889100/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_0871889100/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1313093003",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1313093003.html",
+    "original": {
+      "id": "1313093003",
+      "trackingId": "OzY7IzsxMzEzMDkzMDAzOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTU7NDc7IzsjOyM7Izs_e4",
+      "productName": "Bootcut High Waist Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1313093003.html",
+      "formattedPrice": "$15.99",
+      "price": 15.99,
+      "priceMin": 15.99,
+      "priceMax": 15.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Washed black",
+      "colorCode": "000000",
+      "swatchColorNames": [
+        "Washed black",
+        "Light beige"
+      ],
+      "swatchColorCodes": [
+        "000000",
+        "EAE5D6"
+      ],
+      "allSizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "availableSizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "sizesCount": 11,
+      "imageProductSrc": "https://image.hm.com/assets/hm/b9/a9/b9a9cd6b5035fbb3db508af5d9faa1e7712375bf.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/e0/9b/e09b3c8b20b35f20a8273a27bba162e8af169d52.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/4e/7f/4e7fe55f59ffaa8a5b93c848b2b3c7039834c37d.jpg",
+        "https://image.hm.com/assets/hm/3d/bc/3dbc39071f223fb93c4f3e4bed910fd127c2edf3.jpg",
+        "https://image.hm.com/assets/hm/0a/6c/0a6ce84b6c8e742e787ff155dbbc67502fad526e.jpg",
+        "https://image.hm.com/assets/hm/4d/7f/4d7f501d43943978fbcad98324e52320c6fe6bae.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_bootcut",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1313093003",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1313093003.html",
+      "raw_id": "1313093003",
+      "tracking_id": "OzY7IzsxMzEzMDkzMDAzOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTU7NDc7IzsjOyM7Izs_e4",
+      "brand": "H&M",
+      "title": "Bootcut High Waist Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "bootcut"
+      ],
+      "keyword": "jeans",
+      "price": 15.99,
+      "price_min": 15.99,
+      "price_max": 15.99,
+      "formatted_price": "$15.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Washed black",
+      "color_code": "000000",
+      "swatch_color_names": [
+        "Washed black",
+        "Light beige"
+      ],
+      "swatch_color_codes": [
+        "000000",
+        "EAE5D6"
+      ],
+      "sizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "available_sizes": [
+        "20",
+        "0",
+        "18",
+        "6",
+        "8",
+        "2",
+        "4",
+        "14",
+        "16",
+        "10",
+        "12"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 11,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/b9/a9/b9a9cd6b5035fbb3db508af5d9faa1e7712375bf.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/e0/9b/e09b3c8b20b35f20a8273a27bba162e8af169d52.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/b9/a9/b9a9cd6b5035fbb3db508af5d9faa1e7712375bf.jpg",
+        "https://image.hm.com/assets/hm/e0/9b/e09b3c8b20b35f20a8273a27bba162e8af169d52.jpg",
+        "https://image.hm.com/assets/hm/4e/7f/4e7fe55f59ffaa8a5b93c848b2b3c7039834c37d.jpg",
+        "https://image.hm.com/assets/hm/3d/bc/3dbc39071f223fb93c4f3e4bed910fd127c2edf3.jpg",
+        "https://image.hm.com/assets/hm/0a/6c/0a6ce84b6c8e742e787ff155dbbc67502fad526e.jpg",
+        "https://image.hm.com/assets/hm/4d/7f/4d7f501d43943978fbcad98324e52320c6fe6bae.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "Джинсы буткат",
+        "commercial_name_en": "Bootcut Jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "knitwear",
+          "specific_type": "knit_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "heels",
+          "role": "styling_item",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "slim",
+        "silhouette": "flared",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "flared",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "classic",
+        "y2k"
+      ],
+      "trend_tags": [
+        "bootcut_jeans",
+        "high_waist",
+        "dark_wash_denim",
+        "70s_revival"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "bootcut jeans",
+        "peplum knit top",
+        "heels"
+      ],
+      "styling_context": "The jeans are styled with a black short-sleeve peplum knit top and black open-toe heels, creating a chic and slightly dressed-up casual look.",
+      "outfit_aesthetic_tags": [
+        "casual_chic",
+        "modern_classic"
+      ],
+      "short_trend_summary": "Эти джинсы с высокой посадкой и расклешенным кроем являются актуальной классикой, возвращающей тренды 70-х и 2000-х.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1313093003/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1313093003/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1226565034",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1226565034.html",
+    "original": {
+      "id": "1226565034",
+      "trackingId": "OzY7IzsxMjI2NTY1MDM0OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTY7NDc7IzsjOyM7Izs_e4",
+      "productName": "MAMA Wide Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1226565034.html",
+      "formattedPrice": "$24.99",
+      "price": 24.99,
+      "priceMin": 24.99,
+      "priceMax": 24.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Pale denim blue",
+      "colorCode": "80AAD8",
+      "swatchColorNames": [
+        "Pale denim blue",
+        "Denim blue",
+        "Light denim blue",
+        "Dark denim blue/pinstriped",
+        "White",
+        "Denim blue",
+        "Dark denim blue"
+      ],
+      "swatchColorCodes": [
+        "80AAD8",
+        "3E64A7",
+        "80AAD8",
+        "2E3036",
+        "EFEEEA",
+        "3E64A7",
+        "2E3036"
+      ],
+      "allSizes": [
+        "XXL",
+        "XS",
+        "XL",
+        "L",
+        "M",
+        "S"
+      ],
+      "availableSizes": [
+        "XXL",
+        "XS",
+        "XL",
+        "L",
+        "M",
+        "S"
+      ],
+      "sizesCount": 6,
+      "imageProductSrc": "https://image.hm.com/assets/hm/65/a7/65a74f6f819eb7f514a50ca1863b5788ab88fa6b.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/1b/3b/1b3b2cee5f5fbb7bd83d2106fb2ddf7956d33991.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/38/9d/389d05f876d76e675a83fc3259ae4c2a60015553.jpg",
+        "https://image.hm.com/assets/hm/f9/5f/f95f8d6d7f3fc83f472b0c68064b32b797228c1a.jpg",
+        "https://image.hm.com/assets/hm/6e/4c/6e4c9b93ee36bcad6a9a2596d34be6ad0e420f3a.jpg",
+        "https://image.hm.com/assets/hm/4f/70/4f707f149fffaf2508f61c407d2585fe8157bbd3.jpg"
+      ],
+      "mainCatCode": "ladies_maternity_jeans",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1226565034",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1226565034.html",
+      "raw_id": "1226565034",
+      "tracking_id": "OzY7IzsxMjI2NTY1MDM0OyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MTY7NDc7IzsjOyM7Izs_e4",
+      "brand": "H&M",
+      "title": "MAMA Wide Jeans",
+      "category": "maternity",
+      "category_path": [
+        "ladies",
+        "maternity",
+        "jeans"
+      ],
+      "keyword": "jeans",
+      "price": 24.99,
+      "price_min": 24.99,
+      "price_max": 24.99,
+      "formatted_price": "$24.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Pale denim blue",
+      "color_code": "80AAD8",
+      "swatch_color_names": [
+        "Pale denim blue",
+        "Denim blue",
+        "Light denim blue",
+        "Dark denim blue/pinstriped",
+        "White",
+        "Denim blue",
+        "Dark denim blue"
+      ],
+      "swatch_color_codes": [
+        "80AAD8",
+        "3E64A7",
+        "80AAD8",
+        "2E3036",
+        "EFEEEA",
+        "3E64A7",
+        "2E3036"
+      ],
+      "sizes": [
+        "XXL",
+        "XS",
+        "XL",
+        "L",
+        "M",
+        "S"
+      ],
+      "available_sizes": [
+        "XXL",
+        "XS",
+        "XL",
+        "L",
+        "M",
+        "S"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 6,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/65/a7/65a74f6f819eb7f514a50ca1863b5788ab88fa6b.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/1b/3b/1b3b2cee5f5fbb7bd83d2106fb2ddf7956d33991.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/65/a7/65a74f6f819eb7f514a50ca1863b5788ab88fa6b.jpg",
+        "https://image.hm.com/assets/hm/1b/3b/1b3b2cee5f5fbb7bd83d2106fb2ddf7956d33991.jpg",
+        "https://image.hm.com/assets/hm/38/9d/389d05f876d76e675a83fc3259ae4c2a60015553.jpg",
+        "https://image.hm.com/assets/hm/f9/5f/f95f8d6d7f3fc83f472b0c68064b32b797228c1a.jpg",
+        "https://image.hm.com/assets/hm/6e/4c/6e4c9b93ee36bcad6a9a2596d34be6ad0e420f3a.jpg",
+        "https://image.hm.com/assets/hm/4f/70/4f707f149fffaf2508f61c407d2585fe8157bbd3.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие джинсы для беременных",
+        "commercial_name_en": "maternity wide jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "outerwear",
+          "specific_type": "jacket",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "shoes",
+          "specific_type": "heels",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "pockets",
+          "belt_loops",
+          "maternity_panel"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "blue",
+          "white",
+          "brown",
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim",
+          "cotton_blend"
+        ],
+        "texture": "washed_denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "maternity"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "denim_trend",
+        "maternity_fashion"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "maternity wide jeans",
+        "white t-shirt",
+        "brown jacket",
+        "nude heels"
+      ],
+      "styling_context": "The maternity wide jeans are styled with a white t-shirt, a brown jacket, and nude heels, creating a comfortable and casual maternity look.",
+      "outfit_aesthetic_tags": [
+        "casual_chic",
+        "maternity_style"
+      ],
+      "short_trend_summary": "Эти широкие джинсы для беременных сочетают комфорт и актуальный тренд на свободный крой.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material of maternity panel",
+        "material of jacket",
+        "exact type of shoes"
+      ]
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1226565034/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1226565034/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1330222010",
+    "source": "hm",
+    "url": "https://www2.hm.com/en_us/productpage.1330222010.html",
+    "original": {
+      "id": "1330222010",
+      "trackingId": "OzY7IzsxMzMwMjIyMDEwOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MjA7NDc7IzsjOyM7Izs_e4",
+      "productName": "Barrel High Ankle Jeans",
+      "brandName": "H&M",
+      "productUrl": "https://www2.hm.com/en_us/productpage.1330222010.html",
+      "formattedPrice": "$24.99",
+      "price": 24.99,
+      "priceMin": 24.99,
+      "priceMax": 24.99,
+      "stockState": "Available",
+      "isComingSoon": false,
+      "isOnline": true,
+      "isNewProduct": false,
+      "colorName": "Yellow",
+      "colorCode": "D2CDB1",
+      "swatchColorNames": [
+        "Yellow",
+        "Gray",
+        "Denim blue",
+        "Denim blue",
+        "Pale denim blue",
+        "Light denim blue"
+      ],
+      "swatchColorCodes": [
+        "D2CDB1",
+        "706C6F",
+        "3E64A7",
+        "3E64A7",
+        "80AAD8",
+        "80AAD8"
+      ],
+      "allSizes": [
+        "18",
+        "16",
+        "12",
+        "14",
+        "8",
+        "10",
+        "4",
+        "6",
+        "0",
+        "2"
+      ],
+      "availableSizes": [
+        "18",
+        "16",
+        "12",
+        "14",
+        "10",
+        "0",
+        "2"
+      ],
+      "outOfStockSizes": [
+        "8",
+        "4",
+        "6"
+      ],
+      "sizesCount": 10,
+      "imageProductSrc": "https://image.hm.com/assets/hm/25/a3/25a37d3231584609fa505e13d6cfd08638e33da1.jpg",
+      "imageModelSrc": "https://image.hm.com/assets/hm/f8/d0/f8d0165945113c330eaec0cac7fbd36aa678f420.jpg",
+      "galleryImages": [
+        "https://image.hm.com/assets/hm/f8/bc/f8bcd1661c19513b7254b3812f3c61d85d4a34e2.jpg",
+        "https://image.hm.com/assets/hm/73/e0/73e03060db0dc9f38d328a0b6e4beb54daf4aa57.jpg",
+        "https://image.hm.com/assets/hm/44/4a/444a945d8e2796369d7c531c44df2dfae4783016.jpg",
+        "https://image.hm.com/assets/hm/5d/fe/5dfe966ed2fb541a92833813a0a7258dfbefa119.jpg"
+      ],
+      "mainCatCode": "ladies_jeans_barrel",
+      "searchQuery": "jeans",
+      "locale": "en_us",
+      "pageNumber": 1
+    },
+    "normalized": {
+      "product_id": "hm_1330222010",
+      "source": "hm",
+      "url": "https://www2.hm.com/en_us/productpage.1330222010.html",
+      "raw_id": "1330222010",
+      "tracking_id": "OzY7IzsxMzMwMjIyMDEwOyM7IzsvZmFzaGlvbi9ERVNLVE9QL1NFQVJDSF9QQUdFL1NFQVJDSF9SRVNVTFQ7IzsjO3Q7MjA7NDc7IzsjOyM7Izs_e4",
+      "brand": "H&M",
+      "title": "Barrel High Ankle Jeans",
+      "category": "jeans",
+      "category_path": [
+        "ladies",
+        "jeans",
+        "barrel"
+      ],
+      "keyword": "jeans",
+      "price": 24.99,
+      "price_min": 24.99,
+      "price_max": 24.99,
+      "formatted_price": "$24.99",
+      "old_price": null,
+      "discount": null,
+      "currency": "USD",
+      "color": "Yellow",
+      "color_code": "D2CDB1",
+      "swatch_color_names": [
+        "Yellow",
+        "Gray",
+        "Denim blue",
+        "Denim blue",
+        "Pale denim blue",
+        "Light denim blue"
+      ],
+      "swatch_color_codes": [
+        "D2CDB1",
+        "706C6F",
+        "3E64A7",
+        "3E64A7",
+        "80AAD8",
+        "80AAD8"
+      ],
+      "sizes": [
+        "18",
+        "16",
+        "12",
+        "14",
+        "8",
+        "10",
+        "4",
+        "6",
+        "0",
+        "2"
+      ],
+      "available_sizes": [
+        "18",
+        "16",
+        "12",
+        "14",
+        "10",
+        "0",
+        "2"
+      ],
+      "out_of_stock_sizes": [
+        "8",
+        "4",
+        "6"
+      ],
+      "sizes_count": 10,
+      "availability": "Available",
+      "is_coming_soon": false,
+      "is_online": true,
+      "is_new_product": false,
+      "main_image_url": "https://image.hm.com/assets/hm/25/a3/25a37d3231584609fa505e13d6cfd08638e33da1.jpg",
+      "model_image_url": "https://image.hm.com/assets/hm/f8/d0/f8d0165945113c330eaec0cac7fbd36aa678f420.jpg",
+      "gallery_image_urls": [
+        "https://image.hm.com/assets/hm/25/a3/25a37d3231584609fa505e13d6cfd08638e33da1.jpg",
+        "https://image.hm.com/assets/hm/f8/d0/f8d0165945113c330eaec0cac7fbd36aa678f420.jpg",
+        "https://image.hm.com/assets/hm/f8/bc/f8bcd1661c19513b7254b3812f3c61d85d4a34e2.jpg",
+        "https://image.hm.com/assets/hm/73/e0/73e03060db0dc9f38d328a0b6e4beb54daf4aa57.jpg",
+        "https://image.hm.com/assets/hm/44/4a/444a945d8e2796369d7c531c44df2dfae4783016.jpg",
+        "https://image.hm.com/assets/hm/5d/fe/5dfe966ed2fb541a92833813a0a7258dfbefa119.jpg"
+      ],
+      "locale": "en_us",
+      "page_number": 1
+    },
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "Barrel High Ankle Jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "yellow"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim",
+          "cotton"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "barrel_leg",
+        "high_waist"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "white shirt",
+        "earrings"
+      ],
+      "styling_context": "The jeans are styled with a white button-down shirt, partially tucked in, creating a relaxed and casual look. The model is wearing simple earrings.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти джинсы с высокой посадкой и укороченной длиной в стиле \"barrel\" являются актуальным трендом.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product color is listed as 'Yellow' but visually appears as a muted, light beige or khaki shade."
+      ]
+    },
+    "analysis_status": "ok",
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1330222010/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1330222010/image_002.jpg"
+      ],
+      "error": null
+    }
+  }
+]

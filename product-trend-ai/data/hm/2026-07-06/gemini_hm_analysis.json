@@ -1,0 +1,1190 @@
+[
+  {
+    "product_id": "hm_1327536006",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": null,
+        "commercial_name_ru": "Широкие джинсы paper-bag",
+        "commercial_name_en": "Wide-Cut Paper-Bag Jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": null
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "utility"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "paper_bag_waist",
+        "denim_pants",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "Light blue wide-leg paper-bag jeans",
+        "White oversized shirt",
+        "Flat sandals"
+      ],
+      "styling_context": "The light blue wide-leg paper-bag jeans are styled with a white oversized button-up shirt and flat sandals, creating a relaxed and comfortable casual look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "relaxed"
+      ],
+      "short_trend_summary": "Широкие джинсы paper-bag из светлого денима — это актуальный выбор для создания расслабленных и стильных повседневных образов.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Material is guessed as denim based on visual appearance and product category 'jeans' from context, but exact composition is not provided.",
+        "The specific type of flat shoes (sandals or mules) is not definitively clear from the image."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1327536006/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1327536006/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1327536005",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие джинсы paper-bag",
+        "commercial_name_en": "Wide-Cut Paper-Bag Jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "pockets",
+          "paper_bag_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "dark_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "utility",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "paper_bag_waist",
+        "denim",
+        "high_waist"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "wide-cut paper-bag pants",
+        "tank top"
+      ],
+      "styling_context": "The pants are styled with a simple white tank top, emphasizing a casual and comfortable look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с завышенной талией paper-bag являются актуальным трендом для создания расслабленных повседневных образов.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product is described as 'jeans' in the context, but the material visually appears to be a softer denim or chambray, and the title uses 'Pants'."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1327536005/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1327536005/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1309848002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": null,
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "baggy jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "washed_denim"
+      },
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "baggy_fit",
+        "high_waist",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "halter neck top",
+        "sandals"
+      ],
+      "styling_context": "The baggy high-waist jeans are styled with a yellow cowl neck halter top and black flat sandals, creating a relaxed yet chic summer look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "summer_chic",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой в стиле кэжуал актуальны для создания расслабленных и модных образов.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1309848002/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1309848002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1109636053",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "flared_jeans",
+        "commercial_name_ru": "Джинсы клеш с высокой посадкой",
+        "commercial_name_en": "Flared high-waist jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "flared_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "denim_vest",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "ballet_flats",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "slim",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "flared",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "classic"
+      ],
+      "trend_tags": [
+        "flared_leg",
+        "high_waist",
+        "denim_on_denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "flared jeans",
+        "denim vest",
+        "ballet flats"
+      ],
+      "styling_context": "The flared jeans are styled with a matching light denim vest and light-colored ballet flats, creating a cohesive denim-on-denim look.",
+      "outfit_aesthetic_tags": [
+        "denim_on_denim",
+        "casual",
+        "retro"
+      ],
+      "short_trend_summary": "Эти расклешенные джинсы с высокой посадкой — актуальная классика, легко вписывающаяся в повседневный гардероб.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1109636053/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1109636053/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0871889043",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_jeans",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": "wide",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_waist",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans"
+      ],
+      "styling_context": "product_shot_flat_lay",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой являются актуальным трендом в повседневной моде.",
+      "confidence": 1.0,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_0871889043/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_0871889043/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1045459079",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_jeans",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_jeans",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.85
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_rise",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "tank top",
+        "sandals"
+      ],
+      "styling_context": "The jeans are styled casually with a white tank top and black flat sandals, creating a relaxed and effortless everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой являются актуальной базой для повседневного гардероба.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material composition is not explicitly stated, but visually appears to be denim",
+        "texture is inferred from denim material"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1045459079/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1045459079/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1338317002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "belt_loops",
+          "pockets",
+          "button_fly"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "barrel_leg",
+        "high_waist",
+        "denim",
+        "ankle_length"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "tank_top"
+      ],
+      "styling_context": "The jeans are styled casually with a simple white tank top, emphasizing a relaxed and comfortable everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти джинсы с высокой посадкой и укороченными штанинами в форме \"бочки\" являются актуальной моделью для повседневного образа.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The specific 'barrel-leg' shape is not directly available in the 'leg_shape' taxonomy; 'tapered' was chosen as the closest descriptor for the lower leg, while 'barrel_leg' is included in trend_tags."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1338317002/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1338317002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0871889087",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "belt_loops",
+          "pockets",
+          "contrast_stitching"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_waist",
+        "denim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [],
+      "styling_context": "product_shot_flat_lay",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Широкие джинсы с высокой посадкой — актуальный тренд, сочетающий комфорт и стиль.",
+      "confidence": 1.0,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_0871889087/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_0871889087/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1355850001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "barrel_leg_jeans",
+        "commercial_name_ru": "Джинсы-баллоны",
+        "commercial_name_en": "Barrel-leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "barrel_leg_jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "belt_loops",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "denim"
+      },
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "trend_tags": [
+        "barrel_leg",
+        "high_waist",
+        "denim_trend",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "light blue barrel-leg jeans",
+        "black tank top",
+        "dark sandals"
+      ],
+      "styling_context": "casual_everyday",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Актуальные джинсы-баллоны с высокой посадкой, подчеркивающие расслабленный и современный стиль.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1355850001/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1355850001/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0871889100",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "jeans",
+        "commercial_name_ru": "широкие джинсы",
+        "commercial_name_en": "wide leg jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "washed"
+      },
+      "style_tags": [
+        "casual",
+        "streetwear",
+        "y2k"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "high_rise",
+        "distressed_denim"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "crop_top",
+        "sandals"
+      ],
+      "styling_context": "Styled casually with a yellow ribbed crop top and brown flip-flop sandals, leaning against a white wall.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "streetwear",
+        "summer_casual"
+      ],
+      "short_trend_summary": "Эти широкие джинсы с высокой посадкой и рваными коленями отражают актуальный тренд на расслабленный деним в стиле Y2K.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_0871889100/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_0871889100/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1313093003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "Джинсы буткат",
+        "commercial_name_en": "Bootcut Jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "knitwear",
+          "specific_type": "knit_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "heels",
+          "role": "styling_item",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "slim",
+        "silhouette": "flared",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "flared",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "classic",
+        "y2k"
+      ],
+      "trend_tags": [
+        "bootcut_jeans",
+        "high_waist",
+        "dark_wash_denim",
+        "70s_revival"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "bootcut jeans",
+        "peplum knit top",
+        "heels"
+      ],
+      "styling_context": "The jeans are styled with a black short-sleeve peplum knit top and black open-toe heels, creating a chic and slightly dressed-up casual look.",
+      "outfit_aesthetic_tags": [
+        "casual_chic",
+        "modern_classic"
+      ],
+      "short_trend_summary": "Эти джинсы с высокой посадкой и расклешенным кроем являются актуальной классикой, возвращающей тренды 70-х и 2000-х.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1313093003/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1313093003/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1226565034",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие джинсы для беременных",
+        "commercial_name_en": "maternity wide jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "outerwear",
+          "specific_type": "jacket",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "shoes",
+          "specific_type": "heels",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "pockets",
+          "belt_loops",
+          "maternity_panel"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "blue",
+          "white",
+          "brown",
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim",
+          "cotton_blend"
+        ],
+        "texture": "washed_denim"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "maternity"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "denim_trend",
+        "maternity_fashion"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "maternity wide jeans",
+        "white t-shirt",
+        "brown jacket",
+        "nude heels"
+      ],
+      "styling_context": "The maternity wide jeans are styled with a white t-shirt, a brown jacket, and nude heels, creating a comfortable and casual maternity look.",
+      "outfit_aesthetic_tags": [
+        "casual_chic",
+        "maternity_style"
+      ],
+      "short_trend_summary": "Эти широкие джинсы для беременных сочетают комфорт и актуальный тренд на свободный крой.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material of maternity panel",
+        "material of jacket",
+        "exact type of shoes"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1226565034/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1226565034/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1330222010",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "jeans",
+        "specific_type": "jeans",
+        "commercial_name_ru": "джинсы",
+        "commercial_name_en": "Barrel High Ankle Jeans",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "ankle_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "tapered",
+        "details": [
+          "pockets",
+          "belt_loops"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "yellow"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "denim",
+          "cotton"
+        ],
+        "texture": "twill"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "barrel_leg",
+        "high_waist"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jeans",
+        "white shirt",
+        "earrings"
+      ],
+      "styling_context": "The jeans are styled with a white button-down shirt, partially tucked in, creating a relaxed and casual look. The model is wearing simple earrings.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Эти джинсы с высокой посадкой и укороченной длиной в стиле \"barrel\" являются актуальным трендом.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product color is listed as 'Yellow' but visually appears as a muted, light beige or khaki shade."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-06/images/hm_1330222010/image_001.jpg",
+        "data/hm/2026-07-06/images/hm_1330222010/image_002.jpg"
+      ],
+      "error": null
+    }
+  }
+]
