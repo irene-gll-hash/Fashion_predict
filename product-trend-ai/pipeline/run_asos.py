@@ -1,42 +1,40 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 import argparse
-import os
 from pathlib import Path
 from typing import Any
 from ai.product_gemini_analyzer import ProductGeminiAnalyzer
 from sources.common.image_downloader import download_images, sanitize_filename
 from sources.common.io import load_json, save_json
-from sources.lamoda.loader import find_lamoda_input_file, load_lamoda_products
-from sources.lamoda.normalizer import (
-    build_enriched_lamoda_product,
-    get_lamoda_image_urls,
-    normalize_lamoda_records,
+from sources.asos.loader import find_asos_input_file, load_asos_products
+from sources.asos.normalizer import (
+    build_enriched_asos_product,
+    get_asos_image_urls,
+    normalize_asos_records,
 )
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--date", required=True, help="Run date, for example: 2026-07-03")
-    parser.add_argument("--input-file", default=None, help="Optional explicit Lamoda input file path.")
+    parser.add_argument("--date", required=True, help="Run date, for example: 2026-07-06")
+    parser.add_argument("--input-file", default=None, help="Optional explicit ASOS input file path.")
     parser.add_argument("--limit", type=int, default=None, help="Limit products for test runs.")
-    parser.add_argument("--max-images-per-product", type=int, default=None)
+    parser.add_argument("--max-images-per-product", type=int, default=2)
     parser.add_argument("--skip-gemini", action="store_true", help="Only normalize and download images.")
     parser.add_argument("--sleep-seconds", type=float, default=2.0)
     parser.add_argument("--max-retries", type=int, default=3)
     args = parser.parse_args()
     run_date = args.date
-    compact_date = run_date.replace("-", "")
-    date_dir = DATA_DIR / "lamoda" / run_date
+    date_dir = DATA_DIR / "asos" / run_date
     images_dir = date_dir / "images"
-    input_file = Path(args.input_file) if args.input_file else find_lamoda_input_file(DATA_DIR, run_date)
-    normalized_output = date_dir / f"normalized_lamoda_products.json"
-    gemini_output = date_dir / f"gemini_lamoda_analysis.json"
-    enriched_output = date_dir / f"enriched_lamoda_products.json"
+    input_file = Path(args.input_file) if args.input_file else find_asos_input_file(DATA_DIR, run_date)
+    normalized_output = date_dir / "normalized_asos_products.json"
+    gemini_output = date_dir / "gemini_asos_analysis.json"
+    enriched_output = date_dir / "enriched_asos_products.json"
     print(f"[INFO] Input file: {input_file}")
-    raw_records = load_lamoda_products(input_file)
+    raw_records = load_asos_products(input_file)
     if args.limit:
         raw_records = raw_records[: args.limit]
-    normalized_products = normalize_lamoda_records(raw_records)
+    normalized_products = normalize_asos_records(raw_records)
     save_json(normalized_output, normalized_products)
     print(f"[INFO] Saved normalized products: {normalized_output}")
     print(f"[INFO] Products count: {len(normalized_products)}")
@@ -49,7 +47,7 @@ def main() -> None:
     for index, product in enumerate(normalized_products, start=1):
         product_id = str(product["product_id"])
         product_image_dir = images_dir / sanitize_filename(product_id)
-        image_urls = get_lamoda_image_urls(product)
+        image_urls = get_asos_image_urls(product)
         image_paths = download_images(
             image_urls=image_urls,
             output_dir=product_image_dir,
@@ -67,7 +65,7 @@ def main() -> None:
         if not image_paths:
             gemini_results_by_product_id[product_id] = {
                 "product_id": product_id,
-                "source": "lamoda",
+                "source": "asos",
                 "status": "error",
                 "gemini_analysis": None,
                 "analysis_meta": {
@@ -82,6 +80,8 @@ def main() -> None:
             product=product["original"],
             image_paths=image_paths,
         )
+        result["product_id"] = product_id
+        result["source"] = "asos"
         gemini_results_by_product_id[product_id] = result
         save_json(gemini_output, list(gemini_results_by_product_id.values()))
         print(f"[INFO] {product_id}: Gemini status={result.get('status')}")
@@ -90,7 +90,7 @@ def main() -> None:
         product_id = str(product["product_id"])
         gemini_result = gemini_results_by_product_id.get(product_id)
         enriched_products.append(
-            build_enriched_lamoda_product(
+            build_enriched_asos_product(
                 product=product,
                 gemini_result=gemini_result,
             )

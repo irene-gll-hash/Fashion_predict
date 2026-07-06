@@ -1,6 +1,6 @@
 [
   {
-    "product_id": "RTLAEF532901",
+    "product_id": "lamoda_RTLAEF532901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaef532901/clothes-nume-svitshot/",
     "original": {
@@ -37,9 +37,11 @@
       "Страна производства": "Китай"
     },
     "normalized": {
-      "product_id": "RTLAEF532901",
+      "product_id": "lamoda_RTLAEF532901",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaef532901/clothes-nume-svitshot/",
+      "raw_id": "RTLAEF532901",
+      "seller_article": "[PREMIUM]",
       "brand": "Nume",
       "title": "Свитшот",
       "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -52,6 +54,8 @@
       "price": 5590,
       "old_price": null,
       "discount": null,
+      "formatted_price": "5590 RUB",
+      "currency": "RUB",
       "color": "розовый",
       "sizes": [
         "42",
@@ -65,6 +69,14 @@
         "M",
         "L"
       ],
+      "available_sizes": [
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 4,
       "seller": "Lamoda",
       "rating": 4.7,
       "reviews": 26,
@@ -72,7 +84,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 80,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEF532901_28077040_1_v3_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEF532901_28077040_1_v3_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEF532901_28077041_2_v3_2x.jpg",
@@ -90,9 +104,9 @@
     "gemini_analysis": {
       "main_product": {
         "category": "sweatshirts",
-        "subcategory": null,
+        "subcategory": "sweatshirt",
         "specific_type": "sweatshirt",
-        "commercial_name_ru": "Свитшот",
+        "commercial_name_ru": "свитшот",
         "commercial_name_en": "sweatshirt",
         "confidence": 1.0
       },
@@ -104,16 +118,16 @@
           "confidence": 1.0
         },
         {
-          "category": "top",
-          "specific_type": "shirt",
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
           "role": "styling_item",
           "confidence": 0.9
         },
         {
-          "category": "bottom",
-          "specific_type": "wide_leg_trousers",
+          "category": "top",
+          "specific_type": "shirt",
           "role": "styling_item",
-          "confidence": 0.95
+          "confidence": 0.8
         },
         {
           "category": "shoes",
@@ -131,19 +145,22 @@
         "rise": null,
         "leg_shape": null,
         "details": [
+          "buttons",
           "raglan_sleeves",
-          "buttons"
+          "ribbed_cuffs"
         ]
       },
       "visual_features": {
         "colors": [
-          "pink"
+          "pink",
+          "white",
+          "brown"
         ],
         "pattern": "solid",
         "material_guess": [
           "cotton"
         ],
-        "texture": "smooth"
+        "texture": "jersey"
       },
       "style_tags": [
         "casual",
@@ -152,42 +169,49 @@
         "basic"
       ],
       "trend_tags": [
+        "polo_sweatshirt",
         "matching_set",
-        "polo_collar",
-        "relaxed_fit"
+        "wide_leg_trousers",
+        "layered_look"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
         "pink sweatshirt",
-        "white collared shirt",
         "pink wide-leg trousers",
-        "dark loafers"
+        "white collared shirt",
+        "dark loafers",
+        "white socks"
       ],
-      "styling_context": "The pink sweatshirt is styled as part of a monochromatic casual set with matching wide-leg trousers, layered over a white collared shirt, and paired with dark loafers.",
+      "styling_context": "The pink polo sweatshirt is styled with matching pink wide-leg trousers, a white collared shirt layered underneath, white socks, and dark loafers, creating a comfortable and preppy casual look.",
       "outfit_aesthetic_tags": [
         "casual_chic",
-        "coordinated_set",
-        "preppy",
-        "comfortable"
+        "preppy_sporty",
+        "cozy_comfort"
       ],
-      "short_trend_summary": "Этот свитшот с воротником поло и свободным кроем актуален как часть комфортного монохромного образа.",
-      "confidence": 0.95,
+      "short_trend_summary": "Этот розовый свитшот-поло со свободным кроем и рукавами реглан актуален для создания комфортных и стильных повседневных образов.",
+      "confidence": 0.9,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEF532901/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEF532901/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_007.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEF532901/image_008.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEX983901",
+    "product_id": "lamoda_RTLAEX983901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex983901/clothes-mango-olimpiyka/",
     "original": {
@@ -224,9 +248,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEX983901",
+      "product_id": "lamoda_RTLAEX983901",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaex983901/clothes-mango-olimpiyka/",
+      "raw_id": "RTLAEX983901",
+      "seller_article": "[PREMIUM]",
       "brand": "Mango",
       "title": "Олимпийка TRI",
       "category": "Женщинам/Одежда/Худи и свитшоты/Олимпийки",
@@ -239,6 +265,8 @@
       "price": 5999,
       "old_price": null,
       "discount": null,
+      "formatted_price": "5999 RUB",
+      "currency": "RUB",
       "color": "коричневый",
       "sizes": [
         "40/42",
@@ -254,6 +282,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "48/50",
+        "50/52"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.8,
       "reviews": 20,
@@ -261,7 +298,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 43,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX893101_31394240_1_v2.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEX893101_31394240_1_v2.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEX893101_31394241_2_v2.jpg",
@@ -281,33 +320,33 @@
         "subcategory": null,
         "specific_type": "sweatshirt",
         "commercial_name_ru": "Олимпийка",
-        "commercial_name_en": "Track jacket",
-        "confidence": 0.9
+        "commercial_name_en": "track jacket",
+        "confidence": 1.0
       },
       "visible_items": [
         {
           "category": "sweatshirts",
           "specific_type": "sweatshirt",
           "role": "main_product",
-          "confidence": 0.9
+          "confidence": 1.0
         },
         {
-          "category": "bottom",
-          "specific_type": "trousers",
+          "category": "skirt",
+          "specific_type": "midi_skirt",
           "role": "styling_item",
           "confidence": 0.8
-        },
-        {
-          "category": "shoes",
-          "specific_type": "ballet_flats",
-          "role": "styling_item",
-          "confidence": 0.7
         },
         {
           "category": "bags",
           "specific_type": "shoulder_bag",
           "role": "styling_item",
-          "confidence": 0.8
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "heels",
+          "role": "styling_item",
+          "confidence": 0.7
         }
       ],
       "attributes": {
@@ -320,7 +359,7 @@
         "leg_shape": null,
         "details": [
           "zipper",
-          "logo"
+          "ribbed"
         ]
       },
       "visual_features": {
@@ -330,53 +369,62 @@
         ],
         "pattern": "striped",
         "material_guess": [
-          "knit"
+          "smooth_knit"
         ],
         "texture": "smooth"
       },
       "style_tags": [
         "sporty",
         "casual",
-        "streetwear"
+        "streetwear",
+        "minimal"
       ],
       "trend_tags": [
         "athleisure",
-        "retro_sport",
-        "striped_sleeves"
+        "cropped_silhouette",
+        "sporty_chic",
+        "track_jacket_trend"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
         "track jacket",
-        "trousers",
-        "flat shoes",
-        "bag"
+        "midi skirt",
+        "shoulder bag",
+        "heels"
       ],
-      "styling_context": "The track jacket is styled with dark, possibly matching, trousers, flat shoes, and a large brown bag, creating a sophisticated yet casual and sporty look.",
+      "styling_context": "The track jacket is styled as part of a coordinated dark-colored athleisure outfit, paired with a midi skirt, a large shoulder bag, and low-heeled shoes, creating a chic yet comfortable look.",
       "outfit_aesthetic_tags": [
+        "athleisure",
+        "minimal",
         "sporty_chic",
-        "minimal"
+        "casual_chic"
       ],
-      "short_trend_summary": "Эта олимпийка в спортивном стиле с контрастными полосами является актуальным элементом для создания образов в эстетике athleisure.",
+      "short_trend_summary": "Укороченная олимпийка в спортивном стиле с контрастными полосками, актуальная для создания повседневных и athleisure образов.",
       "confidence": 0.9,
       "uncertainty": [
-        "The exact type of bottom (trousers vs. skirt) is not 100% clear, but appears to be trousers.",
-        "The specific type of zip-up sweatshirt is not explicitly listed in the allowed taxonomy, using 'sweatshirt' with 'zipper' detail."
+        "The exact type of bottom (skirt vs. wide-leg trousers) is slightly ambiguous, but midi_skirt seems more likely given the wrap-like detail.",
+        "The exact type of shoes (mules, slingbacks, ballet flats) is also a bit ambiguous, but heels is a safe general category."
       ]
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEX983901/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEX983901/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX983901/image_007.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAFE306801",
+    "product_id": "lamoda_RTLAFE306801",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlafe306801/clothes-nume-tolstovka/",
     "original": {
@@ -412,9 +460,11 @@
       "Страна производства": "Китай"
     },
     "normalized": {
-      "product_id": "RTLAFE306801",
+      "product_id": "lamoda_RTLAFE306801",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlafe306801/clothes-nume-tolstovka/",
+      "raw_id": "RTLAFE306801",
+      "seller_article": "[PREMIUM]",
       "brand": "Nume",
       "title": "Толстовка",
       "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -427,6 +477,8 @@
       "price": 7990,
       "old_price": null,
       "discount": null,
+      "formatted_price": "7990 RUB",
+      "currency": "RUB",
       "color": "голубой",
       "sizes": [
         "42",
@@ -440,6 +492,14 @@
         "M",
         "L"
       ],
+      "available_sizes": [
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 4,
       "seller": "Lamoda",
       "rating": null,
       "reviews": null,
@@ -447,7 +507,9 @@
       "season": "лето, демисезон",
       "collection": "Осень-зима 2026/2027",
       "quantity": 80,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAFE306801_34713998_1_v2_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAFE306801_34713998_1_v2_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAFE306801_34741759_2_v1_2x.jpg",
@@ -464,15 +526,15 @@
       "main_product": {
         "category": "sweatshirts",
         "subcategory": null,
-        "specific_type": "hoodie",
-        "commercial_name_ru": "худи",
-        "commercial_name_en": "hoodie",
+        "specific_type": "zip_hoodie",
+        "commercial_name_ru": "худи на молнии",
+        "commercial_name_en": "zip hoodie",
         "confidence": 1.0
       },
       "visible_items": [
         {
           "category": "sweatshirts",
-          "specific_type": "hoodie",
+          "specific_type": "zip_hoodie",
           "role": "main_product",
           "confidence": 1.0
         },
@@ -484,9 +546,15 @@
         },
         {
           "category": "shoes",
-          "specific_type": "mules",
+          "specific_type": "ballet_flats",
           "role": "styling_item",
           "confidence": 0.8
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.7
         }
       ],
       "attributes": {
@@ -494,20 +562,17 @@
         "silhouette": null,
         "length": "cropped",
         "sleeve_type": "long_sleeve",
-        "neckline": "crew_neck",
+        "neckline": null,
         "rise": null,
         "leg_shape": null,
         "details": [
-          "zipper",
-          "hood",
-          "drawstring",
-          "ruffles",
-          "pockets"
+          "zipper"
         ]
       },
       "visual_features": {
         "colors": [
-          "light_blue"
+          "light_blue",
+          "black"
         ],
         "pattern": "solid",
         "material_guess": [
@@ -517,49 +582,55 @@
       },
       "style_tags": [
         "casual",
-        "sporty"
+        "sporty",
+        "streetwear"
       ],
       "trend_tags": [
         "cropped_hoodie",
         "drawstring_hem",
-        "peplum_hem"
+        "peplum_hem",
+        "piping_detail"
       ],
       "seasonality": [
-        "spring",
         "summer",
+        "spring",
         "autumn"
       ],
       "visible_outfit_items": [
-        "light blue cropped hoodie",
+        "light blue zip hoodie",
         "navy floral midi skirt",
-        "pink flat mules"
+        "pink ballet flats",
+        "earrings"
       ],
-      "styling_context": "The light blue cropped hoodie is styled with a navy floral midi skirt and pink flat mules, creating a relaxed, casual, and feminine look suitable for warmer seasons.",
+      "styling_context": "The light blue zip hoodie is styled with a contrasting navy floral midi skirt and pink ballet flats, creating a casual and feminine look.",
       "outfit_aesthetic_tags": [
         "casual",
-        "sporty",
         "feminine",
-        "summer_casual"
+        "sporty_chic"
       ],
-      "short_trend_summary": "Укороченное худи с завязками и рюшами по низу, выполненное в нежном голубом цвете, является актуальным элементом для создания повседневных и спортивных образов.",
+      "short_trend_summary": "Укороченное худи на молнии с рюшами и завязками по низу – актуальный элемент для создания повседневных и спортивных образов.",
       "confidence": 0.9,
       "uncertainty": [
-        "The exact neckline under the hood is not fully visible, assuming crew_neck.",
-        "The term 'ruffles' is used to describe the effect of the drawstring at the hem."
+        "The exact material texture (e.g., jersey, fleece) is a guess based on visual appearance and composition.",
+        "Specific details like 'hood', 'drawstring', 'ruffles', and 'piping' are not available in the allowed 'details' list for 'sweatshirts', so they are included in 'trend_tags' instead."
       ]
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAFE306801/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAFE306801/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAFE306801/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAFE306801/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAFE306801/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAFE306801/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAFE306801/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAFE306801/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEN707801",
+    "product_id": "lamoda_RTLAEN707801",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaen707801/clothes-ea7-khudi/",
     "original": {
@@ -595,9 +666,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEN707801",
+      "product_id": "lamoda_RTLAEN707801",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaen707801/clothes-ea7-khudi/",
+      "raw_id": "RTLAEN707801",
+      "seller_article": "[PREMIUM]",
       "brand": "EA7",
       "title": "Худи LOGO SERIES W",
       "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -611,6 +684,8 @@
       "price": 17299,
       "old_price": null,
       "discount": null,
+      "formatted_price": "17299 RUB",
+      "currency": "RUB",
       "color": "черный",
       "sizes": [
         "40/42",
@@ -626,6 +701,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "46/48",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.9,
       "reviews": 21,
@@ -633,7 +717,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 75,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEN707801_29209532_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEN707801_29209532_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEN707801_29209533_2_v1_2x.jpg",
@@ -686,7 +772,8 @@
         "details": [
           "hood",
           "logo",
-          "ribbed_cuffs"
+          "ribbed_cuffs",
+          "ribbed_hem"
         ]
       },
       "visual_features": {
@@ -695,8 +782,8 @@
         ],
         "pattern": "logo",
         "material_guess": [
-          "cotton_blend",
-          "fleece"
+          "cotton",
+          "polyester"
         ],
         "texture": "smooth"
       },
@@ -706,41 +793,45 @@
         "streetwear"
       ],
       "trend_tags": [
-        "logo_mania",
         "athleisure",
+        "logo_mania",
         "monochrome_look"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
-        "черное худи",
-        "черные леггинсы",
-        "черные кроссовки",
-        "белые носки"
+        "black hoodie",
+        "black leggings",
+        "black sneakers",
+        "white socks"
       ],
-      "styling_context": "The hoodie is styled as part of a monochrome athleisure outfit with black leggings and sneakers, suitable for sports or casual wear.",
+      "styling_context": "Styled for a sporty and casual athleisure look with matching black leggings and sneakers.",
       "outfit_aesthetic_tags": [
+        "sporty",
         "athleisure",
-        "sporty_chic",
-        "monochrome"
+        "minimal"
       ],
-      "short_trend_summary": "Это черное худи с логотипом EA7 идеально вписывается в тренд на athleisure и монохромные спортивные образы.",
-      "confidence": 0.9,
+      "short_trend_summary": "Это черное худи с логотипом EA7 идеально вписывается в тренд на спортивный шик и athleisure, предлагая комфорт и стиль для повседневных образов.",
+      "confidence": 1.0,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEN707801/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEN707801/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707801/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707801/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707801/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707801/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707801/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707801/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MZGN",
+    "product_id": "lamoda_MP002XW1MZGN",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mzgn/clothes-sela-svitshot/",
     "original": {
@@ -777,9 +868,11 @@
       "Страна производства": "Китай"
     },
     "normalized": {
-      "product_id": "MP002XW1MZGN",
+      "product_id": "lamoda_MP002XW1MZGN",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mzgn/clothes-sela-svitshot/",
+      "raw_id": "MP002XW1MZGN",
+      "seller_article": "[PREMIUM]",
       "brand": "SELA",
       "title": "Свитшот",
       "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -792,6 +885,8 @@
       "price": 4799,
       "old_price": null,
       "discount": null,
+      "formatted_price": "4799 RUB",
+      "currency": "RUB",
       "color": "бежевый",
       "sizes": [
         "42",
@@ -807,6 +902,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "42",
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": null,
       "reviews": null,
@@ -814,7 +918,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 100,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MZGN_34888224_1_v2_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MZGN_34888224_1_v2_2x.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MZGN_34888226_2_v2_2x.jpg",
@@ -829,7 +935,7 @@
     "gemini_analysis": {
       "main_product": {
         "category": "sweatshirts",
-        "subcategory": null,
+        "subcategory": "sweatshirt",
         "specific_type": "sweatshirt",
         "commercial_name_ru": "Свитшот",
         "commercial_name_en": "sweatshirt",
@@ -858,7 +964,7 @@
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
-          "confidence": 0.7
+          "confidence": 0.8
         }
       ],
       "attributes": {
@@ -871,12 +977,15 @@
         "leg_shape": null,
         "details": [
           "zipper",
-          "ribbed"
+          "ribbed",
+          "graphic"
         ]
       },
       "visual_features": {
         "colors": [
-          "beige"
+          "beige",
+          "black",
+          "white"
         ],
         "pattern": "graphic",
         "material_guess": [
@@ -892,9 +1001,9 @@
       "trend_tags": [
         "half_zip",
         "graphic_print",
+        "matching_set",
         "oversized_fit",
-        "co_ord_set",
-        "cartoon_collaboration"
+        "athleisure"
       ],
       "seasonality": [
         "autumn",
@@ -902,19 +1011,18 @@
         "spring"
       ],
       "visible_outfit_items": [
-        "beige sweatshirt",
-        "white t-shirt",
-        "beige wide-leg trousers",
-        "dark sneakers"
+        "sweatshirt",
+        "wide_leg trousers",
+        "t-shirt",
+        "sneakers"
       ],
-      "styling_context": "The sweatshirt is styled as part of a monochrome loungewear set with matching wide-leg trousers and a white t-shirt underneath, paired with sneakers.",
+      "styling_context": "The sweatshirt is styled as part of a monochromatic beige athleisure set, featuring wide-leg trousers and a white t-shirt layered underneath, completed with sneakers.",
       "outfit_aesthetic_tags": [
-        "casual",
-        "sporty",
-        "loungewear",
-        "monochrome"
+        "athleisure",
+        "monochromatic",
+        "casual_chic"
       ],
-      "short_trend_summary": "Бежевый свитшот оверсайз с воротником на молнии и мультяшным принтом, актуальный для повседневных и спортивных образов.",
+      "short_trend_summary": "Модный оверсайз свитшот с высоким воротником на молнии и графическим принтом, часть спортивного костюма.",
       "confidence": 0.9,
       "uncertainty": []
     },
@@ -922,14 +1030,17 @@
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MZGN/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MZGN/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZGN/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZGN/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZGN/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZGN/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZGN/image_005.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MZV3",
+    "product_id": "lamoda_MP002XW1MZV3",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mzv3/clothes-lookonline-tolstovka/",
     "original": {
@@ -965,9 +1076,11 @@
       "Страна производства": "Киргизия"
     },
     "normalized": {
-      "product_id": "MP002XW1MZV3",
+      "product_id": "lamoda_MP002XW1MZV3",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mzv3/clothes-lookonline-tolstovka/",
+      "raw_id": "MP002XW1MZV3",
+      "seller_article": "[PREMIUM]",
       "brand": "Lookonline",
       "title": "Толстовка",
       "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -980,6 +1093,8 @@
       "price": 4990,
       "old_price": null,
       "discount": null,
+      "formatted_price": "4990 RUB",
+      "currency": "RUB",
       "color": "бирюзовый",
       "sizes": [
         "42",
@@ -989,6 +1104,12 @@
         "XS",
         "S"
       ],
+      "available_sizes": [
+        "42",
+        "44"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 2,
       "seller": "Lamoda",
       "rating": null,
       "reviews": null,
@@ -996,7 +1117,9 @@
       "season": "мульти",
       "collection": "Весна-лето 2026",
       "quantity": 7,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MZV3_34835074_1_v2_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MZV3_34835074_1_v2_2x.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MZV3_34835075_2_v2_2x.jpg",
@@ -1014,10 +1137,10 @@
     "gemini_analysis": {
       "main_product": {
         "category": "sweatshirts",
-        "subcategory": "hoodie",
+        "subcategory": null,
         "specific_type": "zip_hoodie",
-        "commercial_name_ru": "Толстовка",
-        "commercial_name_en": "zip hoodie",
+        "commercial_name_ru": "укороченная худи на молнии",
+        "commercial_name_en": "cropped zip hoodie",
         "confidence": 1.0
       },
       "visible_items": [
@@ -1051,14 +1174,14 @@
         "silhouette": null,
         "length": "cropped",
         "sleeve_type": "long_sleeve",
-        "neckline": "crew_neck",
+        "neckline": "hood",
         "rise": null,
         "leg_shape": null,
         "details": [
           "zipper",
-          "pockets",
           "hood",
-          "logo"
+          "pockets",
+          "text_print"
         ]
       },
       "visual_features": {
@@ -1068,54 +1191,58 @@
         ],
         "pattern": "text_print",
         "material_guess": [
-          "cotton_blend"
+          "cotton"
         ],
-        "texture": "jersey"
+        "texture": null
       },
       "style_tags": [
-        "y2k",
-        "sporty",
         "casual",
-        "streetwear"
+        "sporty",
+        "streetwear",
+        "y2k"
       ],
       "trend_tags": [
         "cropped_hoodie",
-        "y2k_revival",
-        "graphic_text"
+        "text_print",
+        "y2k_revival"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
-        "zip hoodie",
-        "jeans",
-        "sneakers",
-        "belt"
+        "cropped zip hoodie",
+        "wide-leg distressed jeans",
+        "star-patterned belt",
+        "sneakers"
       ],
-      "styling_context": "The cropped zip hoodie is styled with wide-leg distressed jeans, a star-patterned belt, and sneakers, creating a casual and youthful Y2K-inspired outfit.",
+      "styling_context": "The cropped zip hoodie is styled with low-rise, wide-leg distressed jeans, a star-patterned belt, and sneakers, creating a casual Y2K-inspired streetwear look.",
       "outfit_aesthetic_tags": [
-        "y2k",
         "casual",
-        "streetwear"
+        "streetwear",
+        "y2k"
       ],
-      "short_trend_summary": "Укороченная бирюзовая толстовка на молнии с текстовым принтом, отражающая тренд на Y2K-стиль.",
+      "short_trend_summary": "Укороченная худи на молнии бирюзового цвета с текстовым принтом, актуальная для повседневных образов в стиле Y2K.",
       "confidence": 1.0,
-      "uncertainty": [
-        "The exact shade of turquoise could be interpreted as light_blue or green."
-      ]
+      "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MZV3/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MZV3/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_007.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MZV3/image_008.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEN707601",
+    "product_id": "lamoda_RTLAEN707601",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaen707601/clothes-ea7-tolstovka/",
     "original": {
@@ -1151,9 +1278,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEN707601",
+      "product_id": "lamoda_RTLAEN707601",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaen707601/clothes-ea7-tolstovka/",
+      "raw_id": "RTLAEN707601",
+      "seller_article": "[PREMIUM]",
       "brand": "EA7",
       "title": "Толстовка CORE LADY W",
       "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -1167,6 +1296,8 @@
       "price": 13799,
       "old_price": null,
       "discount": null,
+      "formatted_price": "13799 RUB",
+      "currency": "RUB",
       "color": "черный",
       "sizes": [
         "40/42",
@@ -1182,6 +1313,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "46/48",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.8,
       "reviews": 29,
@@ -1189,7 +1329,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 54,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEN707601_29255796_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEN707601_29255796_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEN707601_29255797_2_v1_2x.jpg",
@@ -1228,13 +1370,13 @@
           "category": "bottom",
           "specific_type": "trousers",
           "role": "styling_item",
-          "confidence": 0.85
+          "confidence": 0.8
         },
         {
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
-          "confidence": 0.95
+          "confidence": 0.9
         }
       ],
       "attributes": {
@@ -1242,24 +1384,25 @@
         "silhouette": null,
         "length": "hip_length",
         "sleeve_type": "long_sleeve",
-        "neckline": "crew_neck",
+        "neckline": "round_neck",
         "rise": null,
         "leg_shape": null,
         "details": [
           "zipper",
           "hood",
-          "pockets",
           "drawstring",
+          "pockets",
           "logo"
         ]
       },
       "visual_features": {
         "colors": [
-          "black"
+          "black",
+          "gold"
         ],
         "pattern": "solid",
         "material_guess": [
-          "cotton_blend"
+          "cotton blend"
         ],
         "texture": "smooth"
       },
@@ -1269,39 +1412,44 @@
         "basic"
       ],
       "trend_tags": [
-        "athleisure"
+        "athleisure",
+        "minimal_basic"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
-        "black zip hoodie",
-        "white t-shirt",
-        "black flared trousers",
-        "black sneakers"
+        "zip hoodie",
+        "t-shirt",
+        "trousers",
+        "sneakers"
       ],
-      "styling_context": "The black zip hoodie is styled open over a white t-shirt, paired with black flared trousers and black sneakers, creating a comfortable and sporty athleisure look.",
+      "styling_context": "Styled for a casual and sporty look, layered over a white t-shirt and paired with black trousers and sneakers.",
       "outfit_aesthetic_tags": [
-        "athleisure",
-        "sporty",
-        "casual"
+        "sporty_chic",
+        "casual_comfort",
+        "athleisure"
       ],
-      "short_trend_summary": "Эта черная толстовка на молнии является универсальным элементом спортивного и повседневного гардероба.",
-      "confidence": 0.95,
+      "short_trend_summary": "Эта черная толстовка на молнии является универсальным элементом спортивного и повседневного гардероба, подчеркивающим минималистичный athleisure стиль.",
+      "confidence": 0.9,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEN707601/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEN707601/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707601/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707601/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707601/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707601/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707601/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEN707601/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEX915901",
+    "product_id": "lamoda_RTLAEX915901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex915901/clothes-mango-svitshot/",
     "original": {
@@ -1338,9 +1486,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEX915901",
+      "product_id": "lamoda_RTLAEX915901",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaex915901/clothes-mango-svitshot/",
+      "raw_id": "RTLAEX915901",
+      "seller_article": "[PREMIUM]",
       "brand": "Mango",
       "title": "Свитшот PIQUE",
       "category": "Женщинам/Одежда/Одежда больших размеров/Худи и свитшоты",
@@ -1353,6 +1503,8 @@
       "price": 4799,
       "old_price": null,
       "discount": null,
+      "formatted_price": "4799 RUB",
+      "currency": "RUB",
       "color": "белый",
       "sizes": [
         "40/42",
@@ -1370,6 +1522,16 @@
         "XL",
         "XXL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "48/50",
+        "50/52",
+        "54/56"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 6,
       "seller": "Lamoda",
       "rating": 4.7,
       "reviews": 22,
@@ -1377,7 +1539,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 68,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX915901_31394758_1_v2.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEX915901_31394758_1_v2.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEX915901_31394759_2_v2.jpg",
@@ -1396,7 +1560,7 @@
         "category": "sweatshirts",
         "subcategory": null,
         "specific_type": "sweatshirt",
-        "commercial_name_ru": "свитшот",
+        "commercial_name_ru": "Свитшот",
         "commercial_name_en": "sweatshirt",
         "confidence": 1.0
       },
@@ -1409,21 +1573,21 @@
         },
         {
           "category": "bottom",
-          "specific_type": "wide_leg_trousers",
+          "specific_type": "trousers",
           "role": "styling_item",
-          "confidence": 0.85
-        },
-        {
-          "category": "knitwear",
-          "specific_type": "jumper",
-          "role": "styling_item",
-          "confidence": 0.8
+          "confidence": 0.9
         },
         {
           "category": "outerwear",
           "specific_type": "coat",
           "role": "styling_item",
           "confidence": 0.9
+        },
+        {
+          "category": "knitwear",
+          "specific_type": "jumper",
+          "role": "styling_item",
+          "confidence": 0.8
         },
         {
           "category": "bags",
@@ -1434,6 +1598,18 @@
         {
           "category": "shoes",
           "specific_type": "sneakers",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "ballet_flats",
+          "role": "styling_item",
+          "confidence": 0.7
+        },
+        {
+          "category": "bottom",
+          "specific_type": "jeans",
           "role": "styling_item",
           "confidence": 0.9
         }
@@ -1447,8 +1623,7 @@
         "rise": null,
         "leg_shape": null,
         "details": [
-          "ribbed",
-          "horizontal_seam"
+          "ribbed_cuffs"
         ]
       },
       "visual_features": {
@@ -1457,7 +1632,8 @@
         ],
         "pattern": "solid",
         "material_guess": [
-          "cotton_blend"
+          "cotton blend",
+          "jersey"
         ],
         "texture": "smooth"
       },
@@ -1470,48 +1646,53 @@
       "trend_tags": [
         "oversized_fit",
         "neutral_palette",
-        "minimal_basic"
+        "tonal_dressing",
+        "relaxed_silhouette"
       ],
       "seasonality": [
-        "all_season",
-        "autumn",
-        "winter"
+        "all_season"
       ],
       "visible_outfit_items": [
-        "white sweatshirt",
-        "light beige wide-leg trousers",
-        "dark brown coat",
-        "dark brown jumper",
-        "black shoulder bag",
-        "white sneakers"
+        "sweatshirt",
+        "trousers",
+        "coat",
+        "knit",
+        "shoulder_bag",
+        "sneakers",
+        "ballet_flats",
+        "jeans"
       ],
-      "styling_context": "The sweatshirt is styled as part of a layered, neutral-toned, casual-chic outfit. It is paired with light wide-leg trousers, a dark jumper tied around the waist, a long dark coat, white sneakers, and a black shoulder bag, creating a minimalist and comfortable aesthetic.",
+      "styling_context": "The sweatshirt is styled in a relaxed, minimalist manner. It's shown paired with matching light-colored wide-leg trousers for a tonal look, sometimes layered with a long brown coat and a knit tied around the waist. It's also styled casually with blue jeans. The overall aesthetic emphasizes comfort and understated elegance.",
       "outfit_aesthetic_tags": [
         "minimal",
         "casual",
-        "neutral_aesthetic",
-        "quiet_luxury"
+        "quiet_luxury",
+        "basic"
       ],
-      "short_trend_summary": "Этот свитшот в нейтральном цвете и свободном крое является базовым элементом для создания минималистичных и многослойных образов.",
+      "short_trend_summary": "Этот свитшот в минималистичном стиле и нейтральном цвете является универсальной базой для создания повседневных и многослойных образов.",
       "confidence": 0.9,
       "uncertainty": [
-        "The specific texture 'pique knit' from the title is not strongly visible in the images, but the material appears to be a smooth cotton blend.",
-        "The exact fit of the trousers (wide_leg) is an interpretation from the image.",
-        "The item tied around the waist is identified as a jumper, but could also be a cardigan."
+        "The product context states the color as 'белый' (white), but visually it appears more off-white or cream.",
+        "The specific 'PIQUE' texture mentioned in the title is not clearly discernible from the images, and the composition doesn't explicitly confirm it."
       ]
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEX915901/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEX915901/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX915901/image_007.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEX917601",
+    "product_id": "lamoda_RTLAEX917601",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex917601/clothes-mango-svitshot/",
     "original": {
@@ -1548,9 +1729,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEX917601",
+      "product_id": "lamoda_RTLAEX917601",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaex917601/clothes-mango-svitshot/",
+      "raw_id": "RTLAEX917601",
+      "seller_article": "[PREMIUM]",
       "brand": "Mango",
       "title": "Свитшот PIQUE",
       "category": "Женщинам/Одежда/Одежда больших размеров/Худи и свитшоты",
@@ -1563,6 +1746,8 @@
       "price": 4799,
       "old_price": null,
       "discount": null,
+      "formatted_price": "4799 RUB",
+      "currency": "RUB",
       "color": "серый",
       "sizes": [
         "38/40",
@@ -1582,6 +1767,17 @@
         "XL",
         "XXL"
       ],
+      "available_sizes": [
+        "38/40",
+        "40/42",
+        "42/44",
+        "44/46",
+        "48/50",
+        "50/52",
+        "54/56"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 7,
       "seller": "Lamoda",
       "rating": 4.9,
       "reviews": 19,
@@ -1589,7 +1785,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 76,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX917601_31394799_1_v3.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEX917601_31394799_1_v3.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEX917601_31394800_2_v3.jpg",
@@ -1609,7 +1807,7 @@
     "gemini_analysis": {
       "main_product": {
         "category": "sweatshirts",
-        "subcategory": null,
+        "subcategory": "sweatshirt",
         "specific_type": "sweatshirt",
         "commercial_name_ru": "свитшот",
         "commercial_name_en": "sweatshirt",
@@ -1623,12 +1821,6 @@
           "confidence": 1.0
         },
         {
-          "category": "outerwear",
-          "specific_type": "bomber_jacket",
-          "role": "styling_item",
-          "confidence": 0.9
-        },
-        {
           "category": "bottom",
           "specific_type": "wide_leg_trousers",
           "role": "styling_item",
@@ -1636,15 +1828,27 @@
         },
         {
           "category": "shoes",
-          "specific_type": "sneakers",
+          "specific_type": "loafers",
           "role": "styling_item",
-          "confidence": 0.7
+          "confidence": 0.8
+        },
+        {
+          "category": "outerwear",
+          "specific_type": "bomber_jacket",
+          "role": "styling_item",
+          "confidence": 0.9
         },
         {
           "category": "bags",
           "specific_type": "shoulder_bag",
           "role": "styling_item",
           "confidence": 0.7
+        },
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "styling_item",
+          "confidence": 0.8
         },
         {
           "category": "accessories",
@@ -1654,15 +1858,16 @@
         }
       ],
       "attributes": {
-        "fit": "oversized",
+        "fit": "relaxed",
         "silhouette": null,
         "length": "hip_length",
-        "sleeve_type": "long_sleeve",
+        "sleeve_length": "long_sleeve",
         "neckline": "crew_neck",
         "rise": null,
         "leg_shape": null,
         "details": [
-          "ribbed"
+          "ribbed_cuffs",
+          "seam_details"
         ]
       },
       "visual_features": {
@@ -1671,55 +1876,70 @@
         ],
         "pattern": "solid",
         "material_guess": [
-          "cotton_blend"
+          "cotton blend",
+          "pique knit"
         ],
-        "texture": "pique"
+        "texture": "pique_knit"
       },
       "style_tags": [
         "basic",
-        "casual",
         "minimal",
+        "casual",
         "sporty"
       ],
       "trend_tags": [
         "oversized_fit",
-        "athleisure",
-        "minimal_basic"
+        "minimal_basic",
+        "layering"
       ],
       "seasonality": [
-        "all_season"
+        "autumn",
+        "winter",
+        "spring"
       ],
       "visible_outfit_items": [
         "sweatshirt",
-        "bomber jacket",
         "wide-leg trousers",
-        "shoes",
-        "shoulder bag",
+        "loafers",
+        "bomber jacket",
+        "bag",
+        "longsleeve",
         "sunglasses"
       ],
-      "styling_context": "The sweatshirt is styled as part of a casual, layered outfit with a bomber jacket, wide-leg trousers, and minimalist accessories, creating a relaxed and modern look.",
+      "styling_context": "The sweatshirt is styled in a relaxed, minimalist manner, often layered over a white long-sleeve top and paired with wide-leg trousers and flat shoes. It is also shown with a bomber jacket and a structured bag for a casual everyday look.",
       "outfit_aesthetic_tags": [
         "casual",
-        "streetwear",
         "minimal",
-        "utility"
+        "streetwear",
+        "quiet_luxury"
       ],
-      "short_trend_summary": "Универсальный серый свитшот оверсайз кроя, актуальный для создания повседневных и многослойных образов.",
-      "confidence": 0.9,
-      "uncertainty": []
+      "short_trend_summary": "Этот серый свитшот свободного кроя с текстурой пике является универсальной базой для создания минималистичных и повседневных образов.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The specific type of bag (shoulder_bag vs. tote_bag) and shoes (loafers vs. ballet_flats) for styling items is an estimation.",
+        "The exact length of the sweatshirt could be interpreted as slightly cropped depending on body proportions, but hip_length seems more accurate for the overall design."
+      ]
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEX917601/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEX917601/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_007.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_008.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_009.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX917601/image_010.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEX901901",
+    "product_id": "lamoda_RTLAEX901901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex901901/clothes-mango-svitshot/",
     "original": {
@@ -1755,9 +1975,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEX901901",
+      "product_id": "lamoda_RTLAEX901901",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaex901901/clothes-mango-svitshot/",
+      "raw_id": "RTLAEX901901",
+      "seller_article": "[PREMIUM]",
       "brand": "Mango",
       "title": "Свитшот",
       "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -1770,6 +1992,8 @@
       "price": 5999,
       "old_price": null,
       "discount": null,
+      "formatted_price": "5999 RUB",
+      "currency": "RUB",
       "color": "коричневый",
       "sizes": [
         "40/42",
@@ -1785,6 +2009,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "48/50",
+        "50/52"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.8,
       "reviews": 24,
@@ -1792,7 +2025,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 100,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX901901_31394552_1_v2.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEX901901_31394552_1_v2.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEX901901_31394553_2_v2.jpg",
@@ -1822,40 +2057,40 @@
           "confidence": 1.0
         },
         {
+          "category": "skirt",
+          "specific_type": "midi_skirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
           "category": "outerwear",
           "specific_type": "coat",
           "role": "styling_item",
           "confidence": 0.9
         },
         {
-          "category": "skirt",
-          "specific_type": "mini_skirt",
-          "role": "styling_item",
-          "confidence": 0.8
-        },
-        {
           "category": "bags",
           "specific_type": "shoulder_bag",
           "role": "styling_item",
-          "confidence": 0.9
+          "confidence": 0.8
         },
         {
           "category": "shoes",
           "specific_type": "mules",
           "role": "styling_item",
-          "confidence": 0.8
+          "confidence": 0.9
         },
         {
           "category": "bags",
           "specific_type": "clutch",
           "role": "styling_item",
-          "confidence": 0.9
+          "confidence": 0.8
         }
       ],
       "attributes": {
-        "fit": "relaxed",
+        "fit": "oversized",
         "silhouette": null,
-        "length": null,
+        "length": "hip_length",
         "sleeve_type": "long_sleeve",
         "neckline": "turtleneck",
         "rise": null,
@@ -1871,57 +2106,62 @@
         ],
         "pattern": "solid",
         "material_guess": [
-          "viscose_blend",
-          "polyester_blend"
+          "knit"
         ],
         "texture": "smooth"
       },
       "style_tags": [
-        "casual",
-        "sporty",
+        "basic",
         "minimal",
+        "casual",
         "classic"
       ],
       "trend_tags": [
         "half_zip",
         "oversized_fit",
-        "minimal_basic",
-        "athleisure"
+        "monochromatic_styling"
       ],
       "seasonality": [
-        "all_season"
+        "autumn",
+        "winter"
       ],
       "visible_outfit_items": [
         "sweatshirt",
+        "midi skirt",
         "long coat",
-        "mini skirt",
         "shoulder bag",
         "mules",
-        "clutch bag"
+        "clutch"
       ],
-      "styling_context": "The sweatshirt is styled in two ways: first, as a casual standalone top with a clutch bag, and second, layered under a long coat with a mini skirt, a small shoulder bag, and heeled mules for a chic, elevated look.",
+      "styling_context": "The sweatshirt is styled as part of a sophisticated, monochromatic ensemble with a midi skirt, a long coat, and mules, accessorized with a shoulder bag or clutch, creating a modern and minimalist look.",
       "outfit_aesthetic_tags": [
         "minimal",
-        "casual_chic",
         "quiet_luxury",
-        "dark_academia"
+        "classic",
+        "office"
       ],
-      "short_trend_summary": "Этот свитшот с воротником-стойкой и молнией является универсальной базой для создания как повседневных, так и более элегантных многослойных образов.",
-      "confidence": 0.95,
-      "uncertainty": []
+      "short_trend_summary": "Этот свитшот с высоким воротником на молнии и свободным кроем актуален для создания минималистичных и элегантных образов.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product color is described as 'коричневый' (brown) but appears very dark, almost black, in the images."
+      ]
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEX901901/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEX901901/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX901901/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX901901/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX901901/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX901901/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX901901/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX901901/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEK849601",
+    "product_id": "lamoda_RTLAEK849601",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaek849601/clothes-armaniexchange-svitshot/",
     "original": {
@@ -1957,9 +2197,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEK849601",
+      "product_id": "lamoda_RTLAEK849601",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaek849601/clothes-armaniexchange-svitshot/",
+      "raw_id": "RTLAEK849601",
+      "seller_article": "[PREMIUM]",
       "brand": "Armani Exchange",
       "title": "Свитшот",
       "category": "Женщинам/Премиум/Одежда/Худи и свитшоты/Свитшоты",
@@ -1973,6 +2215,8 @@
       "price": 14900,
       "old_price": null,
       "discount": null,
+      "formatted_price": "14900 RUB",
+      "currency": "RUB",
       "color": "черный",
       "sizes": [
         "40/42",
@@ -1988,6 +2232,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "46/48",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.7,
       "reviews": 19,
@@ -1995,7 +2248,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 72,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEK849601_28494669_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEK849601_28494669_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEK849601_28494670_2_v1_2x.jpg",
@@ -2031,14 +2286,14 @@
           "confidence": 0.9
         },
         {
-          "category": "shoes",
-          "specific_type": "mules",
+          "category": "bags",
+          "specific_type": "shoulder_bag",
           "role": "styling_item",
           "confidence": 0.8
         },
         {
-          "category": "bags",
-          "specific_type": "shoulder_bag",
+          "category": "shoes",
+          "specific_type": "mules",
           "role": "styling_item",
           "confidence": 0.8
         }
@@ -2046,76 +2301,72 @@
       "attributes": {
         "fit": "relaxed",
         "silhouette": null,
-        "length": null,
+        "length": "hip_length",
         "sleeve_type": "long_sleeve",
         "neckline": "crew_neck",
         "rise": null,
         "leg_shape": null,
         "details": [
-          "logo",
-          "ribbed_cuffs"
+          "ribbed_cuffs",
+          "logo"
         ]
       },
       "visual_features": {
         "colors": [
-          "black",
-          "white"
+          "black"
         ],
         "pattern": "logo",
         "material_guess": [
-          "cotton",
-          "polyester",
-          "elastane"
+          "cotton blend",
+          "fleece"
         ],
         "texture": "smooth"
       },
       "style_tags": [
-        "casual",
         "basic",
+        "casual",
+        "minimal",
         "sporty"
       ],
       "trend_tags": [
-        "logo_mania",
+        "logo_print",
         "relaxed_fit"
       ],
       "seasonality": [
-        "all_season",
-        "autumn",
-        "winter"
+        "all_season"
       ],
       "visible_outfit_items": [
-        "black sweatshirt",
-        "white wide-leg cropped trousers",
-        "white mules",
-        "black shoulder bag"
+        "sweatshirt",
+        "wide-leg cropped trousers",
+        "shoulder bag",
+        "flat mules"
       ],
-      "styling_context": "The model wears the black sweatshirt with white wide-leg cropped trousers, white mules, and carries a black shoulder bag, creating a casual and relaxed monochrome-inspired look.",
+      "styling_context": "The black sweatshirt is styled casually with white wide-leg cropped trousers, a black shoulder bag, and white flat mules, creating a relaxed monochrome look.",
       "outfit_aesthetic_tags": [
         "casual",
         "minimal",
-        "streetwear"
+        "monochrome"
       ],
-      "short_trend_summary": "Черный свитшот с логотипом Armani Exchange — универсальная база для повседневных образов.",
+      "short_trend_summary": "Черный свитшот с логотипом — универсальная база для повседневного образа в стиле кэжуал.",
       "confidence": 0.95,
-      "uncertainty": [
-        "The specific type of trousers could also be culottes.",
-        "The specific type of shoes could also be flat sandals.",
-        "The specific type of bag could also be a tote bag.",
-        "Ribbed cuffs are assumed based on typical sweatshirt construction."
-      ]
+      "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEK849601/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEK849601/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK849601/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK849601/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK849601/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK849601/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK849601/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK849601/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MVWZ",
+    "product_id": "lamoda_MP002XW1MVWZ",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mvwz/clothes-toraeblack-svitshot/",
     "original": {
@@ -2151,9 +2402,11 @@
       "Страна производства": "Россия"
     },
     "normalized": {
-      "product_id": "MP002XW1MVWZ",
+      "product_id": "lamoda_MP002XW1MVWZ",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mvwz/clothes-toraeblack-svitshot/",
+      "raw_id": "MP002XW1MVWZ",
+      "seller_article": "[PREMIUM]",
       "brand": "Torae Black",
       "title": "Свитшот",
       "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -2166,6 +2419,8 @@
       "price": 3970,
       "old_price": 9990,
       "discount": 60,
+      "formatted_price": "3970 RUB",
+      "currency": "RUB",
       "color": "синий",
       "sizes": [
         "40/42",
@@ -2179,6 +2434,14 @@
         "M",
         "L"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "46/48"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 4,
       "seller": "Lamoda",
       "rating": 5,
       "reviews": 2,
@@ -2186,7 +2449,9 @@
       "season": "мульти",
       "collection": "Весна-лето 2026",
       "quantity": 54,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MVWZ_34693980_1_v2_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MVWZ_34693980_1_v2_2x.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MVWZ_34693978_2_v3_2x.jpg",
@@ -2208,36 +2473,42 @@
         "specific_type": "sweatshirt",
         "commercial_name_ru": "Свитшот",
         "commercial_name_en": "Sweatshirt",
-        "confidence": 0.98
+        "confidence": 1.0
       },
       "visible_items": [
         {
           "category": "sweatshirts",
           "specific_type": "sweatshirt",
           "role": "main_product",
-          "confidence": 0.98
+          "confidence": 1.0
         },
         {
           "category": "bottom",
           "specific_type": "shorts",
           "role": "styling_item",
-          "confidence": 0.95
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "joggers",
+          "role": "styling_item",
+          "confidence": 0.9
         },
         {
           "category": "bags",
-          "specific_type": "shoulder_bag",
+          "specific_type": "tote_bag",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "sunglasses",
           "role": "styling_item",
           "confidence": 0.9
         },
         {
           "category": "shoes",
           "specific_type": "sneakers",
-          "role": "styling_item",
-          "confidence": 0.95
-        },
-        {
-          "category": "accessories",
-          "specific_type": "sunglasses",
           "role": "styling_item",
           "confidence": 0.9
         }
@@ -2252,68 +2523,74 @@
         "leg_shape": null,
         "details": [
           "buttons",
-          "logo",
-          "ribbed"
+          "ribbed",
+          "logo"
         ]
       },
       "visual_features": {
         "colors": [
           "navy",
-          "white",
-          "black"
+          "white"
         ],
         "pattern": "logo",
         "material_guess": [
-          "cotton_blend",
-          "fleece"
+          "cotton",
+          "polyester"
         ],
         "texture": "fleece"
       },
       "style_tags": [
-        "sporty",
         "casual",
-        "preppy"
+        "sporty",
+        "streetwear"
       ],
       "trend_tags": [
+        "sporty_chic",
         "matching_set",
-        "polo_collar",
-        "logo_mania"
+        "polo_collar_sweatshirt",
+        "athleisure"
       ],
       "seasonality": [
-        "spring",
-        "summer",
-        "autumn"
+        "all_season"
       ],
       "visible_outfit_items": [
-        "Sweatshirt",
+        "sweatshirt",
         "shorts",
-        "shoulder bag",
+        "joggers",
+        "tote bag",
+        "sunglasses",
         "sneakers",
-        "socks",
-        "sunglasses"
+        "striped socks"
       ],
-      "styling_context": "Styled as a casual, sporty matching set with a shoulder bag, sneakers, and sunglasses.",
+      "styling_context": "The model is wearing a matching navy blue sweatshirt and shorts/joggers set, styled with a black tote bag, black narrow sunglasses, striped socks, and black and white sneakers, creating a casual and sporty athleisure look.",
       "outfit_aesthetic_tags": [
         "athleisure",
-        "sporty_chic",
-        "casual_comfort"
+        "casual",
+        "sporty",
+        "streetwear"
       ],
-      "short_trend_summary": "Свитшот в стиле поло с логотипом, часть спортивного костюма, актуален для повседневного образа.",
-      "confidence": 0.95,
+      "short_trend_summary": "Этот свитшот с поло-воротником и логотипом является частью модного спортивного костюма, идеально подходящего для создания повседневного образа в стиле athleisure.",
+      "confidence": 0.9,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MVWZ/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MVWZ/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_007.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MVWZ/image_008.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAAO089603",
+    "product_id": "lamoda_RTLAAO089603",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaao089603/clothes-ea7-svitshot/",
     "original": {
@@ -2349,9 +2626,11 @@
       "Страна производства": "Китай"
     },
     "normalized": {
-      "product_id": "RTLAAO089603",
+      "product_id": "lamoda_RTLAAO089603",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaao089603/clothes-ea7-svitshot/",
+      "raw_id": "RTLAAO089603",
+      "seller_article": "[PREMIUM]",
       "brand": "EA7",
       "title": "Свитшот",
       "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -2365,6 +2644,8 @@
       "price": 14799,
       "old_price": null,
       "discount": null,
+      "formatted_price": "14799 RUB",
+      "currency": "RUB",
       "color": "черный",
       "sizes": [
         "40/42",
@@ -2380,6 +2661,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "46/48",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.9,
       "reviews": 34,
@@ -2387,7 +2677,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 36,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAAO089603_16236126_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAAO089603_16236126_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAAO089603_16236127_2_v1_2x.jpg",
@@ -2424,19 +2716,22 @@
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
-          "confidence": 0.9
+          "confidence": 1.0
         }
       ],
       "attributes": {
         "fit": "regular",
         "silhouette": null,
-        "length": "hip_length",
+        "length": null,
         "sleeve_type": "long_sleeve",
         "neckline": "crew_neck",
         "rise": null,
         "leg_shape": null,
         "details": [
-          "logo"
+          "logo",
+          "ribbed_cuffs",
+          "ribbed_hem",
+          "embroidery"
         ]
       },
       "visual_features": {
@@ -2446,8 +2741,7 @@
         ],
         "pattern": "logo",
         "material_guess": [
-          "jersey",
-          "knit"
+          "jersey_knit"
         ],
         "texture": "smooth"
       },
@@ -2456,38 +2750,41 @@
         "casual"
       ],
       "trend_tags": [
-        "logo",
-        "athleisure"
+        "logo_mania",
+        "embellished_logo"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
-        "sweatshirt",
-        "joggers",
-        "sneakers"
+        "черный свитшот",
+        "черные спортивные брюки",
+        "черные кроссовки"
       ],
-      "styling_context": "The sweatshirt is styled as part of a full athleisure outfit with matching black joggers and sneakers, emphasizing a sporty and comfortable look.",
+      "styling_context": "The sweatshirt is styled with matching black sporty trousers and sneakers, creating a cohesive athletic-leisure look.",
       "outfit_aesthetic_tags": [
         "sporty",
+        "casual",
         "athleisure"
       ],
-      "short_trend_summary": "Черный свитшот с золотистым логотипом EA7, идеально подходящий для спортивного или повседневного образа.",
-      "confidence": 1.0,
+      "short_trend_summary": "Черный свитшот с золотистым логотипом EA7, выполненным в виде декоративной вышивки или страз, актуален для создания спортивных и повседневных образов.",
+      "confidence": 0.95,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAAO089603/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAAO089603/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAAO089603/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAAO089603/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAAO089603/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAAO089603/image_004.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEK812501",
+    "product_id": "lamoda_RTLAEK812501",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaek812501/clothes-calvinkleinjeans-tolstovka/",
     "original": {
@@ -2523,9 +2820,11 @@
       "Страна производства": "Индия"
     },
     "normalized": {
-      "product_id": "RTLAEK812501",
+      "product_id": "lamoda_RTLAEK812501",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaek812501/clothes-calvinkleinjeans-tolstovka/",
+      "raw_id": "RTLAEK812501",
+      "seller_article": "[PREMIUM]",
       "brand": "Calvin Klein Jeans",
       "title": "Толстовка",
       "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -2538,6 +2837,8 @@
       "price": 15999,
       "old_price": null,
       "discount": null,
+      "formatted_price": "15999 RUB",
+      "currency": "RUB",
       "color": "серый",
       "sizes": [
         "38/40",
@@ -2555,6 +2856,16 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "38/40",
+        "40/42",
+        "42/44",
+        "44/46",
+        "46/48",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 6,
       "seller": "Lamoda",
       "rating": 4.8,
       "reviews": 24,
@@ -2562,7 +2873,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 30,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEK812501_28557476_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEK812501_28557476_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEK812501_28557477_2_v1_2x.jpg",
@@ -2580,8 +2893,8 @@
         "category": "sweatshirts",
         "subcategory": null,
         "specific_type": "zip_hoodie",
-        "commercial_name_ru": "Толстовка",
-        "commercial_name_en": "zip_hoodie",
+        "commercial_name_ru": "Толстовка на молнии",
+        "commercial_name_en": "Zip-up hoodie",
         "confidence": 1.0
       },
       "visible_items": [
@@ -2599,7 +2912,7 @@
         },
         {
           "category": "bottom",
-          "specific_type": "trousers",
+          "specific_type": "jeans",
           "role": "styling_item",
           "confidence": 0.9
         },
@@ -2607,7 +2920,7 @@
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
-          "confidence": 1.0
+          "confidence": 0.9
         }
       ],
       "attributes": {
@@ -2615,7 +2928,7 @@
         "silhouette": null,
         "length": "cropped",
         "sleeve_type": "long_sleeve",
-        "neckline": "hood",
+        "neckline": "hooded",
         "rise": null,
         "leg_shape": null,
         "details": [
@@ -2623,18 +2936,17 @@
           "hood",
           "pockets",
           "ribbed_cuffs",
-          "ribbed_hem"
+          "logo"
         ]
       },
       "visual_features": {
         "colors": [
-          "grey",
-          "white",
-          "multicolor"
+          "grey"
         ],
         "pattern": "solid",
         "material_guess": [
-          "cotton"
+          "cotton",
+          "fleece"
         ],
         "texture": "smooth"
       },
@@ -2647,40 +2959,46 @@
       "trend_tags": [
         "oversized_fit",
         "cropped_length",
-        "balloon_sleeves"
+        "voluminous_sleeves",
+        "zip_hoodie"
       ],
       "seasonality": [
+        "spring",
+        "autumn",
         "all_season"
       ],
       "visible_outfit_items": [
         "grey zip-up hoodie",
         "white t-shirt",
-        "white trousers",
+        "white jeans",
         "sneakers"
       ],
-      "styling_context": "The grey zip-up hoodie is styled open over a white t-shirt, paired with white wide-leg trousers and sneakers, creating a relaxed and casual everyday look.",
+      "styling_context": "The hoodie is styled open over a white t-shirt, paired with white jeans and sneakers for a casual, everyday look.",
       "outfit_aesthetic_tags": [
         "casual",
         "sporty",
-        "streetwear",
-        "minimal"
+        "streetwear"
       ],
-      "short_trend_summary": "Эта укороченная толстовка оверсайз с широкими рукавами является актуальным элементом повседневного и спортивного стиля.",
-      "confidence": 0.95,
+      "short_trend_summary": "Серая укороченная толстовка на молнии оверсайз кроя с объемными рукавами – актуальный элемент повседневного гардероба.",
+      "confidence": 1.0,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEK812501/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEK812501/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK812501/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK812501/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK812501/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK812501/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK812501/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEK812501/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MWL7",
+    "product_id": "lamoda_MP002XW1MWL7",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mwl7/clothes-brmsk-khudi/",
     "original": {
@@ -2717,9 +3035,11 @@
       "Страна производства": "Китай"
     },
     "normalized": {
-      "product_id": "MP002XW1MWL7",
+      "product_id": "lamoda_MP002XW1MWL7",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mwl7/clothes-brmsk-khudi/",
+      "raw_id": "MP002XW1MWL7",
+      "seller_article": "[PREMIUM]",
       "brand": "BRMSK",
       "title": "Худи Lamoda Online Exclusive",
       "category": "Женщинам/Одежда/Худи и свитшоты/Худи",
@@ -2732,6 +3052,8 @@
       "price": 5990,
       "old_price": null,
       "discount": null,
+      "formatted_price": "5990 RUB",
+      "currency": "RUB",
       "color": "черный",
       "sizes": [
         "40/42",
@@ -2743,6 +3065,13 @@
         "M",
         "L"
       ],
+      "available_sizes": [
+        "40/42",
+        "44/46",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 3,
       "seller": "Lamoda",
       "rating": null,
       "reviews": null,
@@ -2750,7 +3079,9 @@
       "season": "мульти",
       "collection": "Весна-лето 2026",
       "quantity": 25,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MWL7_34740436_1_v2.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MWL7_34740436_1_v2.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MWL7_34740437_2_v2.jpg",
@@ -2772,20 +3103,44 @@
         "specific_type": "hoodie",
         "commercial_name_ru": "худи",
         "commercial_name_en": "hoodie",
-        "confidence": 0.98
+        "confidence": 1.0
       },
       "visible_items": [
         {
           "category": "sweatshirts",
           "specific_type": "hoodie",
           "role": "main_product",
-          "confidence": 0.98
+          "confidence": 1.0
         },
         {
           "category": "bottom",
-          "specific_type": "jeans",
+          "specific_type": "wide_leg_trousers",
           "role": "styling_item",
           "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "accessories",
+          "specific_type": "hair_clip",
+          "role": "styling_item",
+          "confidence": 0.7
+        },
+        {
+          "category": "accessories",
+          "specific_type": "sunglasses",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "bags",
+          "specific_type": "shoulder_bag",
+          "role": "styling_item",
+          "confidence": 0.7
         }
       ],
       "attributes": {
@@ -2797,69 +3152,77 @@
         "rise": null,
         "leg_shape": null,
         "details": [
-          "pockets",
-          "logo",
-          "ribbed",
           "drawstring",
+          "kangaroo_pocket",
+          "ribbed_cuffs",
+          "ribbed_hem",
+          "text_print",
           "hood"
         ]
       },
       "visual_features": {
         "colors": [
-          "black",
-          "yellow"
+          "black"
         ],
         "pattern": "text_print",
         "material_guess": [
-          "cotton",
-          "polyester",
+          "cotton_blend",
           "fleece"
         ],
-        "texture": "smooth"
+        "texture": null
       },
       "style_tags": [
-        "streetwear",
         "casual",
-        "sporty"
+        "sporty",
+        "streetwear",
+        "basic"
       ],
       "trend_tags": [
-        "oversized_fit",
+        "oversized",
         "cropped_length",
         "long_drawstrings"
       ],
       "seasonality": [
-        "all_season"
+        "all_season",
+        "spring",
+        "autumn"
       ],
       "visible_outfit_items": [
-        "black hoodie",
-        "light wash wide leg jeans",
+        "hoodie",
+        "wide-leg jeans",
         "earrings",
-        "hair clip"
+        "hair clip",
+        "sunglasses",
+        "shoulder bag"
       ],
-      "styling_context": "The oversized cropped hoodie is styled with light wash wide-leg jeans, creating a relaxed and casual streetwear look.",
+      "styling_context": "The black oversized hoodie is styled with light-wash wide-leg jeans, statement earrings, and a hair clip. Some looks include large sporty sunglasses and a textured shoulder bag, creating a modern casual streetwear outfit.",
       "outfit_aesthetic_tags": [
         "streetwear",
         "casual",
-        "oversized"
+        "y2k"
       ],
-      "short_trend_summary": "Это оверсайз худи с укороченной длиной и акцентными длинными завязками отражает актуальный уличный стиль.",
+      "short_trend_summary": "Это оверсайз худи с укороченной длиной и акцентными длинными шнурками отражает тренды уличного стиля и комфорта.",
       "confidence": 0.95,
-      "uncertainty": [
-        "The details 'drawstring' and 'hood' are not explicitly listed in the allowed attributes for 'top' or 'knitwear' categories, but are defining features of a hoodie."
-      ]
+      "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MWL7/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MWL7/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_006.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_007.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MWL7/image_008.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "RTLAEX902201",
+    "product_id": "lamoda_RTLAEX902201",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex902201/clothes-mango-svitshot/",
     "original": {
@@ -2896,9 +3259,11 @@
       "Страна производства": "Камбоджа"
     },
     "normalized": {
-      "product_id": "RTLAEX902201",
+      "product_id": "lamoda_RTLAEX902201",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/rtlaex902201/clothes-mango-svitshot/",
+      "raw_id": "RTLAEX902201",
+      "seller_article": "[PREMIUM]",
       "brand": "Mango",
       "title": "Свитшот",
       "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -2911,6 +3276,8 @@
       "price": 5999,
       "old_price": null,
       "discount": null,
+      "formatted_price": "5999 RUB",
+      "currency": "RUB",
       "color": "хаки",
       "sizes": [
         "40/42",
@@ -2926,6 +3293,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "44/46",
+        "48/50",
+        "50/52"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": 4.8,
       "reviews": 17,
@@ -2933,7 +3309,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 100,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX902201_31394558_1_v2.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/R/T/RTLAEX902201_31394558_1_v2.jpg",
         "https://a.lmcdn.ru/product/R/T/RTLAEX902201_31394559_2_v2.jpg",
@@ -2949,7 +3327,7 @@
     "gemini_analysis": {
       "main_product": {
         "category": "sweatshirts",
-        "subcategory": "sweatshirt",
+        "subcategory": null,
         "specific_type": "sweatshirt",
         "commercial_name_ru": "Свитшот",
         "commercial_name_en": "Sweatshirt",
@@ -2972,17 +3350,23 @@
           "category": "outerwear",
           "specific_type": "jacket",
           "role": "styling_item",
-          "confidence": 0.85
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.8
         },
         {
           "category": "shoes",
           "specific_type": "loafers",
           "role": "styling_item",
-          "confidence": 0.8
+          "confidence": 0.7
         },
         {
           "category": "bags",
-          "specific_type": "tote_bag",
+          "specific_type": "shoulder_bag",
           "role": "styling_item",
           "confidence": 0.8
         },
@@ -2990,21 +3374,20 @@
           "category": "accessories",
           "specific_type": "sunglasses",
           "role": "styling_item",
-          "confidence": 0.95
+          "confidence": 0.9
         }
       ],
       "attributes": {
-        "fit": "relaxed",
+        "fit": "oversized",
         "silhouette": null,
-        "length": null,
+        "length": "hip_length",
         "sleeve_type": "long_sleeve",
-        "neckline": "polo_collar",
+        "neckline": "collared",
         "rise": null,
         "leg_shape": null,
         "details": [
           "zipper",
-          "elasticated_hem",
-          "elasticated_cuffs"
+          "ribbed"
         ]
       },
       "visual_features": {
@@ -3013,57 +3396,67 @@
         ],
         "pattern": "solid",
         "material_guess": [
-          "jersey_knit"
+          "knit",
+          "viscose_blend"
         ],
-        "texture": "smooth"
+        "texture": "smooth_knit"
       },
       "style_tags": [
         "casual",
         "minimal",
-        "sporty"
+        "sporty",
+        "basic"
       ],
       "trend_tags": [
-        "half_zip",
-        "monochromatic_look",
-        "relaxed_fit"
+        "half_zip_collar",
+        "oversized_fit",
+        "monochrome_outfit",
+        "wide_leg_trousers",
+        "quiet_luxury"
       ],
       "seasonality": [
         "all_season",
         "autumn",
-        "winter",
-        "spring"
+        "winter"
       ],
       "visible_outfit_items": [
         "sweatshirt",
         "wide-leg trousers",
         "jacket",
+        "shirt",
         "loafers",
-        "tote bag",
+        "shoulder bag",
         "sunglasses"
       ],
-      "styling_context": "The sweatshirt is styled as part of a monochromatic casual outfit with matching wide-leg trousers, layered with a light-colored jacket, and accessorized with sunglasses, a dark brown tote bag, and black loafers.",
+      "styling_context": "The sweatshirt is styled as part of a layered, monochrome casual-chic outfit. It is worn over a white collared shirt, paired with matching wide-leg trousers, a light-colored jacket, and dark accessories.",
       "outfit_aesthetic_tags": [
-        "minimal",
-        "casual",
-        "sporty",
-        "quiet_luxury"
+        "casual_chic",
+        "minimalist",
+        "quiet_luxury",
+        "monochrome_look"
       ],
-      "short_trend_summary": "Этот свитшот с воротником на молнии в стиле поло и расслабленным кроем является актуальным элементом для создания повседневных и многослойных образов.",
-      "confidence": 0.95,
-      "uncertainty": []
+      "short_trend_summary": "Стильный свитшот оверсайз с воротником на молнии в трендовом оттенке хаки, идеально подходит для создания многослойных образов в стиле кэжуал или минимализм.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The exact type of shoes is not perfectly clear, assumed loafers."
+      ]
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/RTLAEX902201/image_001.jpg",
-        "data/lamoda/2026-07-06/images/RTLAEX902201/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX902201/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX902201/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX902201/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX902201/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX902201/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_RTLAEX902201/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MUPB",
+    "product_id": "lamoda_MP002XW1MUPB",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mupb/clothes-ostin-tolstovka/",
     "original": {
@@ -3099,9 +3492,11 @@
       "Страна производства": "Китай"
     },
     "normalized": {
-      "product_id": "MP002XW1MUPB",
+      "product_id": "lamoda_MP002XW1MUPB",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mupb/clothes-ostin-tolstovka/",
+      "raw_id": "MP002XW1MUPB",
+      "seller_article": "[PREMIUM]",
       "brand": "O'STIN",
       "title": "Толстовка",
       "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -3114,6 +3509,8 @@
       "price": 3999,
       "old_price": null,
       "discount": null,
+      "formatted_price": "3999 RUB",
+      "currency": "RUB",
       "color": "серый",
       "sizes": [
         "42",
@@ -3129,6 +3526,15 @@
         "L",
         "XL"
       ],
+      "available_sizes": [
+        "42",
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 5,
       "seller": "Lamoda",
       "rating": null,
       "reviews": null,
@@ -3136,7 +3542,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 37,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MUPB_34831334_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MUPB_34831334_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MUPB_34831335_2_v1_2x.jpg",
@@ -3153,34 +3561,34 @@
         "category": "sweatshirts",
         "subcategory": null,
         "specific_type": "zip_hoodie",
-        "commercial_name_ru": "худи на молнии",
-        "commercial_name_en": "zip hoodie",
-        "confidence": 0.98
+        "commercial_name_ru": "Толстовка",
+        "commercial_name_en": "Zip Hoodie",
+        "confidence": 1.0
       },
       "visible_items": [
         {
           "category": "sweatshirts",
           "specific_type": "zip_hoodie",
           "role": "main_product",
-          "confidence": 0.98
-        },
-        {
-          "category": "top",
-          "specific_type": "t_shirt",
-          "role": "styling_item",
-          "confidence": 0.9
+          "confidence": 1.0
         },
         {
           "category": "bottom",
           "specific_type": "wide_leg_trousers",
           "role": "styling_item",
-          "confidence": 0.95
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.8
         },
         {
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
-          "confidence": 0.95
+          "confidence": 0.9
         }
       ],
       "attributes": {
@@ -3188,12 +3596,12 @@
         "silhouette": null,
         "length": "hip_length",
         "sleeve_type": "long_sleeve",
-        "neckline": "crew_neck",
+        "neckline": null,
         "rise": null,
         "leg_shape": null,
         "details": [
-          "zipper",
           "hood",
+          "zipper",
           "pockets",
           "ribbed_cuffs"
         ]
@@ -3205,15 +3613,16 @@
         "pattern": "solid",
         "material_guess": [
           "modal_blend",
+          "polyester_blend",
           "jersey"
         ],
-        "texture": "jersey"
+        "texture": "smooth"
       },
       "style_tags": [
+        "basic",
         "casual",
         "sporty",
-        "streetwear",
-        "basic"
+        "loungewear"
       ],
       "trend_tags": [
         "oversized_fit",
@@ -3224,33 +3633,36 @@
         "all_season"
       ],
       "visible_outfit_items": [
-        "grey zip hoodie",
-        "light t-shirt",
-        "grey wide-leg sweatpants",
-        "white sneakers"
+        "zip_hoodie",
+        "wide_leg_trousers",
+        "t_shirt",
+        "sneakers"
       ],
-      "styling_context": "The zip hoodie is styled as part of a comfortable, casual athleisure outfit with matching wide-leg sweatpants, a simple light-colored t-shirt, and white sneakers.",
+      "styling_context": "The zip hoodie is styled open over a light t-shirt, paired with matching wide-leg sweatpants and white sneakers, creating a comfortable and cohesive athleisure loungewear look.",
       "outfit_aesthetic_tags": [
         "athleisure",
-        "casual_chic",
-        "minimal_basic"
+        "loungewear",
+        "casual"
       ],
-      "short_trend_summary": "Эта толстовка на молнии в оверсайз-стиле идеально вписывается в тренд на комфортный athleisure.",
-      "confidence": 0.95,
+      "short_trend_summary": "Удобная серая худи оверсайз на молнии, идеально подходящая для создания повседневных и спортивных образов.",
+      "confidence": 1.0,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MUPB/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MUPB/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MUPB/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MUPB/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MUPB/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MUPB/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MUPB/image_005.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MQ4Q",
+    "product_id": "lamoda_MP002XW1MQ4Q",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mq4q/clothes-dkny-svitshot/",
     "original": {
@@ -3286,9 +3698,11 @@
       "Страна производства": "Вьетнам"
     },
     "normalized": {
-      "product_id": "MP002XW1MQ4Q",
+      "product_id": "lamoda_MP002XW1MQ4Q",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mq4q/clothes-dkny-svitshot/",
+      "raw_id": "MP002XW1MQ4Q",
+      "seller_article": "[PREMIUM]",
       "brand": "DKNY",
       "title": "Свитшот",
       "category": "Женщинам/Премиум/Одежда/Худи и свитшоты/Свитшоты",
@@ -3302,6 +3716,8 @@
       "price": 11200,
       "old_price": null,
       "discount": null,
+      "formatted_price": "11200 RUB",
+      "currency": "RUB",
       "color": "молочный",
       "sizes": [
         "40/42",
@@ -3313,6 +3729,13 @@
         "S",
         "XL"
       ],
+      "available_sizes": [
+        "40/42",
+        "42/44",
+        "48/50"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 3,
       "seller": "Lamoda",
       "rating": 4.5,
       "reviews": 2,
@@ -3320,7 +3743,9 @@
       "season": "демисезон",
       "collection": "Весна-лето 2026",
       "quantity": 7,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MQ4Q_34697725_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MQ4Q_34697725_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MQ4Q_34697726_2_v1_2x.jpg",
@@ -3336,7 +3761,7 @@
     "gemini_analysis": {
       "main_product": {
         "category": "sweatshirts",
-        "subcategory": "sweatshirt",
+        "subcategory": null,
         "specific_type": "sweatshirt",
         "commercial_name_ru": "Свитшот",
         "commercial_name_en": "sweatshirt",
@@ -3356,20 +3781,20 @@
           "confidence": 0.9
         },
         {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
           "confidence": 0.9
-        },
-        {
-          "category": "top",
-          "specific_type": "t_shirt",
-          "role": "styling_item",
-          "confidence": 0.7
         }
       ],
       "attributes": {
-        "fit": "relaxed",
+        "fit": "oversized",
         "silhouette": null,
         "length": "hip_length",
         "sleeve_type": "long_sleeve",
@@ -3379,32 +3804,36 @@
         "details": [
           "zipper",
           "logo",
-          "ribbed"
+          "ribbed",
+          "text_print"
         ]
       },
       "visual_features": {
         "colors": [
-          "white",
+          "beige",
           "red",
           "black",
           "yellow",
-          "blue"
+          "brown",
+          "white"
         ],
         "pattern": "graphic",
         "material_guess": [
-          "cotton blend"
+          "cotton_blend",
+          "fleece"
         ],
         "texture": "smooth"
       },
       "style_tags": [
-        "sporty",
         "casual",
-        "streetwear"
+        "sporty",
+        "streetwear",
+        "basic"
       ],
       "trend_tags": [
         "logo_mania",
-        "half_zip_collar",
-        "sporty_chic"
+        "collegiate",
+        "half_zip"
       ],
       "seasonality": [
         "spring",
@@ -3413,33 +3842,35 @@
       "visible_outfit_items": [
         "sweatshirt",
         "trousers",
-        "sneakers",
-        "t-shirt"
+        "t-shirt",
+        "sneakers"
       ],
-      "styling_context": "The sweatshirt is styled with wide-leg trousers and sneakers, creating a comfortable and sporty casual look.",
+      "styling_context": "The sweatshirt is styled casually with wide-leg trousers and sneakers, creating a comfortable and sporty everyday look.",
       "outfit_aesthetic_tags": [
         "sporty",
         "casual",
         "streetwear"
       ],
-      "short_trend_summary": "Свитшот с воротником на молнии и нашивками в спортивном стиле, актуальный для повседневных образов.",
-      "confidence": 0.95,
-      "uncertainty": [
-        "The neckline 'collared' is used as the best fit for a stand-up half-zip collar, though not explicitly listed under 'sweatshirts' in the provided taxonomy, but is under 'top'."
-      ]
+      "short_trend_summary": "Свитшот оверсайз кроя с воротником на молнии и нашивками в спортивном стиле.",
+      "confidence": 0.9,
+      "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MQ4Q/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MQ4Q/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MQ4Q/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MQ4Q/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MQ4Q/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MQ4Q/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MQ4Q/image_005.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MQ4Q/image_006.jpg"
       ],
       "error": null
     }
   },
   {
-    "product_id": "MP002XW1MP4F",
+    "product_id": "lamoda_MP002XW1MP4F",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mp4f/clothes-outventure-svitshot/",
     "original": {
@@ -3476,9 +3907,11 @@
       "Страна производства": "Вьетнам"
     },
     "normalized": {
-      "product_id": "MP002XW1MP4F",
+      "product_id": "lamoda_MP002XW1MP4F",
       "source": "lamoda",
       "url": "https://www.lamoda.ru/p/mp002xw1mp4f/clothes-outventure-svitshot/",
+      "raw_id": "MP002XW1MP4F",
+      "seller_article": "[PREMIUM]",
       "brand": "Outventure",
       "title": "Свитшот",
       "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -3492,6 +3925,8 @@
       "price": 1333,
       "old_price": null,
       "discount": null,
+      "formatted_price": "1333 RUB",
+      "currency": "RUB",
       "color": "зеленый",
       "sizes": [
         "42",
@@ -3511,6 +3946,17 @@
         "50/52",
         "54/56"
       ],
+      "available_sizes": [
+        "42",
+        "44",
+        "46",
+        "48",
+        "50",
+        "50/52",
+        "54/56"
+      ],
+      "out_of_stock_sizes": [],
+      "sizes_count": 7,
       "seller": "Lamoda",
       "rating": null,
       "reviews": null,
@@ -3518,7 +3964,9 @@
       "season": "мульти",
       "collection": "Осень-зима 2026/2027",
       "quantity": 121,
+      "availability": null,
       "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MP4F_34768870_1_v1_2x.jpg",
+      "model_image_url": null,
       "gallery_image_urls": [
         "https://a.lmcdn.ru/product/M/P/MP002XW1MP4F_34768870_1_v1_2x.jpg",
         "https://a.lmcdn.ru/product/M/P/MP002XW1MP4F_34768871_2_v1_2x.jpg",
@@ -3537,20 +3985,20 @@
         "specific_type": "sweatshirt",
         "commercial_name_ru": "Свитшот",
         "commercial_name_en": "Sweatshirt",
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "visible_items": [
         {
           "category": "sweatshirts",
           "specific_type": "sweatshirt",
           "role": "main_product",
-          "confidence": 0.95
+          "confidence": 1.0
         },
         {
           "category": "top",
           "specific_type": "t_shirt",
           "role": "styling_item",
-          "confidence": 0.8
+          "confidence": 0.9
         },
         {
           "category": "bottom",
@@ -3562,7 +4010,7 @@
           "category": "shoes",
           "specific_type": "sneakers",
           "role": "styling_item",
-          "confidence": 0.9
+          "confidence": 0.8
         }
       ],
       "attributes": {
@@ -3574,14 +4022,13 @@
         "rise": null,
         "leg_shape": null,
         "details": [
-          "zipper"
+          "zipper",
+          "collared"
         ]
       },
       "visual_features": {
         "colors": [
-          "green",
-          "white",
-          "black"
+          "green"
         ],
         "pattern": "solid",
         "material_guess": [
@@ -3592,37 +4039,42 @@
       },
       "style_tags": [
         "sporty",
-        "casual"
+        "casual",
+        "utility"
       ],
       "trend_tags": [
-        "utility",
-        "sporty_chic"
+        "zip_neck",
+        "fleece",
+        "gorpcore_elements"
       ],
       "seasonality": [
         "all_season"
       ],
       "visible_outfit_items": [
-        "green sweatshirt",
+        "green fleece sweatshirt",
         "white t-shirt",
         "black cargo pants",
-        "black sneakers"
+        "black and white sneakers"
       ],
-      "styling_context": "The green fleece sweatshirt is styled casually over a white t-shirt, paired with black cargo pants and black sneakers, creating a comfortable and sporty look.",
+      "styling_context": "The sweatshirt is styled layered over a white t-shirt, paired with black wide-leg cargo pants and sporty sneakers, creating a casual and utilitarian outdoor-inspired look.",
       "outfit_aesthetic_tags": [
-        "sporty",
-        "casual",
-        "utility"
+        "sporty_casual",
+        "utility_chic",
+        "gorpcore"
       ],
-      "short_trend_summary": "Удобный флисовый свитшот прямого кроя с воротником-стойкой и молнией, идеальный для спортивного и повседневного образа.",
-      "confidence": 0.9,
+      "short_trend_summary": "Удобный флисовый свитшот с воротником-стойкой и короткой молнией, актуальный для спортивных и повседневных образов.",
+      "confidence": 0.95,
       "uncertainty": []
     },
     "analysis_status": "ok",
     "analysis_meta": {
       "attempt": 1,
       "images_used": [
-        "data/lamoda/2026-07-06/images/MP002XW1MP4F/image_001.jpg",
-        "data/lamoda/2026-07-06/images/MP002XW1MP4F/image_002.jpg"
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MP4F/image_001.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MP4F/image_002.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MP4F/image_003.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MP4F/image_004.jpg",
+        "data/lamoda/2026-07-06/images/lamoda_MP002XW1MP4F/image_005.jpg"
       ],
       "error": null
     }

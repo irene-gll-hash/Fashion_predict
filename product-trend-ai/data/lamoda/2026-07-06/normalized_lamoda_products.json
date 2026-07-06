@@ -1,8 +1,10 @@
 [
   {
-    "product_id": "RTLAEF532901",
+    "product_id": "lamoda_RTLAEF532901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaef532901/clothes-nume-svitshot/",
+    "raw_id": "RTLAEF532901",
+    "seller_article": "[PREMIUM]",
     "brand": "Nume",
     "title": "Свитшот",
     "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -15,6 +17,8 @@
     "price": 5590,
     "old_price": null,
     "discount": null,
+    "formatted_price": "5590 RUB",
+    "currency": "RUB",
     "color": "розовый",
     "sizes": [
       "42",
@@ -28,6 +32,14 @@
       "M",
       "L"
     ],
+    "available_sizes": [
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 4,
     "seller": "Lamoda",
     "rating": 4.7,
     "reviews": 26,
@@ -35,7 +47,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 80,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEF532901_28077040_1_v3_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEF532901_28077040_1_v3_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEF532901_28077041_2_v3_2x.jpg",
@@ -84,9 +98,11 @@
     }
   },
   {
-    "product_id": "RTLAEX983901",
+    "product_id": "lamoda_RTLAEX983901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex983901/clothes-mango-olimpiyka/",
+    "raw_id": "RTLAEX983901",
+    "seller_article": "[PREMIUM]",
     "brand": "Mango",
     "title": "Олимпийка TRI",
     "category": "Женщинам/Одежда/Худи и свитшоты/Олимпийки",
@@ -99,6 +115,8 @@
     "price": 5999,
     "old_price": null,
     "discount": null,
+    "formatted_price": "5999 RUB",
+    "currency": "RUB",
     "color": "коричневый",
     "sizes": [
       "40/42",
@@ -114,6 +132,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "48/50",
+      "50/52"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.8,
     "reviews": 20,
@@ -121,7 +148,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 43,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX893101_31394240_1_v2.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEX893101_31394240_1_v2.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEX893101_31394241_2_v2.jpg",
@@ -169,9 +198,11 @@
     }
   },
   {
-    "product_id": "RTLAFE306801",
+    "product_id": "lamoda_RTLAFE306801",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlafe306801/clothes-nume-tolstovka/",
+    "raw_id": "RTLAFE306801",
+    "seller_article": "[PREMIUM]",
     "brand": "Nume",
     "title": "Толстовка",
     "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -184,6 +215,8 @@
     "price": 7990,
     "old_price": null,
     "discount": null,
+    "formatted_price": "7990 RUB",
+    "currency": "RUB",
     "color": "голубой",
     "sizes": [
       "42",
@@ -197,6 +230,14 @@
       "M",
       "L"
     ],
+    "available_sizes": [
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 4,
     "seller": "Lamoda",
     "rating": null,
     "reviews": null,
@@ -204,7 +245,9 @@
     "season": "лето, демисезон",
     "collection": "Осень-зима 2026/2027",
     "quantity": 80,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAFE306801_34713998_1_v2_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAFE306801_34713998_1_v2_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAFE306801_34741759_2_v1_2x.jpg",
@@ -250,9 +293,11 @@
     }
   },
   {
-    "product_id": "RTLAEN707801",
+    "product_id": "lamoda_RTLAEN707801",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaen707801/clothes-ea7-khudi/",
+    "raw_id": "RTLAEN707801",
+    "seller_article": "[PREMIUM]",
     "brand": "EA7",
     "title": "Худи LOGO SERIES W",
     "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -266,6 +311,8 @@
     "price": 17299,
     "old_price": null,
     "discount": null,
+    "formatted_price": "17299 RUB",
+    "currency": "RUB",
     "color": "черный",
     "sizes": [
       "40/42",
@@ -281,6 +328,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "46/48",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.9,
     "reviews": 21,
@@ -288,7 +344,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 75,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEN707801_29209532_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEN707801_29209532_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEN707801_29209533_2_v1_2x.jpg",
@@ -334,9 +392,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MZGN",
+    "product_id": "lamoda_MP002XW1MZGN",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mzgn/clothes-sela-svitshot/",
+    "raw_id": "MP002XW1MZGN",
+    "seller_article": "[PREMIUM]",
     "brand": "SELA",
     "title": "Свитшот",
     "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -349,6 +409,8 @@
     "price": 4799,
     "old_price": null,
     "discount": null,
+    "formatted_price": "4799 RUB",
+    "currency": "RUB",
     "color": "бежевый",
     "sizes": [
       "42",
@@ -364,6 +426,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "42",
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": null,
     "reviews": null,
@@ -371,7 +442,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 100,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MZGN_34888224_1_v2_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MZGN_34888224_1_v2_2x.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MZGN_34888226_2_v2_2x.jpg",
@@ -417,9 +490,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MZV3",
+    "product_id": "lamoda_MP002XW1MZV3",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mzv3/clothes-lookonline-tolstovka/",
+    "raw_id": "MP002XW1MZV3",
+    "seller_article": "[PREMIUM]",
     "brand": "Lookonline",
     "title": "Толстовка",
     "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -432,6 +507,8 @@
     "price": 4990,
     "old_price": null,
     "discount": null,
+    "formatted_price": "4990 RUB",
+    "currency": "RUB",
     "color": "бирюзовый",
     "sizes": [
       "42",
@@ -441,6 +518,12 @@
       "XS",
       "S"
     ],
+    "available_sizes": [
+      "42",
+      "44"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 2,
     "seller": "Lamoda",
     "rating": null,
     "reviews": null,
@@ -448,7 +531,9 @@
     "season": "мульти",
     "collection": "Весна-лето 2026",
     "quantity": 7,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MZV3_34835074_1_v2_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MZV3_34835074_1_v2_2x.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MZV3_34835075_2_v2_2x.jpg",
@@ -496,9 +581,11 @@
     }
   },
   {
-    "product_id": "RTLAEN707601",
+    "product_id": "lamoda_RTLAEN707601",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaen707601/clothes-ea7-tolstovka/",
+    "raw_id": "RTLAEN707601",
+    "seller_article": "[PREMIUM]",
     "brand": "EA7",
     "title": "Толстовка CORE LADY W",
     "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -512,6 +599,8 @@
     "price": 13799,
     "old_price": null,
     "discount": null,
+    "formatted_price": "13799 RUB",
+    "currency": "RUB",
     "color": "черный",
     "sizes": [
       "40/42",
@@ -527,6 +616,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "46/48",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.8,
     "reviews": 29,
@@ -534,7 +632,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 54,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEN707601_29255796_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEN707601_29255796_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEN707601_29255797_2_v1_2x.jpg",
@@ -580,9 +680,11 @@
     }
   },
   {
-    "product_id": "RTLAEX915901",
+    "product_id": "lamoda_RTLAEX915901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex915901/clothes-mango-svitshot/",
+    "raw_id": "RTLAEX915901",
+    "seller_article": "[PREMIUM]",
     "brand": "Mango",
     "title": "Свитшот PIQUE",
     "category": "Женщинам/Одежда/Одежда больших размеров/Худи и свитшоты",
@@ -595,6 +697,8 @@
     "price": 4799,
     "old_price": null,
     "discount": null,
+    "formatted_price": "4799 RUB",
+    "currency": "RUB",
     "color": "белый",
     "sizes": [
       "40/42",
@@ -612,6 +716,16 @@
       "XL",
       "XXL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "48/50",
+      "50/52",
+      "54/56"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 6,
     "seller": "Lamoda",
     "rating": 4.7,
     "reviews": 22,
@@ -619,7 +733,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 68,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX915901_31394758_1_v2.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEX915901_31394758_1_v2.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEX915901_31394759_2_v2.jpg",
@@ -667,9 +783,11 @@
     }
   },
   {
-    "product_id": "RTLAEX917601",
+    "product_id": "lamoda_RTLAEX917601",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex917601/clothes-mango-svitshot/",
+    "raw_id": "RTLAEX917601",
+    "seller_article": "[PREMIUM]",
     "brand": "Mango",
     "title": "Свитшот PIQUE",
     "category": "Женщинам/Одежда/Одежда больших размеров/Худи и свитшоты",
@@ -682,6 +800,8 @@
     "price": 4799,
     "old_price": null,
     "discount": null,
+    "formatted_price": "4799 RUB",
+    "currency": "RUB",
     "color": "серый",
     "sizes": [
       "38/40",
@@ -701,6 +821,17 @@
       "XL",
       "XXL"
     ],
+    "available_sizes": [
+      "38/40",
+      "40/42",
+      "42/44",
+      "44/46",
+      "48/50",
+      "50/52",
+      "54/56"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 7,
     "seller": "Lamoda",
     "rating": 4.9,
     "reviews": 19,
@@ -708,7 +839,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 76,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX917601_31394799_1_v3.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEX917601_31394799_1_v3.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEX917601_31394800_2_v3.jpg",
@@ -759,9 +892,11 @@
     }
   },
   {
-    "product_id": "RTLAEX901901",
+    "product_id": "lamoda_RTLAEX901901",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex901901/clothes-mango-svitshot/",
+    "raw_id": "RTLAEX901901",
+    "seller_article": "[PREMIUM]",
     "brand": "Mango",
     "title": "Свитшот",
     "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -774,6 +909,8 @@
     "price": 5999,
     "old_price": null,
     "discount": null,
+    "formatted_price": "5999 RUB",
+    "currency": "RUB",
     "color": "коричневый",
     "sizes": [
       "40/42",
@@ -789,6 +926,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "48/50",
+      "50/52"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.8,
     "reviews": 24,
@@ -796,7 +942,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 100,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX901901_31394552_1_v2.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEX901901_31394552_1_v2.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEX901901_31394553_2_v2.jpg",
@@ -842,9 +990,11 @@
     }
   },
   {
-    "product_id": "RTLAEK849601",
+    "product_id": "lamoda_RTLAEK849601",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaek849601/clothes-armaniexchange-svitshot/",
+    "raw_id": "RTLAEK849601",
+    "seller_article": "[PREMIUM]",
     "brand": "Armani Exchange",
     "title": "Свитшот",
     "category": "Женщинам/Премиум/Одежда/Худи и свитшоты/Свитшоты",
@@ -858,6 +1008,8 @@
     "price": 14900,
     "old_price": null,
     "discount": null,
+    "formatted_price": "14900 RUB",
+    "currency": "RUB",
     "color": "черный",
     "sizes": [
       "40/42",
@@ -873,6 +1025,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "46/48",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.7,
     "reviews": 19,
@@ -880,7 +1041,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 72,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEK849601_28494669_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEK849601_28494669_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEK849601_28494670_2_v1_2x.jpg",
@@ -926,9 +1089,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MVWZ",
+    "product_id": "lamoda_MP002XW1MVWZ",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mvwz/clothes-toraeblack-svitshot/",
+    "raw_id": "MP002XW1MVWZ",
+    "seller_article": "[PREMIUM]",
     "brand": "Torae Black",
     "title": "Свитшот",
     "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -941,6 +1106,8 @@
     "price": 3970,
     "old_price": 9990,
     "discount": 60,
+    "formatted_price": "3970 RUB",
+    "currency": "RUB",
     "color": "синий",
     "sizes": [
       "40/42",
@@ -954,6 +1121,14 @@
       "M",
       "L"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "46/48"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 4,
     "seller": "Lamoda",
     "rating": 5,
     "reviews": 2,
@@ -961,7 +1136,9 @@
     "season": "мульти",
     "collection": "Весна-лето 2026",
     "quantity": 54,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MVWZ_34693980_1_v2_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MVWZ_34693980_1_v2_2x.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MVWZ_34693978_2_v3_2x.jpg",
@@ -1009,9 +1186,11 @@
     }
   },
   {
-    "product_id": "RTLAAO089603",
+    "product_id": "lamoda_RTLAAO089603",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaao089603/clothes-ea7-svitshot/",
+    "raw_id": "RTLAAO089603",
+    "seller_article": "[PREMIUM]",
     "brand": "EA7",
     "title": "Свитшот",
     "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -1025,6 +1204,8 @@
     "price": 14799,
     "old_price": null,
     "discount": null,
+    "formatted_price": "14799 RUB",
+    "currency": "RUB",
     "color": "черный",
     "sizes": [
       "40/42",
@@ -1040,6 +1221,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "46/48",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.9,
     "reviews": 34,
@@ -1047,7 +1237,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 36,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAAO089603_16236126_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAAO089603_16236126_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAAO089603_16236127_2_v1_2x.jpg",
@@ -1091,9 +1283,11 @@
     }
   },
   {
-    "product_id": "RTLAEK812501",
+    "product_id": "lamoda_RTLAEK812501",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaek812501/clothes-calvinkleinjeans-tolstovka/",
+    "raw_id": "RTLAEK812501",
+    "seller_article": "[PREMIUM]",
     "brand": "Calvin Klein Jeans",
     "title": "Толстовка",
     "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -1106,6 +1300,8 @@
     "price": 15999,
     "old_price": null,
     "discount": null,
+    "formatted_price": "15999 RUB",
+    "currency": "RUB",
     "color": "серый",
     "sizes": [
       "38/40",
@@ -1123,6 +1319,16 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "38/40",
+      "40/42",
+      "42/44",
+      "44/46",
+      "46/48",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 6,
     "seller": "Lamoda",
     "rating": 4.8,
     "reviews": 24,
@@ -1130,7 +1336,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 30,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEK812501_28557476_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEK812501_28557476_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEK812501_28557477_2_v1_2x.jpg",
@@ -1176,9 +1384,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MWL7",
+    "product_id": "lamoda_MP002XW1MWL7",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mwl7/clothes-brmsk-khudi/",
+    "raw_id": "MP002XW1MWL7",
+    "seller_article": "[PREMIUM]",
     "brand": "BRMSK",
     "title": "Худи Lamoda Online Exclusive",
     "category": "Женщинам/Одежда/Худи и свитшоты/Худи",
@@ -1191,6 +1401,8 @@
     "price": 5990,
     "old_price": null,
     "discount": null,
+    "formatted_price": "5990 RUB",
+    "currency": "RUB",
     "color": "черный",
     "sizes": [
       "40/42",
@@ -1202,6 +1414,13 @@
       "M",
       "L"
     ],
+    "available_sizes": [
+      "40/42",
+      "44/46",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 3,
     "seller": "Lamoda",
     "rating": null,
     "reviews": null,
@@ -1209,7 +1428,9 @@
     "season": "мульти",
     "collection": "Весна-лето 2026",
     "quantity": 25,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MWL7_34740436_1_v2.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MWL7_34740436_1_v2.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MWL7_34740437_2_v2.jpg",
@@ -1258,9 +1479,11 @@
     }
   },
   {
-    "product_id": "RTLAEX902201",
+    "product_id": "lamoda_RTLAEX902201",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/rtlaex902201/clothes-mango-svitshot/",
+    "raw_id": "RTLAEX902201",
+    "seller_article": "[PREMIUM]",
     "brand": "Mango",
     "title": "Свитшот",
     "category": "Женщинам/Одежда/Худи и свитшоты/Свитшоты",
@@ -1273,6 +1496,8 @@
     "price": 5999,
     "old_price": null,
     "discount": null,
+    "formatted_price": "5999 RUB",
+    "currency": "RUB",
     "color": "хаки",
     "sizes": [
       "40/42",
@@ -1288,6 +1513,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "44/46",
+      "48/50",
+      "50/52"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": 4.8,
     "reviews": 17,
@@ -1295,7 +1529,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 100,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/R/T/RTLAEX902201_31394558_1_v2.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/R/T/RTLAEX902201_31394558_1_v2.jpg",
       "https://a.lmcdn.ru/product/R/T/RTLAEX902201_31394559_2_v2.jpg",
@@ -1342,9 +1578,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MUPB",
+    "product_id": "lamoda_MP002XW1MUPB",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mupb/clothes-ostin-tolstovka/",
+    "raw_id": "MP002XW1MUPB",
+    "seller_article": "[PREMIUM]",
     "brand": "O'STIN",
     "title": "Толстовка",
     "category": "Женщинам/Одежда/Худи и свитшоты/Толстовки",
@@ -1357,6 +1595,8 @@
     "price": 3999,
     "old_price": null,
     "discount": null,
+    "formatted_price": "3999 RUB",
+    "currency": "RUB",
     "color": "серый",
     "sizes": [
       "42",
@@ -1372,6 +1612,15 @@
       "L",
       "XL"
     ],
+    "available_sizes": [
+      "42",
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 5,
     "seller": "Lamoda",
     "rating": null,
     "reviews": null,
@@ -1379,7 +1628,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 37,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MUPB_34831334_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MUPB_34831334_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MUPB_34831335_2_v1_2x.jpg",
@@ -1424,9 +1675,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MQ4Q",
+    "product_id": "lamoda_MP002XW1MQ4Q",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mq4q/clothes-dkny-svitshot/",
+    "raw_id": "MP002XW1MQ4Q",
+    "seller_article": "[PREMIUM]",
     "brand": "DKNY",
     "title": "Свитшот",
     "category": "Женщинам/Премиум/Одежда/Худи и свитшоты/Свитшоты",
@@ -1440,6 +1693,8 @@
     "price": 11200,
     "old_price": null,
     "discount": null,
+    "formatted_price": "11200 RUB",
+    "currency": "RUB",
     "color": "молочный",
     "sizes": [
       "40/42",
@@ -1451,6 +1706,13 @@
       "S",
       "XL"
     ],
+    "available_sizes": [
+      "40/42",
+      "42/44",
+      "48/50"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 3,
     "seller": "Lamoda",
     "rating": 4.5,
     "reviews": 2,
@@ -1458,7 +1720,9 @@
     "season": "демисезон",
     "collection": "Весна-лето 2026",
     "quantity": 7,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MQ4Q_34697725_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MQ4Q_34697725_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MQ4Q_34697726_2_v1_2x.jpg",
@@ -1504,9 +1768,11 @@
     }
   },
   {
-    "product_id": "MP002XW1MP4F",
+    "product_id": "lamoda_MP002XW1MP4F",
     "source": "lamoda",
     "url": "https://www.lamoda.ru/p/mp002xw1mp4f/clothes-outventure-svitshot/",
+    "raw_id": "MP002XW1MP4F",
+    "seller_article": "[PREMIUM]",
     "brand": "Outventure",
     "title": "Свитшот",
     "category": "Женщинам/Спорт/Все спортивные товары/Одежда/Толстовки и свитшоты",
@@ -1520,6 +1786,8 @@
     "price": 1333,
     "old_price": null,
     "discount": null,
+    "formatted_price": "1333 RUB",
+    "currency": "RUB",
     "color": "зеленый",
     "sizes": [
       "42",
@@ -1539,6 +1807,17 @@
       "50/52",
       "54/56"
     ],
+    "available_sizes": [
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "50/52",
+      "54/56"
+    ],
+    "out_of_stock_sizes": [],
+    "sizes_count": 7,
     "seller": "Lamoda",
     "rating": null,
     "reviews": null,
@@ -1546,7 +1825,9 @@
     "season": "мульти",
     "collection": "Осень-зима 2026/2027",
     "quantity": 121,
+    "availability": null,
     "main_image_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MP4F_34768870_1_v1_2x.jpg",
+    "model_image_url": null,
     "gallery_image_urls": [
       "https://a.lmcdn.ru/product/M/P/MP002XW1MP4F_34768870_1_v1_2x.jpg",
       "https://a.lmcdn.ru/product/M/P/MP002XW1MP4F_34768871_2_v1_2x.jpg",

@@ -108,7 +108,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--date", required=True)
     parser.add_argument("--input-file", type=Path, default=None)
     parser.add_argument("--limit", type=int, default=None)
-    parser.add_argument("--max-images-per-product", type=int, default=2)
+    parser.add_argument("--max-images-per-product", type=int, default=None)
     parser.add_argument("--skip-gemini", action="store_true")
     parser.add_argument("--sleep-seconds", type=float, default=1.0)
     parser.add_argument("--max-retries", type=int, default=3)
