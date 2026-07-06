@@ -1,12 +1,9 @@
 ﻿from __future__ import annotations
-
 import time
 from pathlib import Path
 from typing import Any
-
 from ai.gemini_client import GeminiProductClient
 from ai.product_prompts import build_product_prompt
-
 
 class ProductGeminiAnalyzer:
     def __init__(
