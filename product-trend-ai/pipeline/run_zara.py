@@ -52,7 +52,7 @@ def run_zara(date: str, input_file: Path | None, limit: int | None, max_images_p
             continue
         if analyzer is None:
             continue
-        gemini_result = analyzer.analyze_lamoda_product(product, image_paths)
+        gemini_result = analyzer.analyze_product(product, image_paths)
         gemini_result["source"] = "zara"
         gemini_results[product_id] = gemini_result
         _save_gemini_results(gemini_file, gemini_results)

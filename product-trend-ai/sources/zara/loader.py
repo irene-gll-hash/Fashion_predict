@@ -10,7 +10,7 @@ def load_zara_products(input_file: Path) -> list[dict[str, Any]]:
     return records
 
 def find_zara_input_file(data_dir: Path, run_date: str) -> Path:
-    input_file = data_dir / "Zara" / run_date / "zara.json"
+    input_file = data_dir / "zara" / run_date / "zara.json"
     if input_file.exists():
         return input_file
     raise FileNotFoundError(f"Zara input file not found: {input_file}")

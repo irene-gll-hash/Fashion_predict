@@ -78,7 +78,7 @@ def main() -> None:
             save_json(gemini_output, list(gemini_results_by_product_id.values()))
             continue
         assert analyzer is not None
-        result = analyzer.analyze_lamoda_product(
+        result = analyzer.analyze_product(
             product=product["original"],
             image_paths=image_paths,
         )

@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from ai.gemini_client import GeminiProductClient
-from ai.product_prompts import build_lamoda_product_prompt
+from ai.product_prompts import build_product_prompt
 
 
 class ProductGeminiAnalyzer:
@@ -19,12 +19,12 @@ class ProductGeminiAnalyzer:
         self.sleep_seconds = sleep_seconds
         self.max_retries = max_retries
 
-    def analyze_lamoda_product(
+    def analyze_product(
         self,
         product: dict[str, Any],
         image_paths: list[Path],
     ) -> dict[str, Any]:
-        prompt = build_lamoda_product_prompt(product)
+        prompt = build_product_prompt(product)
 
         last_error: str | None = None
 

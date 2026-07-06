@@ -1,7 +1,7 @@
 ﻿from __future__ import annotations
 import json
 from typing import Any
-LAMODA_PRODUCT_ANALYSIS_SCHEMA: dict[str, Any] = {
+PRODUCT_ANALYSIS_SCHEMA: dict[str, Any] = {
     "product_type": "string",
     "base_product_type": "string",
     "fashion_category": "string",
@@ -26,7 +26,7 @@ LAMODA_PRODUCT_ANALYSIS_SCHEMA: dict[str, Any] = {
     "short_trend_summary": "string",
     "confidence": 0.0,
 }
-def build_lamoda_product_prompt(product_context: dict[str, Any]) -> str:
+def build_product_prompt(product_context: dict[str, Any]) -> str:
     compact_context = {
         "product_id": product_context.get("product_id") or product_context.get("Артикул"),
         "source": product_context.get("source"),
@@ -58,7 +58,7 @@ Do not add explanations outside JSON.
 Product context:
 {json.dumps(compact_context, ensure_ascii=False, indent=2)}
 Return JSON with exactly this structure:
-{json.dumps(LAMODA_PRODUCT_ANALYSIS_SCHEMA, ensure_ascii=False, indent=2)}
+{json.dumps(PRODUCT_ANALYSIS_SCHEMA, ensure_ascii=False, indent=2)}
 CORE RULE:
 The structured product context defines the TARGET PRODUCT.
 Images define visual details, styling, colors, silhouette, outfit context and trend signals.
