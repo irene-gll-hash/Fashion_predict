@@ -62,3 +62,6 @@ fashion-trend-ai/data/raw/mock_apify_posts.json
 
 # Optional local test folder
 fashion-trend-ai/tests/
+
+/product-trend-ai/data/*
+!/product-trend-ai/data/.gitkeep
