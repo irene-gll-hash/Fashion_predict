@@ -1,0 +1,9 @@
+.gcloudignore
+.git
+.gitignore
+.idea/
+.venv/
+.env
+product-trend-ai/
+**/__pycache__/
+**/*.pyc

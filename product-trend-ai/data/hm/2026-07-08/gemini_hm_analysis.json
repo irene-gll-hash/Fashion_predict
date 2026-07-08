@@ -9554,5 +9554,1704 @@
       ],
       "error": null
     }
+  },
+  {
+    "product_id": "hm_1241218002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "knit_trousers",
+        "commercial_name_ru": "Брюки тонкой вязки",
+        "commercial_name_en": "Fine-Knit Pants",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "knit_trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": []
+      },
+      "visual_features": {
+        "colors": [
+          "grey"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "fine_knit"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "minimal",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "comfort_wear",
+        "loungewear_trend",
+        "knitwear_trend"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "knit trousers"
+      ],
+      "styling_context": "product_shot_on_white_background",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти серые брюки тонкой вязки с широкими штанинами отражают тренд на комфортную и минималистичную одежду для дома и отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "rise_not_clearly_visible",
+        "material_composition_not_specified"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1241218002/image_001.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1322915001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": null,
+        "specific_type": "cardigan",
+        "commercial_name_ru": "кардиган",
+        "commercial_name_en": "cardigan",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "cardigan",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": null,
+        "length": "cropped",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "ribbed",
+          "ruffles"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "linen_blend",
+          "knit"
+        ],
+        "texture": "ribbed_knit"
+      },
+      "style_tags": [
+        "basic",
+        "minimal",
+        "casual",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "matching_set",
+        "loungewear_set",
+        "cropped_cardigan",
+        "v_neck_cardigan"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "visible_outfit_items": [
+        "cardigan",
+        "knit_trousers"
+      ],
+      "styling_context": "The cardigan is styled as part of a matching ribbed knit loungewear set, creating a cohesive and comfortable look.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "minimal",
+        "casual",
+        "coordinated_set"
+      ],
+      "short_trend_summary": "Укороченный кардиган из ребристого трикотажа, часть модного комплекта для дома и отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The exact material composition is not fully known beyond 'Linen-Blend'.",
+        "The specific type of bottom (trousers vs. leggings) is not explicitly stated but appears to be a knit trouser."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1322915001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1322915001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1322915001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1322915001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1322915001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1322915001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1291942016",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект с кружевной отделкой",
+        "commercial_name_en": "Lace-Trimmed Pajama Set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "spaghetti_straps",
+          "elastic_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "satin",
+          "lace"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "romantic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "lingerie_inspired",
+        "satin_fabric",
+        "lace_details"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "model wearing loungewear indoors",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "romantic"
+      ],
+      "short_trend_summary": "Этот пижамный комплект с атласной тканью и кружевной отделкой отражает тренд на комфортную и романтичную домашнюю одежду.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "specific_type_for_set_not_explicitly_listed_in_taxonomy_examples"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1291942016/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1291942016/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1291942016/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1291942016/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1291942016/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1291942016/image_006.jpg",
+        "data/hm/2026-07-08/images/hm_1291942016/image_007.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1293101011",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "вязаные брюки",
+        "commercial_name_en": "fine-knit pants",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "bodysuit",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "knitwear",
+          "specific_type": "jumper",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "wide",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "ribbed_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "burgundy"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "knitwear_trend",
+        "loungewear_set",
+        "cozy_chic"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "wide leg knit pants",
+        "lace bodysuit",
+        "knit jumper"
+      ],
+      "styling_context": "Styled as a loungewear set with a matching knit top draped over the shoulders and a lace bodysuit.",
+      "outfit_aesthetic_tags": [
+        "loungewear_chic",
+        "cozy_glam",
+        "intimate_wear_as_outerwear"
+      ],
+      "short_trend_summary": "Эти широкие вязаные брюки бордового цвета идеально подходят для создания уютного и стильного образа в стиле loungewear.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "Exact composition of knit material is unknown."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1293101011/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1293101011/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1293101011/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1293101011/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1293101011/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1293101011/image_006.jpg",
+        "data/hm/2026-07-08/images/hm_1293101011/image_007.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1322872006",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "dress",
+        "subcategory": null,
+        "specific_type": "bodycon_dress",
+        "commercial_name_ru": "платье-футболка макси",
+        "commercial_name_en": "maxi t-shirt dress",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "dress",
+          "specific_type": "bodycon_dress",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "sweatshirts",
+          "specific_type": "sweatshirt",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sneakers",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "tight",
+        "silhouette": "bodycon",
+        "length": "maxi",
+        "sleeve_type": "short_sleeve",
+        "neckline": "round_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "slits"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "minimal",
+        "casual",
+        "sporty"
+      ],
+      "trend_tags": [
+        "minimal_basic",
+        "bodycon_silhouette",
+        "maxi_length",
+        "loungewear_chic"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "dress",
+        "sweatshirt",
+        "sneakers",
+        "bracelet"
+      ],
+      "styling_context": "The dress is styled casually with a matching sweatshirt tied around the waist and black sneakers, creating a relaxed and sporty everyday look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "sporty",
+        "minimal",
+        "everyday"
+      ],
+      "short_trend_summary": "Длинное платье-футболка в обтяжку — это универсальная база для повседневных и спортивных образов.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The exact material composition is not provided, 'jersey' is a visual guess based on the knit texture and drape."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1322872006/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1322872006/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1322872006/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1322872006/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1322872006/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1322872006/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1226698004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "shorts",
+        "specific_type": "knit_shorts",
+        "commercial_name_ru": "вязаные шорты",
+        "commercial_name_en": "knit shorts",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "knit_shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "mini",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "ribbed_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "fine_knit"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "knitwear_trend"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "knit shorts"
+      ],
+      "styling_context": "product_shot_on_white_background",
+      "outfit_aesthetic_tags": [
+        "casual_comfort"
+      ],
+      "short_trend_summary": "Удобные вязаные шорты для домашнего отдыха или повседневного образа.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "rise_without_model"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1226698004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1226698004/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1261121001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "trousers",
+        "commercial_name_ru": "Брюки из синели",
+        "commercial_name_en": "Chenille Pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "chenille"
+        ],
+        "texture": "fuzzy"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "wide_leg",
+        "cozy_fabric"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [],
+      "styling_context": "Product shot on a plain background.",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти брюки из синели с широкими штанинами представляют собой модный элемент для комфортного домашнего стиля.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1261121001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1261121001/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1308141001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "trousers",
+        "commercial_name_ru": "Вязаные брюки",
+        "commercial_name_en": "Cable-Knit Pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "knitwear",
+          "specific_type": "sweater",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "cream"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "cable_knit"
+      },
+      "style_tags": [
+        "loungewear",
+        "casual",
+        "minimal",
+        "quiet_luxury"
+      ],
+      "trend_tags": [
+        "cozy_chic",
+        "relaxed_fit",
+        "neutral_palette",
+        "knitwear_set"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "cable-knit pants",
+        "cable-knit sweater"
+      ],
+      "styling_context": "The model is wearing the cable-knit pants with a matching cable-knit sweater, creating a coordinated loungewear set. The styling emphasizes comfort and a relaxed aesthetic, suitable for home or casual outings.",
+      "outfit_aesthetic_tags": [
+        "loungewear_chic",
+        "cozy_minimalism",
+        "monochromatic_look"
+      ],
+      "short_trend_summary": "Эти вязаные брюки с узором «косы» представляют собой уютный и стильный элемент домашнего или повседневного гардероба, идеально сочетающийся с трендом на комфортную одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The exact rise (mid_waist vs. high_waist) is an estimation.",
+        "The leg shape could be interpreted as slightly wide, but 'straight' is a safe description for the relaxed fit."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1308141001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1308141001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1308141001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1308141001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1308141001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1308141001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1345730002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": null,
+        "specific_type": "cardigan",
+        "commercial_name_ru": "кардиган",
+        "commercial_name_en": "cardigan",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "cardigan",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "styling_item",
+          "confidence": 0.85
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "wrap",
+        "length": "hip_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "tie_waist",
+          "ribbed_cuffs"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "fine_knit"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "wrap_design",
+        "fine_knit"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "cardigan",
+        "trousers",
+        "tank_top"
+      ],
+      "styling_context": "The cardigan is styled as part of a monochromatic loungewear set, worn both wrapped and tied at the waist, and open over a matching tank top with wide-leg trousers.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "minimal",
+        "cozy",
+        "monochromatic"
+      ],
+      "short_trend_summary": "Уютный кардиган тонкой вязки с запахом, идеальный для создания расслабленных образов в стиле домашней одежды.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The exact material composition is not provided, so 'knit' is a visual guess based on 'fine-knit' description."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1345730002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1345730002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1345730002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1345730002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1345730002/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1334046005",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "shorts",
+        "commercial_name_ru": "Атласные шорты с кружевом",
+        "commercial_name_en": "Lace-Trimmed Satin Shorts",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": null,
+          "specific_type": "bra",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "lace",
+          "drawstring",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "navy"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "satin",
+          "lace"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "romantic",
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "lace_details",
+        "satin_trend",
+        "loungewear_chic"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "shorts",
+        "bra"
+      ],
+      "styling_context": "The shorts are styled as comfortable nightwear or loungewear, paired with a matching lace bra.",
+      "outfit_aesthetic_tags": [
+        "romantic_loungewear",
+        "comfortable_chic"
+      ],
+      "short_trend_summary": "Эти атласные шорты с кружевом идеально подходят для создания романтичного и комфортного домашнего образа.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1334046005/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1334046005/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1334046005/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1334046005/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1334046005/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1334046005/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1322880004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": "cardigan",
+        "specific_type": "cardigan",
+        "commercial_name_ru": "кардиган",
+        "commercial_name_en": "cardigan",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "cardigan",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": "wrap",
+        "length": "cropped",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "ribbed",
+          "tie_closure"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "minimal",
+        "casual",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "wrap_style",
+        "loungewear_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "black ribbed wrap cardigan",
+        "white t-shirt",
+        "black ribbed trousers"
+      ],
+      "styling_context": "The cardigan is styled as part of a comfortable loungewear set, worn over a basic white t-shirt with matching ribbed trousers.",
+      "outfit_aesthetic_tags": [
+        "minimal",
+        "casual",
+        "loungewear",
+        "cozy"
+      ],
+      "short_trend_summary": "Этот черный кардиган в рубчик с запахом является универсальным элементом для создания комфортных и минималистичных образов в стиле кэжуал и домашней одежды.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The exact material composition is not specified, only inferred from 'Rib-Knit'.",
+        "The specific type of black trousers (e.g., wide_leg_trousers, straight_trousers) is not precisely identifiable from the images, so 'trousers' is used as a general term."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1322880004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1322880004/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1322880004/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1322880004/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1322880004/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1322880004/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1349117001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижама из ребристого трикотажа",
+        "commercial_name_en": "Ribbed Jersey Pajamas",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "ribbed",
+          "lace",
+          "spaghetti_straps",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black",
+          "cream"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey",
+          "lace"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "casual",
+        "romantic",
+        "basic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "lace_details",
+        "pajama_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "tank top",
+        "shorts"
+      ],
+      "styling_context": "Studio shot, worn by a model as sleepwear/loungewear.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "feminine",
+        "relaxed"
+      ],
+      "short_trend_summary": "Эта пижама из ребристого трикотажа с кружевными деталями сочетает комфорт и женственность, отражая тренд на уютную домашнюю одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "main_product.category is null as 'nightwear' is not in the allowed taxonomy list.",
+        "specific_type 'pajama_set' is not explicitly in the allowed taxonomy, but accurately describes the product."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1349117001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1349117001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1349117001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1349117001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1349117001/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1345730001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": "cardigan",
+        "specific_type": "cardigan",
+        "commercial_name_ru": "кардиган с запахом",
+        "commercial_name_en": "wrap cardigan",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "cardigan",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "knit_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "cropped",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "wrap_front",
+          "tie_waist",
+          "ribbed_cuffs"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit",
+          "viscose_blend"
+        ],
+        "texture": "fine_knit"
+      },
+      "style_tags": [
+        "basic",
+        "minimal",
+        "casual",
+        "loungewear",
+        "romantic"
+      ],
+      "trend_tags": [
+        "wrap_style",
+        "monochrome_dressing",
+        "cozy_chic"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "cardigan",
+        "knit trousers",
+        "lace top"
+      ],
+      "styling_context": "The cardigan is styled as part of a monochrome loungewear set, worn over a white lace-trimmed top and paired with matching fine-knit trousers.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "cozy",
+        "minimal",
+        "monochrome"
+      ],
+      "short_trend_summary": "Этот тонкий вязаный кардиган с запахом в бежевом цвете идеально подходит для создания уютного и стильного образа в стиле кэжуал или домашней одежды.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material_guess (composition not provided)",
+        "exact fit (can be adjusted by tie)"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1345730001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1345730001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1345730001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1345730001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1345730001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1345730001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1318788001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": null,
+        "specific_type": "jumper",
+        "commercial_name_ru": "Джемпер с подвернутыми краями",
+        "commercial_name_en": "jumper",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "jumper",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "bralette",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "hip_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "crew_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "rolled_edge",
+          "ribbed_cuffs"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "fine_knit"
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "loungewear_set",
+        "relaxed_fit",
+        "minimal_design"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "jumper",
+        "shorts",
+        "bralette"
+      ],
+      "styling_context": "The jumper is styled as part of a matching loungewear set with shorts, suggesting a comfortable and casual home attire. It is also shown draped over the shoulders, indicating a relaxed layering option.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "casual",
+        "minimal"
+      ],
+      "short_trend_summary": "Уютный джемпер свободного кроя с подвернутыми краями, идеально подходящий для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1318788001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1318788001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1318788001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1318788001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1318788001/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1344854001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "shirt",
+        "commercial_name_ru": "пижамная рубашка",
+        "commercial_name_en": "pajama shirt",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "hip_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "embroidery"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton_sateen"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "minimal",
+        "classic",
+        "quiet_luxury"
+      ],
+      "trend_tags": [
+        "minimal_chic",
+        "quiet_luxury"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama trousers"
+      ],
+      "styling_context": "product shot on a white background, no model",
+      "outfit_aesthetic_tags": [
+        "minimalist",
+        "classic",
+        "comfortable"
+      ],
+      "short_trend_summary": "Классическая пижамная рубашка из сатина, отражающая тренд на комфорт и минимализм.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set, but due to taxonomy constraints, the shirt component is identified as the main product, and the trousers as a styling item."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1344854001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1344854001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1344854001/image_003.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1322880001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": null,
+        "specific_type": "cardigan",
+        "commercial_name_ru": "кардиган",
+        "commercial_name_en": "cardigan",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "cardigan",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "wrap",
+        "length": "cropped",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "ribbed_cuffs"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "loungewear",
+        "casual",
+        "minimal",
+        "basic"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "wrap_style",
+        "loungewear_set",
+        "cozy_core",
+        "monochromatic_styling"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "rib-knit wrap cardigan",
+        "ribbed tank top",
+        "ribbed trousers"
+      ],
+      "styling_context": "The cardigan is styled as part of a monochromatic loungewear set, layered over a matching tank top and paired with matching ribbed trousers, emphasizing comfort and a relaxed aesthetic.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "cozy",
+        "minimalist",
+        "monochromatic"
+      ],
+      "short_trend_summary": "Этот рифленый кардиган на завязках в стиле кэжуал идеально подходит для создания уютных и минималистичных образов в стиле домашней одежды.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Exact material composition is unknown.",
+        "The length could also be described as hip_length."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1322880001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1322880001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1322880001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1322880001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1322880001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1322880001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1340862002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "buttons",
+          "pockets",
+          "elasticated_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "red"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "pajama_set",
+        "loungewear_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama shorts"
+      ],
+      "styling_context": "The product is presented as a comfortable loungewear or sleepwear set, shown both flat and on a model in a relaxed pose.",
+      "outfit_aesthetic_tags": [
+        "comfortable",
+        "loungewear"
+      ],
+      "short_trend_summary": "Удобный хлопковый пижамный комплект из рубашки и шорт в насыщенном красном оттенке.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific_type 'pajama_set' is not explicitly listed in the allowed taxonomy, but it best describes the product as a whole.",
+        "The product context color 'Dark pink' appears visually as a deep red or burgundy, so 'red' was chosen as the closest allowed color.",
+        "The 'length' attribute is difficult to apply to a two-piece set with different lengths for top and bottom, so it was left null."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1340862002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1340862002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1340862002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1340862002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1340862002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1340862002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1173636018",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "shirt",
+        "commercial_name_ru": "пижамная рубашка",
+        "commercial_name_en": "pajama shirt",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "hip_length",
+        "sleeve_type": "short_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets",
+          "piping"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "cream",
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "viscose"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "pajama_dressing",
+        "minimal_basic"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "studio_shot_on_model",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "comfortable",
+        "minimal"
+      ],
+      "short_trend_summary": "Классическая пижама из вискозы с контрастным кантом, идеальная для домашнего отдыха и тренда на пижамный стиль.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product is a pajama set, but the taxonomy requires a single main product category. The top was chosen as the main product, with shorts listed as another main product component in visible_items.",
+        "The exact rise of the shorts is an estimation."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 2,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1173636018/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1173636018/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1173636018/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1173636018/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1173636018/image_005.jpg"
+      ],
+      "error": null
+    }
   }
 ]
