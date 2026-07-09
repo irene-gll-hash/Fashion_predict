@@ -37,9 +37,9 @@ def build_command(step: str, args: argparse.Namespace, run_date: str) -> list[st
     if step == "apify":
         if args.apify_limit is not None:
             command.extend(["--limit", str(args.apify_limit)])
+        command.extend(["--frame-every-seconds", str(args.frame_every_seconds)])
+        command.extend(["--max-frames-per-video", str(args.max_frames_per_video)])
         return command
-
-    command.extend(["--run-date", run_date])
 
     if step == "detection":
         if args.detection_limit is not None:
@@ -96,8 +96,6 @@ def main() -> None:
 
     for step in steps:
         command = build_command(step=step, args=args, run_date=run_date)
-        command.extend(["--frame-every-seconds", str(args.frame_every_seconds)])
-        command.extend(["--max-frames-per-video", str(args.max_frames_per_video)])
         run_command(command=command, dry_run=args.dry_run)
 
     print()

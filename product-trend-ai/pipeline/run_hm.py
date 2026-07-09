@@ -1,13 +1,20 @@
 from __future__ import annotations
+
 import argparse
 from pathlib import Path
 from typing import Any
+
 from config import DATA_DIR
 from ai.product_gemini_analyzer import ProductGeminiAnalyzer
 from sources.common.image_downloader import download_images
 from sources.common.io import load_json, save_json
 from sources.hm.loader import find_hm_input_file, load_hm_products
-from sources.hm.normalizer import build_enriched_hm_product, get_hm_image_urls, normalize_hm_records
+from sources.hm.normalizer import (
+    build_enriched_hm_product,
+    get_hm_image_urls,
+    normalize_hm_records,
+)
+
 
 def _load_existing_gemini_results(path: Path) -> dict[str, dict[str, Any]]:
     if not path.exists():
@@ -25,14 +32,42 @@ def _load_existing_gemini_results(path: Path) -> dict[str, dict[str, Any]]:
 
     return result
 
-def _save_gemini_results(path: Path, results_by_id: dict[str, dict[str, Any]]) -> None:
+
+def _save_gemini_results(
+    path: Path,
+    results_by_id: dict[str, dict[str, Any]],
+) -> None:
     save_json(path, list(results_by_id.values()))
+
+
+def _build_output_paths(
+    run_dir: Path,
+    input_path: Path,
+    custom_input: bool,
+) -> tuple[Path, Path, Path, Path]:
+    if not custom_input:
+        return (
+            run_dir / "normalized_hm.json",
+            run_dir / "gemini_hm_analysis.json",
+            run_dir / "enriched_hm.json",
+            run_dir / "images",
+        )
+
+    input_stem = input_path.stem
+
+    return (
+        run_dir / f"normalized_{input_stem}.json",
+        run_dir / f"gemini_{input_stem}_analysis.json",
+        run_dir / f"enriched_{input_stem}.json",
+        run_dir / "images" / input_stem,
+    )
+
 
 def run_hm(
     date: str,
     input_file: Path | None,
     limit: int | None,
-    max_images_per_product: int,
+    max_images_per_product: int | None,
     skip_gemini: bool,
     sleep_seconds: float,
     max_retries: int,
@@ -42,10 +77,16 @@ def run_hm(
 
     input_path = input_file or find_hm_input_file(DATA_DIR, date)
 
-    normalized_file = run_dir / "normalized_hm.json"
-    gemini_file = run_dir / "gemini_hm_analysis.json"
-    enriched_file = run_dir / "enriched_hm.json"
-    images_dir = run_dir / "images"
+    (
+        normalized_file,
+        gemini_file,
+        enriched_file,
+        images_dir,
+    ) = _build_output_paths(
+        run_dir=run_dir,
+        input_path=input_path,
+        custom_input=input_file is not None,
+    )
 
     raw_products = load_hm_products(input_path)
 
@@ -57,9 +98,13 @@ def run_hm(
 
     gemini_results = _load_existing_gemini_results(gemini_file)
 
-    analyzer = None if skip_gemini else ProductGeminiAnalyzer(
-        sleep_seconds=sleep_seconds,
-        max_retries=max_retries,
+    analyzer = (
+        None
+        if skip_gemini
+        else ProductGeminiAnalyzer(
+            sleep_seconds=sleep_seconds,
+            max_retries=max_retries,
+        )
     )
 
     for index, product in enumerate(normalized_products, start=1):
@@ -67,8 +112,17 @@ def run_hm(
 
         print(f"[{index}/{len(normalized_products)}] {product_id}")
 
+        if (
+            not skip_gemini
+            and product_id in gemini_results
+            and gemini_results[product_id].get("status") == "ok"
+        ):
+            print(f"  Gemini already done: {product_id}")
+            continue
+
         image_urls = get_hm_image_urls(product)
         product_images_dir = images_dir / product_id
+
         image_paths = download_images(
             image_urls,
             product_images_dir,
@@ -78,15 +132,12 @@ def run_hm(
         if skip_gemini:
             continue
 
-        if product_id in gemini_results and gemini_results[product_id].get("status") == "ok":
-            print(f"  Gemini already done: {product_id}")
-            continue
-
         if analyzer is None:
             continue
 
         gemini_result = analyzer.analyze_product(product, image_paths)
         gemini_result["source"] = "hm"
+
         gemini_results[product_id] = gemini_result
         _save_gemini_results(gemini_file, gemini_results)
 
@@ -95,16 +146,22 @@ def run_hm(
     for product in normalized_products:
         product_id = product["product_id"]
         gemini_result = gemini_results.get(product_id)
-        enriched_products.append(build_enriched_hm_product(product, gemini_result))
+
+        enriched_products.append(
+            build_enriched_hm_product(product, gemini_result)
+        )
 
     save_json(enriched_file, enriched_products)
 
+    print(f"Input: {input_path}")
     print(f"Saved normalized: {normalized_file}")
     print(f"Saved Gemini: {gemini_file}")
     print(f"Saved enriched: {enriched_file}")
 
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
+
     parser.add_argument("--date", required=True)
     parser.add_argument("--input-file", type=Path, default=None)
     parser.add_argument("--limit", type=int, default=None)
@@ -112,7 +169,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--skip-gemini", action="store_true")
     parser.add_argument("--sleep-seconds", type=float, default=1.0)
     parser.add_argument("--max-retries", type=int, default=3)
+
     return parser.parse_args()
+
 
 def main() -> None:
     args = parse_args()
@@ -126,6 +185,7 @@ def main() -> None:
         sleep_seconds=args.sleep_seconds,
         max_retries=args.max_retries,
     )
+
 
 if __name__ == "__main__":
     main()
