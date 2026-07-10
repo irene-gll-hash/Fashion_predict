@@ -31405,5 +31405,6103 @@
       ],
       "error": null
     }
+  },
+  {
+    "product_id": "hm_1344441001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "tank_top",
+        "commercial_name_ru": "Пижамный топ с кружевом",
+        "commercial_name_en": "Lace-Trimmed Pajama Top",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": "straight",
+        "length": "hip_length",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "spaghetti_straps"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "satin",
+          "polyester"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "romantic",
+        "basic",
+        "evening"
+      ],
+      "trend_tags": [
+        "lingerie_as_outerwear",
+        "satin_fabric",
+        "lace_details"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama trousers"
+      ],
+      "styling_context": "Styled as a pajama set for loungewear/nightwear.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "sleepwear",
+        "romantic"
+      ],
+      "short_trend_summary": "Этот пижамный топ с кружевом и атласной текстурой отражает тренд на бельевой стиль и романтичные детали.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "Exact material composition (satin can be silk, polyester, etc.)",
+        "Specific type of pajama bottom worn by the model (trousers vs. shorts, but appears to be trousers)"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1344441001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1344441001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1344441001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1344441001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1344441001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1344441001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1322222004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "shorts",
+        "commercial_name_ru": "пижамные шорты",
+        "commercial_name_en": "pajama shorts",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "lace",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "romantic",
+        "casual"
+      ],
+      "trend_tags": [
+        "lace_trim",
+        "loungewear_style"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shorts",
+        "tank top",
+        "shirt"
+      ],
+      "styling_context": "The pajama shorts are styled as comfortable loungewear, paired with a white ribbed tank top and an open white shirt.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "loungewear",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти пижамные шорты с кружевом представляют собой комфортный и романтичный элемент домашнего гардероба.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material_guess",
+        "drawstring_functionality"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1322222004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1322222004/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1322222004/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1322222004/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1322222004/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1337330002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "ribbed",
+          "lace",
+          "spaghetti_straps",
+          "elasticated_waist",
+          "ruffled_hem"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton_blend"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "ribbed_knit",
+        "lace_trim"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "camisole top",
+        "shorts"
+      ],
+      "styling_context": "The model is wearing the pajama set indoors, in a relaxed pose, suggesting comfort and home wear.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "minimalist",
+        "romantic"
+      ],
+      "short_trend_summary": "Этот пижамный комплект из ребристого трикотажа с кружевной отделкой отражает тренд на комфортную домашнюю одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The main product is a pajama set, which is not a direct category in the provided taxonomy. It is broken down into a top and bottom for visible_items.",
+        "Material guess is based on 'jersey' from the title and visual inspection, assuming a common blend."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1337330002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1337330002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1337330002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1337330002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1337330002/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1337330003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "ribbed",
+          "lace",
+          "spaghetti_straps",
+          "elasticated_waist",
+          "ruffled_hem"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey",
+          "ribbed_knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "lace_trim",
+        "ribbed_texture",
+        "co_ord_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "The pajama set is styled as comfortable nightwear/loungewear, suitable for home.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "romantic",
+        "loungewear_chic"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект из ребристого трикотажа с кружевной отделкой, актуальный для домашнего образа.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The main product category 'pajama set' is not directly available in the allowed taxonomy, so 'null' is used for category and subcategory in the main_product object.",
+        "The 'length' attribute is difficult to apply to a two-piece set, so it is set to null, with individual lengths implied by the details and specific_types of the visible components."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1337330003/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1337330003/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1337330003/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1337330003/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1337330003/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1337330003/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1287821001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "trousers",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama pants",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "elasticated_waist",
+          "plumeti_dots"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "polka_dot",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "relaxed_fit",
+        "plumeti_fabric",
+        "nightwear_as_loungewear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama pants"
+      ],
+      "styling_context": "product flat lay",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти пижамные брюки с узором plumeti и свободным кроем идеально подходят для комфортного домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "exact material composition",
+        "presence of pockets (not visible)"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1287821001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1287821001/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1173636022",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": "shirt",
+        "specific_type": null,
+        "commercial_name_ru": "пижамная рубашка",
+        "commercial_name_en": "pajama shirt",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "hip_length",
+        "sleeve_type": "short_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "viscose_blend"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "pajama_set"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "loungewear",
+      "outfit_aesthetic_tags": [
+        "comfortable",
+        "relaxed"
+      ],
+      "short_trend_summary": "Этот пижамный комплект из вискозы в нежно-голубом цвете с белым кантом идеально подходит для домашнего отдыха.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product is a pajama set, which is not a single category in the allowed taxonomy. It is represented by categorizing the top as the main product and listing both top and shorts as main product components in visible_items. 'Piping' is a visual detail not explicitly listed in allowed attributes but is a prominent feature."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1173636022/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1173636022/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1173636022/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1173636022/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1173636022/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1173636022/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1316038002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "pajama_pants",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "pajama_pants",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "wide",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink",
+          "white",
+          "red"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "maternity"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "heart_print",
+        "striped_pattern",
+        "loungewear",
+        "pajama_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama pants",
+        "pajama shirt"
+      ],
+      "styling_context": "Styled as a matching pajama set for comfortable home wear.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "cozy",
+        "casual"
+      ],
+      "short_trend_summary": "Широкие пижамные брюки в полоску с принтом в виде сердец, идеально подходят для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1316038002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1316038002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1316038002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1316038002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1316038002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1316038002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1224147033",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": null,
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "brown"
+        ],
+        "pattern": "polka_dot",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "polka_dot",
+        "relaxed_fit",
+        "pajama_style"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama shorts"
+      ],
+      "styling_context": "loungewear/casual home wear",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "casual",
+        "relaxed"
+      ],
+      "short_trend_summary": "Удобный пижамный комплект в горошек для домашнего отдыха или летних прогулок.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a set of two items (shirt and shorts), which is not fully represented by a single `specific_type` in `main_product`.",
+        "Length attribute is ambiguous as it applies to two different garments within the set."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1224147033/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1224147033/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1224147033/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1224147033/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1224147033/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1224147033/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1330049001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "tank_top",
+        "commercial_name_ru": "пижамная майка",
+        "commercial_name_en": "pajama tank top",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "styling_item",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": null,
+        "length": "hip_length",
+        "sleeve_type": "sleeveless",
+        "neckline": "round_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "ribbed",
+          "bow_detail"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white",
+          "blue"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "ribbed_knit"
+      },
+      "style_tags": [
+        "romantic",
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "lace_trim",
+        "ribbed_knit",
+        "micro_floral",
+        "loungewear"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama tank top",
+        "pajama shorts"
+      ],
+      "styling_context": "The pajama set is styled on a model in a minimalist indoor setting, suggesting comfort and home wear.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "feminine",
+        "sleepwear_chic"
+      ],
+      "short_trend_summary": "Уютная пижамная майка с кружевом и цветочным принтом, выполненная в рубчик, идеально подходит для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is sold as a pajama set, but for taxonomy purposes, the tank top is identified as the main product and the shorts as a styling item.",
+        "The exact material composition is not provided, 'cotton' is a guess based on visual cues and common pajama materials."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1330049001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1330049001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1330049001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1330049001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1330049001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1330049001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1275479005",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "tank_top",
+        "commercial_name_ru": "Пижамный топ в рубчик",
+        "commercial_name_en": "Ribbed Pajama Tank Top",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "sleeveless",
+        "neckline": "square_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "bow",
+          "ruffled_hem"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "multicolor"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "ribbed_knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "casual",
+        "romantic",
+        "basic"
+      ],
+      "trend_tags": [
+        "cottagecore_aesthetic",
+        "romantic_details"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "ribbed tank top",
+        "ribbed shorts"
+      ],
+      "styling_context": "Product displayed flat lay on a white background.",
+      "outfit_aesthetic_tags": [
+        "romantic",
+        "cottagecore",
+        "cozy"
+      ],
+      "short_trend_summary": "Этот комплект пижамы в рубчик с цветочным принтом и кружевом отражает тренд на уютную и романтичную домашнюю одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set, which is represented by listing both the top and bottom as 'main_product' role in 'visible_items' due to taxonomy limitations.",
+        "Exact material composition is not specified, 'cotton' is a common guess for pajamas but not confirmed."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1275479005/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1275479005/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1224147019",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pyjamas",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama Set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "black"
+        ],
+        "pattern": "polka_dot",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "romantic"
+      ],
+      "trend_tags": [
+        "matching_set",
+        "heart_print"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama shorts"
+      ],
+      "styling_context": "flat_lay_product_shot",
+      "outfit_aesthetic_tags": [
+        "cozy"
+      ],
+      "short_trend_summary": "Этот пижамный комплект с принтом в виде сердечек идеально подходит для уютного домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific_type 'pyjamas' for main_product is derived from the category path as 'pajama_set' is not in the allowed taxonomy.",
+        "The 'length' attribute is not specified as the product is a set with different lengths for the top (long sleeve) and bottom (shorts).",
+        "The pattern 'polka_dot' is an approximation for the small heart print.",
+        "Material guess is based on visual cues and common pajama fabrics."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1224147019/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1224147019/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1344459001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "tank_top",
+        "commercial_name_ru": "Пижама с кружевом",
+        "commercial_name_en": "Lace-Detail Pajamas",
+        "confidence": 0.85
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "drawstring",
+          "ruffles",
+          "elastic_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "romantic",
+        "basic",
+        "casual"
+      ],
+      "trend_tags": [
+        "lace_detail",
+        "tie_straps",
+        "loungewear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "camisole",
+        "shorts"
+      ],
+      "styling_context": "worn_as_nightwear",
+      "outfit_aesthetic_tags": [
+        "cozy_chic",
+        "feminine"
+      ],
+      "short_trend_summary": "Легкая пижама с кружевными деталями и завязками на бретелях, идеальная для летнего сезона.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set (top and shorts), but the `main_product` block is structured to describe a single item. Therefore, the `main_product` category and specific_type refer to the top component, while both components are listed in `visible_items` with role 'main_product'. The `attributes` block includes details applicable to both the top and shorts of the set."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 2,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1344459001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1344459001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1344459001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1344459001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1344459001/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1234581022",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "trousers",
+        "commercial_name_ru": "Пижамные брюки",
+        "commercial_name_en": "Pajama Pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "striped_pattern",
+        "relaxed_fit",
+        "loungewear_trend"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama pants",
+        "long-sleeve top"
+      ],
+      "styling_context": "The pajama pants are styled with a simple white long-sleeve top, emphasizing a comfortable and relaxed loungewear look.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "loungewear",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти пижамные брюки в полоску идеально подходят для создания расслабленного домашнего образа.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1234581022/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1234581022/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1234581022/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1234581022/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1234581022/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1234581022/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1284979002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": null,
+        "commercial_name_ru": "Пижама из муслина",
+        "commercial_name_en": "Cotton Muslin Pajamas",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "mini",
+        "sleeve_type": "sleeveless",
+        "neckline": "round_neck",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "ruffles",
+          "tie_straps",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "pink"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "cotton",
+          "muslin"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "muslin_fabric",
+        "tie_straps",
+        "fruit_print"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "tank top",
+        "shorts"
+      ],
+      "styling_context": "Product shot on a white background, showcasing the pajama set.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "sleepwear",
+        "minimal_romantic"
+      ],
+      "short_trend_summary": "Легкая пижама из муслина с нежным персиковым принтом — идеальный выбор для летнего домашнего комфорта.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1284979002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1284979002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1294489004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pyjamas",
+        "commercial_name_ru": "Пижама из вискозной смеси",
+        "commercial_name_en": "Viscose-Blend Pajamas",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets",
+          "elastic_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "blue"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "viscose_blend"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "romantic",
+        "basic"
+      ],
+      "trend_tags": [
+        "floral_print",
+        "pajama_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "loungewear/nightwear, worn by a model in a relaxed pose",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "feminine"
+      ],
+      "short_trend_summary": "Этот пижамный комплект из вискозы с цветочным принтом идеально подходит для комфортного и стильного домашнего отдыха.",
+      "confidence": 1.0,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1294489004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1294489004/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1294489004/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1294489004/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1294489004/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1294489004/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1330787002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama Set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "lace",
+          "ribbed",
+          "spaghetti_straps",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear_set",
+        "ribbed_knit",
+        "lace_trim"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "lace-trimmed ribbed tank top",
+        "ribbed trousers"
+      ],
+      "styling_context": "The pajama set is presented on a model in a studio setting, highlighting its comfortable and relaxed fit suitable for loungewear.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "comfortable",
+        "minimalist"
+      ],
+      "short_trend_summary": "Удобный пижамный комплект в рубчик с кружевной отделкой, отражающий тренд на домашнюю одежду и комфорт.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "main_product category is null as 'pajama_set' is not directly available in the allowed taxonomy.",
+        "Material composition is a visual guess based on texture."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1330787002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1330787002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1330787002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1330787002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1330787002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1330787002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1255910009",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "maternity",
+        "subcategory": "nightwearloungewear",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama_set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "brown"
+        ],
+        "pattern": "polka_dot",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "gauze"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "polka_dot_pattern",
+        "loungewear_set",
+        "maternity_wear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "studio_shot_on_model",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "comfortable"
+      ],
+      "short_trend_summary": "Этот пижамный комплект из муслина с принтом в горошек является удобным и стильным вариантом для будущих мам, отражая тренд на комфортную домашнюю одежду.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1255910009/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1255910009/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1255910009/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1255910009/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1255910009/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1224147032",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": "pyjamas",
+        "specific_type": null,
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "corset_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink",
+          "grey"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "minimal"
+      ],
+      "trend_tags": [
+        "co_ord_set",
+        "crinkled_fabric",
+        "pajama_dressing"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pink pajama shirt",
+        "pink pajama shorts",
+        "grey ribbed top"
+      ],
+      "styling_context": "The model wears the pink crinkled pajama shirt open over a grey ribbed top, paired with matching pink crinkled pajama shorts, creating a relaxed loungewear look.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "casual_chic",
+        "comfortable"
+      ],
+      "short_trend_summary": "Легкий пижамный комплект из жатой ткани в нежном розовом цвете, идеальный для домашнего комфорта и расслабленного стиля.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "exact specific_type for the main product set (as 'pajama_set' is not in taxonomy)",
+        "exact type of inner top (corset_top vs tank_top)",
+        "material composition is a guess based on visual texture"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1224147032/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1224147032/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1224147032/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1224147032/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1224147032/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1224147032/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1294331002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижама с завязками на бретельках",
+        "commercial_name_en": "Pajamas with Tie Shoulder Straps",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "mini",
+        "sleeve_type": "sleeveless",
+        "neckline": "square_neck",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "tie_shoulder_straps",
+          "lace",
+          "ribbed"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "cream"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "ribbed_knit",
+          "cotton_blend"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "romantic",
+        "casual"
+      ],
+      "trend_tags": [
+        "tie_shoulder",
+        "lace_trim",
+        "ribbed_texture"
+      ],
+      "seasonality": [
+        "all_season",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "Product presented on a white background, flat lay.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "feminine",
+        "cozy"
+      ],
+      "short_trend_summary": "Эта пижама с завязками на бретельках и кружевной отделкой сочетает в себе комфорт и нежный романтический стиль.",
+      "confidence": 1.0,
+      "uncertainty": [
+        "material_composition_guess"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1294331002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1294331002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1154451022",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "shorts",
+        "specific_type": "shorts",
+        "commercial_name_ru": "пижамные шорты",
+        "commercial_name_en": "pajama shorts",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white",
+          "red"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "textured"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "loungewear"
+      ],
+      "seasonality": [
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "white ribbed tank top",
+        "white pajama shorts"
+      ],
+      "styling_context": "The model is wearing the white pajama shorts with a white ribbed tank top, suggesting a casual loungewear or sleepwear look.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "casual"
+      ],
+      "short_trend_summary": "Комплект пижамных шорт в полоску и однотонных, идеальных для домашнего отдыха.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Material composition is a guess based on visual appearance and typical pajama fabrics.",
+        "The white shorts have a subtle texture, possibly seersucker or waffle, categorized as 'textured'.",
+        "The small hearts on the striped shorts are categorized as 'graphic' pattern, alongside 'striped'."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1154451022/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1154451022/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1154451022/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1154451022/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1154451022/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1154451022/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1314450005",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "shorts",
+        "specific_type": "shorts",
+        "commercial_name_ru": "пижамные шорты",
+        "commercial_name_en": "pajama shorts",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "necklace",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "mini",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring",
+          "elasticated_waist",
+          "slits"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white"
+        ],
+        "pattern": "checked",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "loungewear_style",
+        "checked_pattern"
+      ],
+      "seasonality": [
+        "summer",
+        "spring"
+      ],
+      "visible_outfit_items": [
+        "pajama shorts",
+        "bralette",
+        "necklace"
+      ],
+      "styling_context": "loungewear",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "comfortable",
+        "loungewear"
+      ],
+      "short_trend_summary": "Эти пижамные шорты в клетку и однотонные синие — идеальный выбор для комфортного домашнего образа.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product is a 2-pack, one pair is solid light blue, the other is light blue checked. The pattern field only allows one value, so 'checked' was chosen as it's explicitly mentioned in the product color and shown on the model.",
+        "Material guess is based on visual appearance and common pajama fabrics."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1314450005/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1314450005/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1314450005/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1314450005/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1314450005/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1345006001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "tank_top",
+        "commercial_name_ru": "пижамный топ",
+        "commercial_name_en": "Pajama Top",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "cropped",
+        "sleeve_type": "sleeveless",
+        "neckline": "square_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "embroidery",
+          "scalloped_hem",
+          "tie_straps"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "yellow"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "linen_blend"
+        ],
+        "texture": "matte"
+      },
+      "style_tags": [
+        "romantic",
+        "minimal",
+        "classic"
+      ],
+      "trend_tags": [
+        "delicate_details",
+        "lace_trim",
+        "embroidery"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts",
+        "necklace",
+        "earrings"
+      ],
+      "styling_context": "Styled as a nightwear set with matching shorts and minimal jewelry, suggesting a relaxed, indoor aesthetic.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "sleepwear",
+        "romantic",
+        "minimalist"
+      ],
+      "short_trend_summary": "Этот пижамный топ с вышивкой и кружевом отражает тренд на нежное домашнее белье.",
+      "confidence": 0.95,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1345006001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1345006001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1345006001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1345006001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1345006001/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1265169032",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "trousers",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "pink"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "pointelle"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "floral_print"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama pants",
+        "tank top"
+      ],
+      "styling_context": "The pajama pants are styled with a simple white ribbed tank top, creating a comfortable and relaxed loungewear look.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "casual_comfort"
+      ],
+      "short_trend_summary": "Эти пижамные брюки с цветочным принтом и ажурной вязкой идеально подходят для создания уютного домашнего образа.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "exact material composition"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1265169032/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1265169032/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1265169032/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1265169032/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1265169032/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1173636017",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama Set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "short_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "buttons",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "viscose"
+        ],
+        "texture": "jersey_knit"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "pajama_set",
+        "loungewear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "product_shot_on_white_background",
+      "outfit_aesthetic_tags": [
+        "loungewear_aesthetic",
+        "comfort_chic"
+      ],
+      "short_trend_summary": "Этот пижамный комплект из вискозы с шортами и рубашкой является актуальным трендом в домашней одежде.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product category 'pajama_set' is not explicitly listed in the allowed taxonomy, so 'category' and 'subcategory' for main_product are null.",
+        "The 'pockets' detail for the shorts is assumed based on common pajama design, as they are not clearly visible in the image."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 2,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1173636017/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1173636017/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1295408004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": null,
+        "commercial_name_ru": "Пижама",
+        "commercial_name_en": "Pajama set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "shoes",
+          "specific_type": null,
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "knitwear",
+          "specific_type": "jumper",
+          "role": "styling_item",
+          "confidence": 0.7
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "round_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "ruffles"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey"
+        ],
+        "texture": "brushed"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "scalloped_edges",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "long-sleeve pajama top",
+        "wide-leg pajama trousers",
+        "slippers",
+        "draped knit top"
+      ],
+      "styling_context": "The pajama set, consisting of a long-sleeve top and wide-leg trousers, is styled for a comfortable home or loungewear look, paired with soft slippers and a matching knit top draped over the shoulders.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "loungewear",
+        "minimalist"
+      ],
+      "short_trend_summary": "Этот комплект пижамы из мягкого джерси с рюшами отражает тренд на комфортную домашнюю одежду и минимализм.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product 'Pajamas' is not directly present in the allowed taxonomy, so main_product category/specific_type are set to null, and components are listed as main_product visible_items.",
+        "Specific type for slippers is not in taxonomy, closest is mules but not accurate.",
+        "The draped item in one image could be a separate knitwear piece or just the top from the set styled differently, categorized as 'jumper'."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1295408004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1295408004/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1295408004/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1295408004/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1295408004/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1295408004/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1311429002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": null,
+        "commercial_name_ru": "Хлопковая пижама с перфорацией",
+        "commercial_name_en": "Cotton Pointelle Pajamas",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "buttons",
+          "lace",
+          "ribbed",
+          "openwork_knit"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "cozy_chic",
+        "pointelle_knit"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "long sleeve top",
+        "wide leg trousers"
+      ],
+      "styling_context": "Studio shot on a model, showcasing the pajama set as comfortable loungewear.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "minimal",
+        "comfortable"
+      ],
+      "short_trend_summary": "Эта хлопковая пижама с перфорацией и широкими брюками отражает тренд на комфортную и стильную домашнюю одежду.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The specific type 'pajama_set' is not in the allowed taxonomy, so the main product's specific_type is null and its components are listed in 'visible_items'.",
+        "The knit type 'pointelle' is described as 'openwork_knit' in details and 'ribbed' in texture, as 'pointelle' is not an allowed value."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1311429002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1311429002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1311429002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1311429002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1311429002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1311429002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1308285004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "crew_neck",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "ribbed",
+          "pointelle"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "red"
+        ],
+        "pattern": "polka_dot",
+        "material_guess": [
+          "jersey",
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "romantic",
+        "loungewear"
+      ],
+      "trend_tags": [
+        "cozy_chic",
+        "home_wear"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama trousers"
+      ],
+      "styling_context": "The model is casually posing indoors, highlighting the comfort and relaxed fit of the pajama set.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "comfortable",
+        "relaxed"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект из джерси с милым узором в сердечки, идеальный для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set, which is not directly available as a category or specific type in the allowed taxonomy. Its components (longsleeve top and trousers) are listed as main products in visible_items."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1308285004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1308285004/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1308285004/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1308285004/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1308285004/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1308285004/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1348135001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "dress",
+        "subcategory": null,
+        "specific_type": "slip_dress",
+        "commercial_name_ru": "платье-комбинация",
+        "commercial_name_en": "slip dress",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "dress",
+          "specific_type": "slip_dress",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": null,
+        "silhouette": "slip",
+        "length": "midi",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "embroidery"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "viscose",
+          "satin"
+        ],
+        "texture": "satin"
+      },
+      "style_tags": [
+        "romantic",
+        "minimal",
+        "classic",
+        "evening"
+      ],
+      "trend_tags": [
+        "slip_dress_trend",
+        "lingerie_as_outerwear",
+        "satin_fabric",
+        "lace_details",
+        "embroidery_details"
+      ],
+      "seasonality": [
+        "all_season",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "slip dress",
+        "necklace"
+      ],
+      "styling_context": "Styled as a versatile dress for day or evening wear, with minimal accessories, highlighting its potential beyond nightwear.",
+      "outfit_aesthetic_tags": [
+        "minimalist_chic",
+        "romantic_elegance"
+      ],
+      "short_trend_summary": "Элегантное платье-комбинация из вискозного сатина с кружевом и вышивкой, актуальное как для домашнего уюта, так и для создания стильных образов.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The product is described as a 'nightslip' but is styled as a dress, suggesting its versatility for different occasions."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1348135001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1348135001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1348135001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1348135001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1348135001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1348135001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1331937001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "polo",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "sandals",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "double_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink",
+          "white",
+          "brown"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "pajama_dressing",
+        "wide_leg"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama pants",
+        "polo shirt",
+        "sandals"
+      ],
+      "styling_context": "The pajama pants are styled casually with a white short-sleeve polo shirt and sandals, suggesting a relaxed, comfortable look suitable for daytime.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "relaxed"
+      ],
+      "short_trend_summary": "Эти пижамные брюки с широкими штанинами и полосатым принтом отражают тренд на комфортную и расслабленную одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material_guess"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1331937001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1331937001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1331937001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1331937001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1331937001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1331937001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1229130021",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "short_sleeve",
+        "neckline": "crew_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "elasticated_waist",
+          "text_print"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "blue"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "jersey"
+      },
+      "style_tags": [
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "floral_print",
+        "pajama_set"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama shorts"
+      ],
+      "styling_context": "Styled as loungewear/sleepwear, worn by a model in a minimalist setting.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "sleepwear",
+        "minimalist"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект с цветочным принтом, идеальный для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material_guess"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1229130021/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1229130021/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1229130021/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1229130021/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1229130021/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1229130021/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1337330001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "ribbed",
+          "ruffles"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey",
+          "cotton_blend"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "lace_details"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "ribbed camisole top",
+        "ribbed shorts"
+      ],
+      "styling_context": "The model is wearing the pajama set in a relaxed, indoor setting, emphasizing comfort and loungewear.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "cozy",
+        "feminine"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект из ребристого трикотажа с кружевными деталями, идеальный для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific type 'pajama_set' is not directly in the allowed taxonomy, but it's the most accurate description for the main product.",
+        "Exact material composition is not specified, 'jersey' is inferred from the title and visual appearance."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1337330001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1337330001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1337330001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1337330001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1337330001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1337330001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1321522002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "round_neck",
+        "rise": "high_waist",
+        "leg_shape": "wide",
+        "details": [
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": null,
+        "material_guess": [
+          "jersey"
+        ],
+        "texture": "pointelle_knit"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "maternity_wear",
+        "loungewear",
+        "wide_leg"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "long_sleeve_top",
+        "wide_leg_trousers",
+        "socks"
+      ],
+      "styling_context": "The model is wearing the pajama set in a relaxed, indoor setting, sitting on the floor.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "minimal"
+      ],
+      "short_trend_summary": "Этот пижамный комплект для беременных с широкими брюками и лонгсливом сочетает комфорт и минималистичный стиль.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "main_product_category_not_in_taxonomy",
+        "pointelle_pattern_classification"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1321522002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1321522002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1321522002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1321522002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1321522002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1321522002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1269514005",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "regular",
+        "sleeve_type": "short_sleeve",
+        "neckline": "round_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "black"
+        ],
+        "pattern": "graphic",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "romantic"
+      ],
+      "trend_tags": [
+        "maternity_wear",
+        "heart_print",
+        "loungewear_set"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "t-shirt",
+        "shorts"
+      ],
+      "styling_context": "studio_shot",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "maternity_style",
+        "loungewear"
+      ],
+      "short_trend_summary": "Удобный хлопковый пижамный комплект для беременных с милым принтом в сердечки.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "main_product.specific_type 'pajama_set' is not in the allowed taxonomy, but best describes the product being sold as a set."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1269514005/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1269514005/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1269514005/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1269514005/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1269514005/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1269514005/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1295429002",
+    "source": "hm",
+    "status": "error",
+    "gemini_analysis": null,
+    "analysis_meta": {
+      "attempt": 3,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1295429002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1295429002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1295429002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1295429002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1295429002/image_005.jpg"
+      ],
+      "error": "Gemini returned empty response."
+    }
+  },
+  {
+    "product_id": "hm_1229130030",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pyjamas",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "short_sleeve",
+        "neckline": "crew_neck",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "graphic",
+          "elastic_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "pink",
+          "green"
+        ],
+        "pattern": "graphic",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "casual"
+      ],
+      "trend_tags": [
+        "graphic_print",
+        "loungewear",
+        "comfort_wear",
+        "matcha_aesthetic"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "t-shirt",
+        "shorts"
+      ],
+      "styling_context": "The pajama set is styled for comfortable indoor wear, emphasizing a relaxed and casual aesthetic.",
+      "outfit_aesthetic_tags": [
+        "loungewear_aesthetic",
+        "casual_comfort"
+      ],
+      "short_trend_summary": "Этот пижамный комплект с графическим принтом в стиле \"матча-бар\" отражает тренд на комфортную домашнюю одежду и эстетику повседневности.",
+      "confidence": 0.9,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1229130030/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1229130030/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1229130030/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1229130030/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1229130030/image_005.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1243050001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "pajama_pants",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama pants",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "pajama_pants",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "flannel"
+        ],
+        "texture": "brushed"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "striped_pattern"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "pajama pants"
+      ],
+      "styling_context": "product_shot_flat_lay",
+      "outfit_aesthetic_tags": [
+        "loungewear_aesthetic",
+        "cozy_aesthetic"
+      ],
+      "short_trend_summary": "Уютные пижамные брюки в полоску из фланели, идеальные для домашнего отдыха.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "fit and leg_shape are based on visual interpretation from a flat lay image",
+        "material_guess is based on product title, not solely visual analysis"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1243050001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1243050001/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1331926001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект с вышивкой ришелье",
+        "commercial_name_en": "Pajamas with Eyelet Embroidery",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "short_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "embroidery",
+          "eyelet_embroidery",
+          "elastic_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "romantic",
+        "casual"
+      ],
+      "trend_tags": [
+        "eyelet_embroidery",
+        "matching_set",
+        "loungewear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama shorts"
+      ],
+      "styling_context": "The pajama set is styled on a model, worn as comfortable loungewear or sleepwear.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "sleepwear",
+        "romantic",
+        "comfortable"
+      ],
+      "short_trend_summary": "Белый пижамный комплект с шортами и рубашкой, украшенный ажурной вышивкой ришелье, идеально подходит для весенне-летнего сезона.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "material_composition_guess"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1331926001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1331926001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1331926001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1331926001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1331926001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1331926001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1321075002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "round_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "ribbed",
+          "scalloped_trim",
+          "decorative_button"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "brown"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey",
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear_set",
+        "ribbed_knit",
+        "cozy_chic"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama pants"
+      ],
+      "styling_context": "at_home_loungewear",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "comfortable",
+        "minimalist"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект из ребристого трикотажа в трендовом коричневом цвете.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "exact material composition not specified",
+        "rise of pants is an estimation"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1321075002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1321075002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1321075002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1321075002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1321075002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1321075002/image_006.jpg",
+        "data/hm/2026-07-08/images/hm_1321075002/image_007.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1332440003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижама с кружевом",
+        "commercial_name_en": "Lace-Trimmed Pajamas",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "lace"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey",
+          "lace"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "romantic",
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "lace_trim",
+        "wide_leg_pants"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "camisole top",
+        "wide-leg pants",
+        "necklace"
+      ],
+      "styling_context": "The pajama set is styled simply on a model against a plain background, emphasizing comfort and the delicate lace details. A simple necklace is added for a touch of elegance.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "sleepwear",
+        "romantic_minimalism"
+      ],
+      "short_trend_summary": "Эта пижама с кружевной отделкой и широкими брюками сочетает комфорт и романтичные детали, что делает ее актуальной для домашнего гардероба.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set, which is not explicitly listed as a 'specific_type' in the allowed taxonomy. The 'category' for the main product is set to null because 'nightwear' (from product context) is not a top-level category in the provided allowed taxonomy list. Its components are listed in 'visible_items' using the allowed taxonomy."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 2,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1332440003/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1332440003/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1332440003/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1332440003/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1332440003/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1332440003/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1243790003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Фланелевая пижама",
+        "commercial_name_en": "Flannel Pajamas",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_length": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "red"
+        ],
+        "pattern": "checked",
+        "material_guess": [
+          "flannel"
+        ],
+        "texture": "brushed"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "plaid_pattern",
+        "loungewear"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama bottom"
+      ],
+      "styling_context": "studio_shot",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "comfortable"
+      ],
+      "short_trend_summary": "Классическая фланелевая пижама в клетку для комфортного домашнего образа.",
+      "confidence": 1.0,
+      "uncertainty": [
+        "The 'nightwear' category is not in the allowed taxonomy, so main_product.category and subcategory are set to null."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1243790003/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1243790003/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1255910006",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": null,
+        "commercial_name_ru": "Муслиновая пижама для беременных",
+        "commercial_name_en": "Muslin Maternity Pajama Set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "blue"
+        ],
+        "pattern": "graphic",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "romantic"
+      ],
+      "trend_tags": [
+        "maternity_wear",
+        "loungewear_set",
+        "muslin_fabric",
+        "heart_print"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama shorts"
+      ],
+      "styling_context": "The pajama set is styled on a model, showcasing its relaxed fit and suitability for maternity wear and loungewear.",
+      "outfit_aesthetic_tags": [
+        "casual_comfort",
+        "maternity_style",
+        "relaxed_home_wear"
+      ],
+      "short_trend_summary": "Удобная муслиновая пижама с принтом в виде сердец, идеальная для комфортного домашнего отдыха и периода беременности.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "Classification of 'pajama set' within the provided taxonomy as it's not a direct category."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1255910006/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1255910006/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1255910006/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1255910006/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1255910006/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1255910006/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1321077001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": null,
+        "commercial_name_ru": "Пижама из ворсистого джерси",
+        "commercial_name_en": "Brushed Jersey Pajamas",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "crew_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "buttons"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "grey"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "jersey"
+        ],
+        "texture": "brushed"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "relaxed_fit",
+        "wide_leg"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "longsleeve top",
+        "wide-leg trousers"
+      ],
+      "styling_context": "The pajama set is styled on a model in a studio setting, emphasizing comfort and relaxed fit. The model is barefoot, reinforcing the loungewear aspect.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "comfortable",
+        "minimalist"
+      ],
+      "short_trend_summary": "Уютная пижама из джерси с широкими брюками и свободным лонгсливом, отражающая тренд на комфортную домашнюю одежду.",
+      "confidence": 1.0,
+      "uncertainty": [
+        "The product is a pajama set, which is not a single specific_type in the allowed taxonomy. Components are listed in visible_items."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1321077001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1321077001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1321077001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1321077001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1321077001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1321077001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1243050010",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "trousers",
+        "commercial_name_ru": "фланелевые пижамные брюки",
+        "commercial_name_en": "flannel pajama pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring",
+          "elasticated_waistband"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "grey"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "flannel",
+          "cotton"
+        ],
+        "texture": "soft"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "comfort_wear",
+        "striped_pattern"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "pajama pants"
+      ],
+      "styling_context": "product shot on white background",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти фланелевые пижамные брюки в полоску идеально подходят для уютного домашнего отдыха в холодное время года.",
+      "confidence": 1.0,
+      "uncertainty": [
+        "exact fiber composition of flannel is not specified"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1243050010/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1243050010/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0970593035",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижама из джерси",
+        "commercial_name_en": "Jersey Pajamas",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": "short_sleeve",
+        "neckline": "crew_neck",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "black"
+        ],
+        "pattern": "graphic",
+        "material_guess": [
+          "jersey"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "romantic"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "matching_set",
+        "heart_print"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama pants"
+      ],
+      "styling_context": "The model is wearing the pajama set in a relaxed, indoor setting, suggesting loungewear or sleepwear.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "cozy",
+        "minimal"
+      ],
+      "short_trend_summary": "Уютная пижама из джерси с принтом в виде сердечек, актуальная для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific type 'pajama_set' is not explicitly in the allowed taxonomy, so it is represented by its components (t-shirt and trousers) in visible_items.",
+        "The pattern 'hearts' is categorized as 'graphic' as 'hearts' is not an allowed pattern type."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_0970593035/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_0970593035/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_0970593035/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_0970593035/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_0970593035/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_0970593035/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_0998802038",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "пижамный комплект",
+        "commercial_name_en": "pajama set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "buttons",
+          "pockets",
+          "piping"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "grey",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "viscose_blend"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "matching_set",
+        "piping_details"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama top",
+        "pajama pants"
+      ],
+      "styling_context": "The model is wearing the full pajama set, styled casually for home wear. The top is sometimes slightly unbuttoned for a relaxed look.",
+      "outfit_aesthetic_tags": [
+        "loungewear_chic",
+        "cozy_comfort"
+      ],
+      "short_trend_summary": "Серый пижамный комплект из вискозы с контрастной окантовкой — это модный элемент домашнего гардероба в стиле минимализм и комфорт.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The category 'pajama_set' is not explicitly in the allowed taxonomy, but it is the most accurate description of the product.",
+        "The specific blend of the viscose material is not detailed."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_0998802038/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_0998802038/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_0998802038/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_0998802038/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_0998802038/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_0998802038/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1296218003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": null,
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "t_shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "short_sleeve",
+        "neckline": "round_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "ribbed",
+          "ruffles",
+          "pointelle"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_grey"
+        ],
+        "pattern": "pointelle",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "basic",
+        "casual"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "lettuce_hem"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "short-sleeve top",
+        "shorts"
+      ],
+      "styling_context": "flat_lay_on_white_background",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "comfortable"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект из ребристого трикотажа с ажурным узором и воланами по краям.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set, which does not have a direct category in the allowed taxonomy. It is represented as a set of a top and bottom in visible_items.",
+        "Exact material composition is not specified.",
+        "Rise of the shorts is not clearly visible."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1296218003/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1296218003/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1262175001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pyjamas",
+        "commercial_name_ru": "Муслиновая пижама",
+        "commercial_name_en": "Cotton Muslin Pajamas",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white",
+          "red"
+        ],
+        "pattern": "graphic",
+        "material_guess": [
+          "cotton",
+          "muslin"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "romantic"
+      ],
+      "trend_tags": [
+        "pajama_set",
+        "loungewear",
+        "heart_print"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama trousers"
+      ],
+      "styling_context": "The pajamas are styled as a comfortable loungewear set, with the shirt partially unbuttoned for a relaxed look.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "homewear"
+      ],
+      "short_trend_summary": "Легкая муслиновая пижама с принтом в виде сердец, идеальная для домашнего комфорта.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Specific type for 'pyjamas' as a set is not directly in taxonomy, using 'pyjamas' as the specific type for the main product and breaking down components in visible_items."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1262175001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1262175001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1262175001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1262175001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1262175001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1262175001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1311429001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": null,
+        "specific_type": null,
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama Set",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "accessories",
+          "specific_type": "scarf",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "v_neck",
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "ribbed",
+          "lace_trim",
+          "decorative_flower"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "grey",
+          "white",
+          "green"
+        ],
+        "pattern": null,
+        "material_guess": [
+          "cotton_knit"
+        ],
+        "texture": "ribbed_knit"
+      },
+      "style_tags": [
+        "casual",
+        "basic",
+        "minimal"
+      ],
+      "trend_tags": [
+        "ribbed_knit",
+        "pointelle_knit"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "longsleeve top",
+        "wide leg trousers",
+        "scarf"
+      ],
+      "styling_context": "Styled as comfortable loungewear/nightwear at home, with an added scarf for coziness.",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "homewear"
+      ],
+      "short_trend_summary": "Уютный пижамный комплект из ребристого трикотажа с ажурным узором и V-образным вырезом.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product 'Pajamas' is a set, which does not directly fit into a single category from the provided taxonomy. Therefore, 'category', 'subcategory', and 'specific_type' for 'main_product' are set to null, and its components (top and bottom) are listed in 'visible_items' with 'main_product' role.",
+        "The small decorative element on the neckline is a bow/flower, not a functional button."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1311429001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1311429001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1311429001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1311429001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1311429001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1311429001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1234581017",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "pyjamas",
+        "specific_type": "trousers",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama pants",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "loungewear",
+        "striped_pattern"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama pants"
+      ],
+      "styling_context": "isolated_product_shot",
+      "outfit_aesthetic_tags": [
+        "comfortable_aesthetic",
+        "minimal_aesthetic"
+      ],
+      "short_trend_summary": "Эти пижамные брюки в полоску представляют собой комфортный и базовый элемент домашнего гардероба.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The specific type 'pajama_pants' is not available in the allowed taxonomy, so 'trousers' was used as the closest category."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1234581017/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1234581017/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1224147009",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "nightwear",
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Пижамный комплект",
+        "commercial_name_en": "Pajama set",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "pockets",
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "pink"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "crinkled"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "loungewear_chic",
+        "relaxed_fit",
+        "gauze_fabric"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama shorts"
+      ],
+      "styling_context": "studio_shot_flat_lay",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "minimalist",
+        "loungewear"
+      ],
+      "short_trend_summary": "Этот пижамный комплект из легкой жатой ткани в нежном розовом цвете отражает тренд на комфортную и минималистичную домашнюю одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "specific_type_pajama_set_not_in_taxonomy",
+        "material_composition_not_specified",
+        "sleeve_length_styling"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1224147009/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1224147009/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1312504003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": null,
+        "subcategory": "pyjamas",
+        "specific_type": "pajama_set",
+        "commercial_name_ru": "Фланелевая пижама",
+        "commercial_name_en": "Cotton Flannel Pajamas",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "bralette",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": null,
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "mid_waist",
+        "leg_shape": "straight",
+        "details": [
+          "buttons",
+          "drawstring",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "red",
+          "white",
+          "black",
+          "green"
+        ],
+        "pattern": "checked",
+        "material_guess": [
+          "flannel",
+          "cotton"
+        ],
+        "texture": "brushed"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "plaid_pattern",
+        "flannel",
+        "loungewear"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "flannel plaid shirt",
+        "flannel plaid trousers",
+        "white bralette"
+      ],
+      "styling_context": "The pajama set is styled casually for loungewear, with the shirt worn open over a bralette.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "cozy"
+      ],
+      "short_trend_summary": "Уютная фланелевая пижама в клетку, идеальная для домашнего отдыха в холодное время года.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "main_product.category is null because 'nightwear' is not in the allowed taxonomy and the product is a set of top and bottom.",
+        "main_product.specific_type 'pajama_set' is not in the allowed taxonomy.",
+        "visible_items specific_type 'bralette' is not in the allowed taxonomy."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1312504003/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1312504003/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1312504003/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1312504003/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1312504003/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1312504003/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1324287001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "trousers",
+        "commercial_name_ru": "пижамные брюки",
+        "commercial_name_en": "pajama trousers",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "longsleeve",
+          "role": "styling_item",
+          "confidence": 0.85
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "wide",
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "buttons"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white"
+        ],
+        "pattern": "checked",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "checked_pattern",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "white long-sleeve top",
+        "light blue checked pajama trousers"
+      ],
+      "styling_context": "casual_at_home",
+      "outfit_aesthetic_tags": [
+        "cozy",
+        "relaxed",
+        "casual"
+      ],
+      "short_trend_summary": "Удобные пижамные брюки в клетку с расслабленным силуэтом, идеально подходящие для домашнего отдыха.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a pajama set, but due to schema limitations, the checked trousers are identified as the main product, and the white long-sleeve top is listed as a styling item."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1324287001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1324287001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1324287001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1324287001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1324287001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1324287001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1325043001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "shirt",
+        "commercial_name_ru": "Пижамная рубашка",
+        "commercial_name_en": "Pajama shirt",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": null,
+        "length": "hip_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "embroidery"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue",
+          "white",
+          "blue",
+          "metallic"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "classic",
+        "romantic"
+      ],
+      "trend_tags": [
+        "pajama_style",
+        "embellished_details",
+        "striped_pattern"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pajama shirt",
+        "pajama trousers",
+        "bra",
+        "briefs",
+        "ring"
+      ],
+      "styling_context": "The main product is styled as part of a matching pajama set, and also worn open over lingerie, suggesting a relaxed, intimate, or loungewear context.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "sleepwear",
+        "relaxed"
+      ],
+      "short_trend_summary": "Эта пижамная рубашка с вышивкой и полосками сочетает классический комфорт с игривыми деталями.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific type of embellishment (e.g., insect, bird) is not explicitly stated, but it is clearly an embroidery/sequin detail."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1325043001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1325043001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1325043001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1325043001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1325043001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1325043001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1296154001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "dress",
+        "subcategory": null,
+        "specific_type": "shirt_dress",
+        "commercial_name_ru": "ночная рубашка",
+        "commercial_name_en": "nightshirt",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "dress",
+          "specific_type": "shirt_dress",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "top",
+          "specific_type": "bodysuit",
+          "role": "styling_item",
+          "confidence": 0.8
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "mini",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "chest_pocket",
+          "contrast_piping"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black",
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "basic",
+        "casual",
+        "minimal"
+      ],
+      "trend_tags": [
+        "maternity_wear",
+        "loungewear",
+        "pajama_style"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "nightshirt",
+        "bodysuit",
+        "shorts"
+      ],
+      "styling_context": "Styled as comfortable loungewear, worn open over a maternity bodysuit and shorts.",
+      "outfit_aesthetic_tags": [
+        "comfort",
+        "loungewear",
+        "maternity"
+      ],
+      "short_trend_summary": "Удобная ночная рубашка в пижамном стиле для будущих мам.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "Specific type 'nightshirt' is not in taxonomy, using 'shirt_dress' as closest fit based on visual characteristics and length.",
+        "Exact type of inner garment (bodysuit vs. camisole and shorts) is an estimation, 'bodysuit' chosen for maternity context."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1296154001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1296154001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1296154001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1296154001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1296154001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1296154001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1229229011",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "Широкие брюки в полоску",
+        "commercial_name_en": "Striped Wide-Leg Trousers",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "pockets"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black",
+          "white"
+        ],
+        "pattern": "striped",
+        "material_guess": [
+          "cotton",
+          "knit"
+        ],
+        "texture": "ribbed"
+      },
+      "style_tags": [
+        "casual",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "striped_pattern",
+        "loungewear"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "wide-leg trousers",
+        "tank top"
+      ],
+      "styling_context": "Styled casually for loungewear or relaxed home wear.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "minimal"
+      ],
+      "short_trend_summary": "Эти широкие брюки в полоску из хлопкового смесового материала идеально подходят для создания комфортного и стильного домашнего образа.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Exact material composition is not specified beyond 'Cotton-Blend'.",
+        "The presence of pockets is inferred from the flat lay image, not explicitly visible in all model shots."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1229229011/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1229229011/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1229229011/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1229229011/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1229229011/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1229229011/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1277374003",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "drawstring_trousers",
+        "commercial_name_ru": "брюки на кулиске",
+        "commercial_name_en": "drawstring trousers",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "drawstring_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "linen_blend"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "drawstring_waist",
+        "linen_blend",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "trousers"
+      ],
+      "styling_context": "flat_lay",
+      "outfit_aesthetic_tags": [
+        "minimal",
+        "casual"
+      ],
+      "short_trend_summary": "Эти белые брюки на кулиске из льняной смеси отражают тренд на расслабленный и минималистичный стиль.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "Exact rise (mid_waist vs high_waist) is an estimation from flat lay."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1277374003/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1277374003/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1292524001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": null,
+        "specific_type": "knit_top",
+        "commercial_name_ru": "вязаный комплект для беременных",
+        "commercial_name_en": "maternity knit set",
+        "confidence": 0.85
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "knit_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "skirt",
+          "specific_type": "mini_skirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "shoes",
+          "specific_type": "boots",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "mini",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "high_waist",
+        "leg_shape": null,
+        "details": [
+          "ribbed",
+          "pearls"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "grey"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed_knit"
+      },
+      "style_tags": [
+        "casual",
+        "classic",
+        "minimal",
+        "preppy"
+      ],
+      "trend_tags": [
+        "knit_set",
+        "co_ord_set",
+        "collared_knit",
+        "pearl_embellishment"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter"
+      ],
+      "visible_outfit_items": [
+        "knit top",
+        "mini skirt",
+        "boots"
+      ],
+      "styling_context": "The two-piece knit set is styled with knee-high boots, presenting a comfortable yet chic look suitable for cooler weather.",
+      "outfit_aesthetic_tags": [
+        "casual",
+        "classic",
+        "minimal"
+      ],
+      "short_trend_summary": "Этот вязаный комплект для беременных с жемчужным воротником сочетает комфорт и классический стиль, актуальный для осенне-зимнего сезона.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is a 2-piece set, but the 'main_product' schema expects a single item. The knit top was chosen as the primary specific_type, with both pieces listed in 'visible_items'.",
+        "The product context keyword 'nightwear' and category_path 'bottoms' contradict the product title '2-Piece Knit Set' and visual styling as daywear."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1292524001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1292524001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1292524001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1292524001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1292524001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1292524001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1323131002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": "vests",
+        "specific_type": "tank_top",
+        "commercial_name_ru": "Атласная майка-камисоль с кружевом",
+        "commercial_name_en": "Lace-Trimmed Satin Camisole Top",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "tank_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "shoes",
+          "specific_type": "heels",
+          "role": "styling_item",
+          "confidence": 0.9
+        },
+        {
+          "category": "accessories",
+          "specific_type": "jewelry",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "regular",
+        "silhouette": "straight",
+        "length": null,
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "lace"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "black"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "satin",
+          "lace"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "romantic",
+        "evening",
+        "basic",
+        "nightwear"
+      ],
+      "trend_tags": [
+        "lingerie_as_outerwear",
+        "satin_finish",
+        "lace_details"
+      ],
+      "seasonality": [
+        "spring",
+        "summer",
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "lace-trimmed satin camisole top",
+        "lace-trimmed shorts",
+        "heels",
+        "hoop earrings"
+      ],
+      "styling_context": "The camisole is styled as nightwear with matching lace-trimmed shorts, and also as an evening/casual top paired with high heels and hoop earrings, highlighting its versatility.",
+      "outfit_aesthetic_tags": [
+        "lingerie_chic",
+        "nightwear_as_daywear",
+        "romantic_glam"
+      ],
+      "short_trend_summary": "Эта атласная майка-камисоль с кружевом отражает тренд на бельевой стиль и может быть использована как для сна, так и для создания вечерних образов.",
+      "confidence": 1.0,
+      "uncertainty": []
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1323131002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1323131002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1323131002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1323131002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1323131002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1323131002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1292524002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "knitwear",
+        "subcategory": null,
+        "specific_type": "knit_set",
+        "commercial_name_ru": "Вязаный комплект из двух предметов",
+        "commercial_name_en": "2-Piece Knit Set",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "knitwear",
+          "specific_type": "knit_top",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "skirt",
+          "specific_type": "midi_skirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "shoes",
+          "specific_type": "boots",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "midi",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": "high_waist",
+        "leg_shape": null,
+        "details": [
+          "pearls",
+          "ribbed"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "knit"
+        ],
+        "texture": "ribbed_knit"
+      },
+      "style_tags": [
+        "classic",
+        "minimal",
+        "casual",
+        "preppy"
+      ],
+      "trend_tags": [
+        "pearl_embellishment",
+        "knit_set",
+        "maternity_wear",
+        "cozy_chic"
+      ],
+      "seasonality": [
+        "autumn",
+        "winter",
+        "spring"
+      ],
+      "visible_outfit_items": [
+        "knit top",
+        "knit skirt",
+        "knee-high boots"
+      ],
+      "styling_context": "The knit set is styled with black knee-high boots, creating a chic and comfortable look. The first image shows it on a pregnant model, highlighting its maternity design, while other images show it on a non-maternity model, demonstrating its versatility.",
+      "outfit_aesthetic_tags": [
+        "classic",
+        "minimal",
+        "cozy_chic",
+        "preppy"
+      ],
+      "short_trend_summary": "Уютный вязаный комплект из двух предметов с воротником, украшенным жемчугом, идеально подходит для создания классического и минималистичного образа.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product context keyword 'nightwear' seems inconsistent with the styling in the images (worn with boots, pearl embellishment).",
+        "The product context category path 'bottoms' is incorrect as it's a 2-piece set including a top and a skirt.",
+        "The exact material composition is unknown, only guessed as knit."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1292524002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1292524002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1292524002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1292524002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1292524002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1292524002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1357683001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "shirt",
+        "commercial_name_ru": "Пижамная рубашка",
+        "commercial_name_en": "Pajama Shirt",
+        "confidence": 0.9
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.9
+        },
+        {
+          "category": "bottom",
+          "specific_type": "shorts",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "hip_length",
+        "sleeve_type": "short_sleeve",
+        "neckline": "collared",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "lace",
+          "embroidery"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige",
+          "pink",
+          "green"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "linen_blend"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "casual",
+        "romantic",
+        "boho"
+      ],
+      "trend_tags": [
+        "floral_embroidery",
+        "lace_details",
+        "loungewear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "shirt",
+        "shorts"
+      ],
+      "styling_context": "Styled as a matching loungewear set.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "romantic",
+        "casual"
+      ],
+      "short_trend_summary": "Эта пижамная рубашка с цветочной вышивкой и кружевными вставками отражает тренд на романтичную и комфортную домашнюю одежду.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product context categorizes this item as 'nightwear', which is not an allowed main category in the provided taxonomy. It has been classified as 'top' with 'shirt' as specific_type based on its functional form.",
+        "The exact material composition is not specified beyond 'Linen-Blend'."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1357683001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1357683001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1357683001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1357683001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1357683001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1357683001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1277374004",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": null,
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "широкие льняные брюки на завязках",
+        "commercial_name_en": "linen-blend drawstring pants",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 1.0
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "linen_blend"
+        ],
+        "texture": "woven"
+      },
+      "style_tags": [
+        "basic",
+        "minimal",
+        "casual",
+        "quiet_luxury"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "drawstring_waist",
+        "linen_blend",
+        "relaxed_fit",
+        "neutral_palette"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "wide leg trousers"
+      ],
+      "styling_context": "product_shot_isolated",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти широкие льняные брюки на завязках идеально подходят для создания расслабленного и комфортного образа в стиле минимализм.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "rise_estimation_without_model"
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 2,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1277374004/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1277374004/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1311522001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": null,
+        "specific_type": "shirt",
+        "commercial_name_ru": "пижамная рубашка",
+        "commercial_name_en": "pyjama shirt",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "shirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "bottom",
+          "specific_type": "trousers",
+          "role": "styling_item",
+          "confidence": 0.9
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "hip_length",
+        "sleeve_type": "long_sleeve",
+        "neckline": "collared",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "buttons",
+          "embellishment",
+          "cuffs"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "white"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "satin"
+        ],
+        "texture": "smooth"
+      },
+      "style_tags": [
+        "nightwear",
+        "romantic",
+        "classic",
+        "minimal"
+      ],
+      "trend_tags": [
+        "pyjama_dressing",
+        "embellished_details",
+        "satin_fabric"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "pyjama shirt",
+        "pyjama trousers"
+      ],
+      "styling_context": "The pyjama shirt is styled as part of a matching pyjama set, worn as loungewear/nightwear.",
+      "outfit_aesthetic_tags": [
+        "loungewear",
+        "nightwear",
+        "relaxed_chic"
+      ],
+      "short_trend_summary": "Элегантная пижамная рубашка из атласа с деликатными украшениями, идеально подходящая для домашнего отдыха или создания расслабленного образа.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product context specifies 'White' color, but visually it appears to be an off-white or cream shade.",
+        "The embellishments are small and shiny, likely rhinestones, but the exact type is not specified."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1311522001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1311522001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1311522001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1311522001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1311522001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1311522001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1277374002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "bottom",
+        "subcategory": "trousers",
+        "specific_type": "wide_leg_trousers",
+        "commercial_name_ru": "Широкие брюки на кулиске из льняной смеси",
+        "commercial_name_en": "Linen-Blend Drawstring Pants",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "bottom",
+          "specific_type": "wide_leg_trousers",
+          "role": "main_product",
+          "confidence": 0.95
+        }
+      ],
+      "attributes": {
+        "fit": "wide",
+        "silhouette": null,
+        "length": "full_length",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": "wide",
+        "details": [
+          "drawstring",
+          "elasticated_waist"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "light_blue"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "linen_blend"
+        ],
+        "texture": "woven"
+      },
+      "style_tags": [
+        "casual",
+        "minimal",
+        "basic"
+      ],
+      "trend_tags": [
+        "wide_leg",
+        "drawstring_waist",
+        "linen_blend",
+        "relaxed_fit"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "trousers"
+      ],
+      "styling_context": "studio_shot_flat_lay",
+      "outfit_aesthetic_tags": [],
+      "short_trend_summary": "Эти широкие брюки на кулиске из льняной смеси идеально подходят для создания расслабленного летнего образа.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The product is categorized as 'nightwear' in the source data, but visually and by common fashion taxonomy, it is classified as 'wide_leg_trousers' which can be worn as loungewear or casual daywear."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1277374002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1277374002/image_002.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1336298002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "top",
+        "subcategory": "crop_top",
+        "specific_type": "lace top",
+        "commercial_name_ru": "Короткий кружевной топ",
+        "commercial_name_en": "Short Lace Top",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "skirt",
+          "specific_type": "midi_skirt",
+          "role": "styling_item",
+          "confidence": 0.85
+        }
+      ],
+      "attributes": {
+        "fit": "tight",
+        "silhouette": null,
+        "length": "cropped",
+        "sleeve_type": "sleeveless",
+        "neckline": "v_neck",
+        "rise": null,
+        "leg_shape": null,
+        "details": [
+          "lace"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "red"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "lace",
+          "mesh"
+        ],
+        "texture": "sheer"
+      },
+      "style_tags": [
+        "romantic",
+        "evening"
+      ],
+      "trend_tags": [
+        "lace_details",
+        "sheer_fabric",
+        "dark_romance"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "lace crop top",
+        "lace midi skirt",
+        "lace briefs"
+      ],
+      "styling_context": "Styled as a matching lingerie set with a lace midi skirt and lace briefs.",
+      "outfit_aesthetic_tags": [
+        "romantic",
+        "sensual",
+        "coordinating_set"
+      ],
+      "short_trend_summary": "Короткий кружевной топ темно-красного цвета, выполненный из полупрозрачного материала с цветочным узором, отражает тренд на романтичное белье.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific type of the top could also be considered a camisole, but crop_top is the closest in the provided taxonomy.",
+        "Lace briefs are visible but do not fit into the allowed 'bottom' specific_type taxonomy for visible_items."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1336298002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1336298002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1336298002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1336298002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1336298002/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1336298002/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1348120001",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "skirt",
+        "subcategory": "midi_skirt",
+        "specific_type": null,
+        "commercial_name_ru": "Атласная юбка-слип",
+        "commercial_name_en": "Satin Slip Skirt",
+        "confidence": 0.95
+      },
+      "visible_items": [
+        {
+          "category": "skirt",
+          "specific_type": "midi_skirt",
+          "role": "main_product",
+          "confidence": 0.95
+        },
+        {
+          "category": "top",
+          "specific_type": null,
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "relaxed",
+        "silhouette": "straight",
+        "length": "midi",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "elasticated_waist",
+          "lace_trim",
+          "slit"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "beige"
+        ],
+        "pattern": "solid",
+        "material_guess": [
+          "viscose",
+          "satin"
+        ],
+        "texture": "silky"
+      },
+      "style_tags": [
+        "romantic",
+        "basic",
+        "evening"
+      ],
+      "trend_tags": [
+        "slip_skirt",
+        "lingerie_as_outerwear",
+        "lace_details",
+        "satin_fabric"
+      ],
+      "seasonality": [
+        "all_season"
+      ],
+      "visible_outfit_items": [
+        "satin slip skirt",
+        "satin bralette",
+        "necklace"
+      ],
+      "styling_context": "Styled as a matching nightwear set, suggesting a boudoir or intimate aesthetic.",
+      "outfit_aesthetic_tags": [
+        "boudoir_chic",
+        "lingerie_chic",
+        "romantic",
+        "minimal"
+      ],
+      "short_trend_summary": "Эта атласная юбка-слип с кружевом отражает тренд на бельевой стиль и романтическую эстетику.",
+      "confidence": 0.9,
+      "uncertainty": [
+        "The specific_type 'bralette' for the styling item (top) is not explicitly listed in the allowed taxonomy for 'top'."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1348120001/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1348120001/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1348120001/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1348120001/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1348120001/image_005.jpg",
+        "data/hm/2026-07-08/images/hm_1348120001/image_006.jpg"
+      ],
+      "error": null
+    }
+  },
+  {
+    "product_id": "hm_1314304002",
+    "source": "hm",
+    "status": "ok",
+    "gemini_analysis": {
+      "main_product": {
+        "category": "skirt",
+        "subcategory": "midi_skirt",
+        "specific_type": "midi_skirt",
+        "commercial_name_ru": "кружевная юбка миди",
+        "commercial_name_en": "lace midi skirt",
+        "confidence": 1.0
+      },
+      "visible_items": [
+        {
+          "category": "skirt",
+          "specific_type": "midi_skirt",
+          "role": "main_product",
+          "confidence": 1.0
+        },
+        {
+          "category": "top",
+          "specific_type": "crop_top",
+          "role": "styling_item",
+          "confidence": 0.8
+        }
+      ],
+      "attributes": {
+        "fit": "slim",
+        "silhouette": "straight",
+        "length": "midi",
+        "sleeve_type": null,
+        "neckline": null,
+        "rise": "mid_waist",
+        "leg_shape": null,
+        "details": [
+          "lace",
+          "sheer",
+          "scalloped_hem"
+        ]
+      },
+      "visual_features": {
+        "colors": [
+          "burgundy"
+        ],
+        "pattern": "floral",
+        "material_guess": [
+          "lace"
+        ],
+        "texture": "sheer"
+      },
+      "style_tags": [
+        "romantic",
+        "evening"
+      ],
+      "trend_tags": [
+        "lace_trend",
+        "sheer_fashion",
+        "lingerie_as_outerwear"
+      ],
+      "seasonality": [
+        "spring",
+        "summer"
+      ],
+      "visible_outfit_items": [
+        "lace midi skirt",
+        "lace camisole",
+        "lace bralette",
+        "underwear"
+      ],
+      "styling_context": "The skirt is styled as part of a matching sheer lace set, worn with a camisole and bralette, emphasizing a boudoir or lingerie-as-outerwear aesthetic.",
+      "outfit_aesthetic_tags": [
+        "boudoir",
+        "romantic",
+        "lingerie_as_outerwear"
+      ],
+      "short_trend_summary": "Эта бордовая кружевная юбка миди отражает тренды на прозрачные ткани и бельевой стиль в моде.",
+      "confidence": 0.95,
+      "uncertainty": [
+        "The specific type of the styling top (camisole) is approximated as 'crop_top' due to taxonomy limitations.",
+        "The bralette and underwear are not included in 'visible_items' as they are not in the provided taxonomy for primary fashion items."
+      ]
+    },
+    "analysis_meta": {
+      "attempt": 1,
+      "images_used": [
+        "data/hm/2026-07-08/images/hm_1314304002/image_001.jpg",
+        "data/hm/2026-07-08/images/hm_1314304002/image_002.jpg",
+        "data/hm/2026-07-08/images/hm_1314304002/image_003.jpg",
+        "data/hm/2026-07-08/images/hm_1314304002/image_004.jpg",
+        "data/hm/2026-07-08/images/hm_1314304002/image_005.jpg"
+      ],
+      "error": null
+    }
   }
 ]

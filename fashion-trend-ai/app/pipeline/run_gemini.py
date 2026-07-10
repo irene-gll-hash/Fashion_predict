@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any
 from dotenv import load_dotenv
 from app.ai.gemini_client import GeminiFashionClient
-from app.storage.gcs_storage import upload_run_dir_if_enabled
+from app.storage.gcs_storage import download_run_dir_if_needed, upload_run_dir_if_enabled
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
@@ -101,9 +101,11 @@ def main() -> None:
     model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
     if not project:
         raise ValueError("GOOGLE_CLOUD_PROJECT is not set in .env")
-    run_dir = PROJECT_ROOT / "data" / "processed" / "runs" / args.run_date if args.run_date else get_latest_run_dir()
-    if not run_dir.exists():
-        raise FileNotFoundError(f"Run directory not found: {run_dir}")
+    if args.run_date:
+        run_dir = PROJECT_ROOT / "data" / "processed" / "runs" / args.run_date
+        download_run_dir_if_needed(run_dir)
+    else:
+        run_dir = get_latest_run_dir()
     output_path = run_dir / "fashion_attributes.json"
     segmentations_data = load_segmentations(run_dir)
     crop_items = collect_crop_items(segmentations_data)
